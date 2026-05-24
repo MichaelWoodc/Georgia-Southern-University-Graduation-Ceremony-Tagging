@@ -74,7 +74,8 @@
                     <td>${row.ocr_text}</td>
                     <td>${row.timestamp}</td>
                     <td>
-                        <a class="btn" href="${yt}" target="_blank">View On Youtube</a>
+                        <a class="btn" href="${yt}" target="_blank">View Clip</a>
+                        <button class="btn btn-export" onclick="exportClip(${index})">Export Clip</button>
                     </td>
                 `;
                 tbody.appendChild(tr);

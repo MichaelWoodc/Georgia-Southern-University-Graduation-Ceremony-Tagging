@@ -1,124 +1,5 @@
 [
 {
-  "index": "136",
-  "timestamp": "00:38:06.538",
-  "label": "frame",
-  "ocr_text": "Jiann-Ping Hsu College of Public Health",
-  "confidence": "95.17"
-},
-{
-  "index": "273",
-  "timestamp": "00:38:11.109",
-  "label": "frame",
-  "ocr_text": "Breyonna Brown",
-  "confidence": "93.50"
-},
-{
-  "index": "463",
-  "timestamp": "00:38:17.449",
-  "label": "frame",
-  "ocr_text": "Kayla Diane Howard\nCum Laude",
-  "confidence": "96.00"
-},
-{
-  "index": "689",
-  "timestamp": "00:38:24.990",
-  "label": "frame",
-  "ocr_text": "Laura Esquivel",
-  "confidence": "95.00"
-},
-{
-  "index": "892",
-  "timestamp": "00:38:31.763",
-  "label": "frame",
-  "ocr_text": "Parker College of Business",
-  "confidence": "96.00"
-},
-{
-  "index": "981",
-  "timestamp": "00:38:34.733",
-  "label": "frame",
-  "ocr_text": "Summer Denise Linton",
-  "confidence": "96.00"
-},
-{
-  "index": "1498",
-  "timestamp": "00:38:51.983",
-  "label": "frame",
-  "ocr_text": "JeCory Cle\u2019mons Robinson",
-  "confidence": "93.00"
-},
-{
-  "index": "1659",
-  "timestamp": "00:38:57.355",
-  "label": "frame",
-  "ocr_text": "Brett Bronistaw Duszak",
-  "confidence": "92.33"
-},
-{
-  "index": "1934",
-  "timestamp": "00:39:06.531",
-  "label": "frame",
-  "ocr_text": "Christopher Robert Bunker",
-  "confidence": "96.00"
-},
-{
-  "index": "2262",
-  "timestamp": "00:39:17.475",
-  "label": "frame",
-  "ocr_text": "Giselle Gobi Pereira\nSumma Cum Laude",
-  "confidence": "95.67"
-},
-{
-  "index": "2435",
-  "timestamp": "00:39:23.248",
-  "label": "frame",
-  "ocr_text": "Benjamin Louis Stolba",
-  "confidence": "93.67"
-},
-{
-  "index": "2588",
-  "timestamp": "00:39:28.353",
-  "label": "frame",
-  "ocr_text": "Emerson Grant Mitchell\nCum Laude",
-  "confidence": "95.80"
-},
-{
-  "index": "2807",
-  "timestamp": "00:39:35.660",
-  "label": "frame",
-  "ocr_text": "Matthew Joseph Ristuccia",
-  "confidence": "93.33"
-},
-{
-  "index": "2977",
-  "timestamp": "00:39:41.333",
-  "label": "frame",
-  "ocr_text": "Gloria Adalgela Corniel\nMagna Cum Laude",
-  "confidence": "94.00"
-},
-{
-  "index": "3144",
-  "timestamp": "00:39:46.905",
-  "label": "frame",
-  "ocr_text": "Jhalil Jarid Smith",
-  "confidence": "92.33"
-},
-{
-  "index": "3484",
-  "timestamp": "00:39:58.249",
-  "label": "frame",
-  "ocr_text": "Linea Elizabeth Romano\nMagna Cum Laude",
-  "confidence": "96.00"
-},
-{
-  "index": "68391",
-  "timestamp": "00:38:02.000",
-  "label": "frame",
-  "ocr_text": ";",
-  "confidence": "13.00"
-},
-{
   "index": "68527",
   "timestamp": "00:38:06.538",
   "label": "frame",
@@ -224,22 +105,15 @@
   "confidence": "92.33"
 },
 {
-  "index": "71535",
-  "timestamp": "00:39:46.905",
-  "label": "frame",
-  "ocr_text": "Jhalil Jarid Smith",
-  "confidence": "92.33"
-},
-{
   "index": "71875",
-  "timestamp": "00:39:58.250",
+  "timestamp": "00:39:58.249",
   "label": "frame",
   "ocr_text": "Linea Elizabeth Romano\nMagna Cum Laude",
   "confidence": "96.00"
 },
 {
   "index": "72191",
-  "timestamp": "00:40:08.794",
+  "timestamp": "00:40:08.793",
   "label": "frame",
   "ocr_text": "Adarryl Montez Ricketson, Jr.",
   "confidence": "93.00"
@@ -260,7 +134,7 @@
 },
 {
   "index": "72900",
-  "timestamp": "00:40:32.451",
+  "timestamp": "00:40:32.450",
   "label": "frame",
   "ocr_text": "Carly Shea Mccue\nMagna Cum Laude",
   "confidence": "94.67"
@@ -274,7 +148,7 @@
 },
 {
   "index": "73473",
-  "timestamp": "00:40:51.570",
+  "timestamp": "00:40:51.569",
   "label": "frame",
   "ocr_text": "College of Education",
   "confidence": "96.00"
@@ -323,7 +197,7 @@
 },
 {
   "index": "74550",
-  "timestamp": "00:41:27.506",
+  "timestamp": "00:41:27.505",
   "label": "frame",
   "ocr_text": "Logan Matthew Ellis\nCum Laude",
   "confidence": "95.20"
@@ -372,7 +246,7 @@
 },
 {
   "index": "75876",
-  "timestamp": "00:42:11.750",
+  "timestamp": "00:42:11.749",
   "label": "frame",
   "ocr_text": "Xavianna Brown",
   "confidence": "94.00"
@@ -428,7 +302,7 @@
 },
 {
   "index": "77455",
-  "timestamp": "00:43:04.436",
+  "timestamp": "00:43:04.435",
   "label": "frame",
   "ocr_text": "James Matthew Mixon",
   "confidence": "96.00"
@@ -456,7 +330,7 @@
 },
 {
   "index": "78330",
-  "timestamp": "00:43:33.632",
+  "timestamp": "00:43:33.631",
   "label": "frame",
   "ocr_text": "Devin Bass",
   "confidence": "95.50"
@@ -470,7 +344,7 @@
 },
 {
   "index": "78652",
-  "timestamp": "00:43:44.376",
+  "timestamp": "00:43:44.375",
   "label": "frame",
   "ocr_text": "Nicholas-Paul Alexander Webster",
   "confidence": "94.33"
@@ -568,7 +442,7 @@
 },
 {
   "index": "82151",
-  "timestamp": "00:45:41.126",
+  "timestamp": "00:45:41.125",
   "label": "frame",
   "ocr_text": "Lesly Melinda Zetino-Alas",
   "confidence": "92.67"
@@ -610,14 +484,14 @@
 },
 {
   "index": "83444",
-  "timestamp": "00:46:24.269",
+  "timestamp": "00:46:24.268",
   "label": "frame",
   "ocr_text": "Brayden Shyann Bailey\nCum Laude",
   "confidence": "94.60"
 },
 {
   "index": "83613",
-  "timestamp": "00:46:29.908",
+  "timestamp": "00:46:29.907",
   "label": "frame",
   "ocr_text": "Aurora Arely De Hoyos Diaz",
   "confidence": "94.40"
@@ -687,7 +561,7 @@
 },
 {
   "index": "86163",
-  "timestamp": "00:47:54.993",
+  "timestamp": "00:47:54.992",
   "label": "frame",
   "ocr_text": "Brandon Michael Culberson",
   "confidence": "96.00"
@@ -799,7 +673,7 @@
 },
 {
   "index": "89171",
-  "timestamp": "00:49:35.360",
+  "timestamp": "00:49:35.359",
   "label": "frame",
   "ocr_text": "Robert J. Barron\nMagna Cum Laude\nHonors College Scholar",
   "confidence": "96.00"
@@ -841,7 +715,7 @@
 },
 {
   "index": "90551",
-  "timestamp": "00:50:21.406",
+  "timestamp": "00:50:21.405",
   "label": "frame",
   "ocr_text": "Genell Peter Gay Drummonds",
   "confidence": "92.75"
@@ -869,7 +743,7 @@
 },
 {
   "index": "91230",
-  "timestamp": "00:50:44.062",
+  "timestamp": "00:50:44.061",
   "label": "frame",
   "ocr_text": "Boaz H. Anderson\nMagna Cum Laude",
   "confidence": "94.83"
@@ -925,7 +799,7 @@
 },
 {
   "index": "92610",
-  "timestamp": "00:51:30.108",
+  "timestamp": "00:51:30.107",
   "label": "frame",
   "ocr_text": "Evan Pearson\nCum Laude",
   "confidence": "95.50"
@@ -974,7 +848,7 @@
 },
 {
   "index": "94585",
-  "timestamp": "00:52:36.007",
+  "timestamp": "00:52:36.006",
   "label": "frame",
   "ocr_text": "Lesly Samaniego\nMagna Cum Laude",
   "confidence": "95.00"
@@ -995,7 +869,7 @@
 },
 {
   "index": "95084",
-  "timestamp": "00:52:52.657",
+  "timestamp": "00:52:52.656",
   "label": "frame",
   "ocr_text": "Leah Polite",
   "confidence": "96.00"
@@ -1037,7 +911,7 @@
 },
 {
   "index": "96295",
-  "timestamp": "00:53:33.064",
+  "timestamp": "00:53:33.063",
   "label": "frame",
   "ocr_text": "Madeline Grace Turner\nCum Laude",
   "confidence": "95.60"
@@ -1051,7 +925,7 @@
 },
 {
   "index": "96742",
-  "timestamp": "00:53:47.979",
+  "timestamp": "00:53:47.978",
   "label": "frame",
   "ocr_text": "Rickey Damone Hunley, Jr.",
   "confidence": "93.00"
@@ -1093,7 +967,7 @@
 },
 {
   "index": "98021",
-  "timestamp": "00:54:30.655",
+  "timestamp": "00:54:30.654",
   "label": "frame",
   "ocr_text": "Chandler Nichole Brundage\nMagna Cum Laude",
   "confidence": "96.00"
@@ -1149,7 +1023,7 @@
 },
 {
   "index": "99625",
-  "timestamp": "00:55:24.175",
+  "timestamp": "00:55:24.174",
   "label": "frame",
   "ocr_text": "Lenna Dianna Rogers",
   "confidence": "95.00"
@@ -1205,7 +1079,7 @@
 },
 {
   "index": "101343",
-  "timestamp": "00:56:21.499",
+  "timestamp": "00:56:21.498",
   "label": "frame",
   "ocr_text": "Brooklyn Airiana Dearstyne",
   "confidence": "91.67"
@@ -1226,7 +1100,7 @@
 },
 {
   "index": "101826",
-  "timestamp": "00:56:37.615",
+  "timestamp": "00:56:37.614",
   "label": "frame",
   "ocr_text": "Kristopher Alexander\nMagna Cum Laude",
   "confidence": "96.00"
@@ -1289,7 +1163,7 @@
 },
 {
   "index": "103860",
-  "timestamp": "00:57:45.483",
+  "timestamp": "00:57:45.482",
   "label": "frame",
   "ocr_text": "LuisMiguel Efrain Santiago",
   "confidence": "94.33"
@@ -1303,7 +1177,7 @@
 },
 {
   "index": "105112",
-  "timestamp": "00:58:27.258",
+  "timestamp": "00:58:27.257",
   "label": "frame",
   "ocr_text": "Pamela Abena Kplivi\nSumma Cum Laude\nHonors College Scholar",
   "confidence": "94.22"
@@ -1324,7 +1198,7 @@
 },
 {
   "index": "106162",
-  "timestamp": "00:59:02.293",
+  "timestamp": "00:59:02.292",
   "label": "frame",
   "ocr_text": "Abigayle Leigh Whisman",
   "confidence": "93.00"
@@ -1338,7 +1212,7 @@
 },
 {
   "index": "106492",
-  "timestamp": "00:59:13.304",
+  "timestamp": "00:59:13.303",
   "label": "frame",
   "ocr_text": "Abigail Grace Blanda",
   "confidence": "93.67"
@@ -1366,7 +1240,7 @@
 },
 {
   "index": "107403",
-  "timestamp": "00:59:43.701",
+  "timestamp": "00:59:43.700",
   "label": "frame",
   "ocr_text": "Ta'Neajah Ra'Niya Campbell\nMagna Cum Laude",
   "confidence": "93.50"
@@ -1387,7 +1261,7 @@
 },
 {
   "index": "107886",
-  "timestamp": "00:59:59.817",
+  "timestamp": "00:59:59.816",
   "label": "frame",
   "ocr_text": "Matty Layne Lenoir\nCum Laude",
   "confidence": "96.20"
@@ -1415,7 +1289,7 @@
 },
 {
   "index": "108685",
-  "timestamp": "01:00:26.477",
+  "timestamp": "01:00:26.476",
   "label": "frame",
   "ocr_text": "Arielle Marie Gray",
   "confidence": "95.67"
@@ -1443,14 +1317,14 @@
 },
 {
   "index": "109634",
-  "timestamp": "01:00:58.142",
+  "timestamp": "01:00:58.141",
   "label": "frame",
   "ocr_text": "Naomi Eva Matrai\nMagna Cum Laude",
   "confidence": "94.33"
 },
 {
   "index": "109781",
-  "timestamp": "01:01:03.047",
+  "timestamp": "01:01:03.046",
   "label": "frame",
   "ocr_text": "Cameron Pearl Kozlowski\nCum Laude",
   "confidence": "95.40"
@@ -1485,7 +1359,7 @@
 },
 {
   "index": "111336",
-  "timestamp": "01:01:54.932",
+  "timestamp": "01:01:54.931",
   "label": "frame",
   "ocr_text": "Lauren B. Natalie\nSumma Cum Laude",
   "confidence": "94.50"
@@ -1541,7 +1415,7 @@
 },
 {
   "index": "113580",
-  "timestamp": "01:03:09.807",
+  "timestamp": "01:03:09.806",
   "label": "frame",
   "ocr_text": "Trenity D'asiyah Collins",
   "confidence": "92.67"
@@ -1569,7 +1443,7 @@
 },
 {
   "index": "114186",
-  "timestamp": "01:03:30.027",
+  "timestamp": "01:03:30.026",
   "label": "frame",
   "ocr_text": "Brooklyn Rose Torres\nMagna Cum Laude",
   "confidence": "95.67"
@@ -1632,14 +1506,14 @@
 },
 {
   "index": "116141",
-  "timestamp": "01:04:35.259",
+  "timestamp": "01:04:35.258",
   "label": "frame",
   "ocr_text": "Adam Marcum Wentz\nCum Laude",
   "confidence": "95.60"
 },
 {
   "index": "116310",
-  "timestamp": "01:04:40.898",
+  "timestamp": "01:04:40.897",
   "label": "frame",
   "ocr_text": "Jesuspersona Sungjong Song",
   "confidence": "92.33"
@@ -1716,7 +1590,7 @@
 },
 {
   "index": "120216",
-  "timestamp": "01:06:51.228",
+  "timestamp": "01:06:51.227",
   "label": "frame",
   "ocr_text": "Emily Ann Ruger Lewis",
   "confidence": "95.50"
@@ -1807,14 +1681,14 @@
 },
 {
   "index": "122550",
-  "timestamp": "01:08:09.106",
+  "timestamp": "01:08:09.105",
   "label": "frame",
   "ocr_text": "Kelsey Makayla Atkins",
   "confidence": "96.00"
 },
 {
   "index": "123041",
-  "timestamp": "01:08:25.489",
+  "timestamp": "01:08:25.488",
   "label": "frame",
   "ocr_text": "Maria Elena Ortega\nCum Laude",
   "confidence": "96.00"
@@ -1828,14 +1702,14 @@
 },
 {
   "index": "123382",
-  "timestamp": "01:08:36.867",
+  "timestamp": "01:08:36.866",
   "label": "frame",
   "ocr_text": "Raven Nakiaya Wilson",
   "confidence": "93.33"
 },
 {
   "index": "123750",
-  "timestamp": "01:08:49.146",
+  "timestamp": "01:08:49.145",
   "label": "frame",
   "ocr_text": "Erin Royce Kitchen",
   "confidence": "96.00"
@@ -1856,7 +1730,7 @@
 },
 {
   "index": "124705",
-  "timestamp": "01:09:21.011",
+  "timestamp": "01:09:21.010",
   "label": "frame",
   "ocr_text": "Seirra Hickey\nCum Laude",
   "confidence": "94.00"
@@ -1898,7 +1772,7 @@
 },
 {
   "index": "125831",
-  "timestamp": "01:09:58.582",
+  "timestamp": "01:09:58.581",
   "label": "frame",
   "ocr_text": "Talia Floreana Glenn",
   "confidence": "93.33"
@@ -1933,7 +1807,7 @@
 },
 {
   "index": "126614",
-  "timestamp": "01:10:24.708",
+  "timestamp": "01:10:24.707",
   "label": "frame",
   "ocr_text": "Kathryn Anna Baxley",
   "confidence": "96.00"
@@ -1968,7 +1842,7 @@
 },
 {
   "index": "128373",
-  "timestamp": "01:11:23.400",
+  "timestamp": "01:11:23.399",
   "label": "frame",
   "ocr_text": "Faith Rose Smith",
   "confidence": "96.00"
