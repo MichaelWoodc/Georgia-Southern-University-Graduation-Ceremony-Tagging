@@ -2,86 +2,158 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Their Moment on Stage</title>
+    <title>Georgia Southern Commencement - Ceremony Index</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <style>
-        body { font-family: sans-serif; background: #f0f2f5; padding: 20px; }
-        .container { max-width: 900px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        h1 { color: #1a73e8; text-align: center; }
-        .search-box { width: 100%; padding: 12px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 4px; font-size: 16px; }
-        table { width: 100%; border-collapse: collapse; }
-        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
-        th { background: #1a73e8; color: white; }
-        .btn { display: inline-block; padding: 5px 10px; background: #1a73e8; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; }
-        .btn:hover { background: #0c56c0; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Their Moment on Stage</h1>
-
-        <input type="text" id="searchInput" class="search-box" placeholder="Search for a name..." onkeyup="filterTable()">
-
-        <table id="resultsTable">
-            <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Time</th>
-                    <th>Link</th>
-                </tr>
-            </thead>
-            <tbody id="resultsBody">
-                <!-- Filled by JS -->
-            </tbody>
-        </table>
-    </div>
-
-    <script>
-        let data = [];
-
-        // Load JSON normally (dev server required)
-        fetch("./ocr_results_cleaned.json")
-            .then(response => response.json())
-            .then(json => {
-                data = json;
-                renderTable();
-            })
-            .catch(err => console.error("Failed to load JSON:", err));
-
-        function renderTable() {
-            const tbody = document.getElementById("resultsBody");
-            tbody.innerHTML = "";
-
-            data.forEach(row => {
-                const seconds = timestampToSeconds(row.timestamp);
-                const yt = `https://www.youtube.com/watch?v=OEjQOwU3InU&t=${seconds}s`;
-
-                const tr = document.createElement("tr");
-                tr.innerHTML = `
-                    <td>${row.ocr_text}</td>
-                    <td>${row.timestamp}</td>
-                    <td><a class="btn" href="${yt}" target="_blank">View Clip</a></td>
-                `;
-                tbody.appendChild(tr);
-            });
+        body {
+            font-family: sans-serif;
+            background: #f0f2f5;
+            padding: 20px;
+            margin: 0;
         }
 
-        function timestampToSeconds(ts) {
-            const [h, m, s] = ts.split(":");
-            return Math.floor(+h * 3600 + +m * 60 + parseFloat(s));
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 30px 22px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
 
-        function filterTable() {
-            const filter = document.getElementById("searchInput").value.toUpperCase();
-            const tr = document.getElementById("resultsTable").getElementsByTagName("tr");
+        h1 {
+            text-align: center;
+            color: #1a73e8;
+            margin-bottom: 20px;
+            font-size: 32px;
+        }
 
-            for (let i = 1; i < tr.length; i++) {
-                const td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    const txt = td.textContent || td.innerText;
-                    tr[i].style.display = txt.toUpperCase().includes(filter) ? "" : "none";
-                }
+        .intro {
+            text-align: center;
+            font-size: 19px;
+            color: #444;
+            max-width: 750px;
+            margin: 0 auto 35px auto;
+            line-height: 1.45;
+        }
+
+        .event {
+            padding: 20px 5px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .event:last-child {
+            border-bottom: none;
+        }
+
+        .event-title {
+            font-size: 22px;
+            font-weight: bold;
+            color: #1a73e8;
+        }
+
+        .event-meta {
+            margin: 6px 0;
+            font-size: 15px;
+            color: #444;
+        }
+
+        .event-desc {
+            margin: 10px 0;
+            font-size: 15px;
+            color: #333;
+        }
+
+        a.button {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 16px;
+            background: #1a73e8;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 15px;
+        }
+
+        a.button:hover {
+            background: #155fc4;
+        }
+
+        /* Mobile adjustments */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 26px;
+            }
+            .intro {
+                font-size: 18px;
+                padding: 0 5px;
+            }
+            .event-title {
+                font-size: 20px;
             }
         }
-    </script>
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <h1>Commencement Ceremony Index</h1>
+
+        <p class="intro">
+            Looking for your moment on stage?  
+            Choose your ceremony below and use the built-in search to jump straight to 
+            your name in the Georgia Southern YouTube graduation video.  <b>May contain errors and ommissions:</b> I did not have the original video or access to any raw data.  
+        </p>
+
+        <!-- Statesboro Undergraduate - May 11 -->
+        <div class="event">
+            <div class="event-title">Statesboro Undergraduate Ceremony</div>
+            <div class="event-meta">📅 Monday, May 11 - 9:00 AM</div>
+            <div class="event-meta">Paulson Stadium</div>
+            <div class="event-desc">
+                Ceremony for undergraduate students in the College of Science and Mathematics, 
+                College of Arts and Humanities, Waters College of Health Professions, 
+                Jiann-Ping Hsu College of Public Health, and the Allen E. Paulson College of Engineering and Computing.
+            </div>
+            <a class="button" href="05-11-2026-undergrad/index.html">Open Ceremony Page</a>
+        </div>
+
+        <!-- Statesboro Undergraduate - May 14 -->
+        <div class="event">
+            <div class="event-title">Statesboro Undergraduate Ceremony</div>
+            <div class="event-meta">📅 Thursday, May 14 - 9:00 AM</div>
+            <div class="event-meta">Paulson Stadium</div>
+            <div class="event-desc">
+                Ceremony for undergraduate students in the College of Education, 
+                Parker College of Business, and the College of Behavioral and Social Sciences.
+            </div>
+            <a class="button" href="05-14-2026-undergrad/index.html">Open Ceremony Page</a>
+        </div>
+
+        <!-- Statesboro Graduate - May 11 -->
+        <div class="event">
+            <div class="event-title">Statesboro Graduate Ceremony</div>
+            <div class="event-meta">📅 Monday, May 11 - 6:00 PM</div>
+            <div class="event-meta">Jack and Ruth Ann Hill Convocation Center</div>
+            <div class="event-desc">
+                Ceremony for graduate students in all colleges, any campus.
+            </div>
+            <a class="button" href="05-11-2026-graduate/index.html">Open Ceremony Page</a>
+        </div>
+
+        <!-- Savannah Undergraduate - May 13 -->
+        <div class="event">
+            <div class="event-title">Savannah Undergraduate Ceremony</div>
+            <div class="event-meta">📅 Wednesday, May 13 - 9:00 AM</div>
+            <div class="event-meta">Enmarket Arena</div>
+            <div class="event-desc">
+                Ceremony for undergraduate students in all colleges, any campus.
+            </div>
+            <a class="button" href="05-13-2026-undergrad/index.html">Open Ceremony Page</a>
+        </div>
+
+    </div>
 </body>
 </html>

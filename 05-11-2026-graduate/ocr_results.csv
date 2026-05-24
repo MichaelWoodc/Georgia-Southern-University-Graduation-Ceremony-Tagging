@@ -1,0 +1,3444 @@
+timestamp,ocr_text,confidence
+00:33:25.000,i) Jack N. Averitt College of Graduate Studies,86.88
+00:33:26.168,"»\ Dr. Moneak Rochelle Mccrary
+3) Doctor of Education
+y",77.70
+00:33:49.992,")) Dr. Zsa Zsa Blue Davis
+3) Doctor of Education
+y",78.60
+00:34:08.944,")\ Dr. Keia Monai Dodd
+=} Doctor of Education
+y",69.90
+00:34:08.944,"Dr. Keia Monai Dodd
+Doctor of Education",93.71
+00:34:28.363,"Dr. Trina Rossman Smith
+Doctor of Education",95.57
+00:34:45.414,"Dr. Jason R. Trotter
+Doctor of Education",95.14
+00:35:10.339,"Dr. Melissa Ann Francisco
+Doctor of Education",96.00
+00:35:32.861,"Dr. Kimberly Lashon Hollis
+Doctor of Education",94.14
+00:35:56.218,"Dr. Alyxandra Kathryn Nelson
+Doctor of Education",94.86
+00:36:20.442,"Dr. Kanesha Michelle Williams
+Doctor of Education",94.29
+00:36:49.438,"Dr. Destiny Ann Nazzrie
+Doctor of Education",94.86
+00:37:16.531,"Dr. Herbert Lee Chambers, Jr.
+Doctor of Education",95.88
+00:37:36.118,"Dr. Jana Brown Collins
+Doctor of Education",95.71
+00:38:00.776,"Dr. Sean Patrick Bianchi
+Doctor of Education",95.86
+00:38:00.776,"Dr. Sean Patrick Bianchi
+Doctor of Education",95.86
+00:38:22.431,"Dr. Kimberly Rae Kirstein
+Doctor of Education",95.57
+00:38:45.254,"Dr. Letitice Katrice Johnson
+Doctor of Education",94.57
+00:39:05.374,"Dr. Luis F. Mercado Rosario
+Doctor of Education",94.50
+00:39:30.165,"Dr. Michael Allen Jones
+Doctor of Education",95.71
+00:39:51.720,"Dr. Jayde Brittany Nelson
+Doctor of Education",95.29
+00:40:13.175,"Dr. Jerry J. Oliver, Jr.
+Doctor of Education",95.25
+00:40:35.898,"Dr. Bridgette LaShaun Allen
+Doctor of Education",95.14
+00:40:56.351,"Dr. Alison Dimsdale Geigerman
+Doctor of Education",94.71
+00:41:21.944,"Dr. Ivy Y. Brannen
+Doctor of Education",93.86
+00:41:44.733,"Dr. Jody Marie Showell
+Doctor of Nursing Practice",94.50
+00:42:08.390,"Dr. Allison Nicole Weaver
+Doctor of Nursing Practice",96.00
+00:42:30.579,"Dr. Trekesha Mitchell Broady
+Doctor of Nursing Practice",93.62
+00:42:53.435,"Dr. Temica Bohannon Niblack
+Doctor of Nursing Practice",94.00
+00:43:21.029,"Dr. Kelly Elizabeth Ashley
+Doctor of Physical Therapy",95.00
+00:43:35.711,"Dr. Amber Renee Bass
+Doctor of Physical Therapy",96.00
+00:43:51.526,"Dr. Haley Elizabeth Burke
+Doctor of Physical Therapy",95.62
+00:44:07.009,"Dr. Kallan Noelle Carper
+Doctor of Physical Therapy",94.62
+00:44:23.358,"Dr. Benjamin Wade Castleberry
+Doctor of Physical Therapy",94.50
+00:44:36.538,"Dr. Jon Mason Clements
+Doctor of Physical Therapy",94.12
+00:44:52.154,"Dr. Ka'Leah Janae Davis
+Doctor of Physical Therapy",95.00
+00:45:08.804,"Dr. Jaden Anne Delperdang
+Doctor of Physical Therapy",94.88
+00:45:22.284,"Dr. Charlotte Hagan Dempsey
+Doctor of Physical Therapy",96.00
+00:45:37.132,"Dr. Sarah Annlee Freeman
+Doctor of Physical Therapy",95.00
+00:45:51.046,"Dr. Makena Gormley
+Doctor of Physical Therapy",94.14
+00:46:07.129,"Dr. Rebekah Louise Harville
+Doctor of Physical Therapy",95.00
+00:46:21.843,"Dr. Brooke Mackenzie Hester
+Doctor of Physical Therapy",94.88
+00:46:36.291,"Dr. Michael Hoff
+Doctor of Physical Therapy",94.71
+00:46:48.837,"Dr. Madelyn Paige Jackson
+Doctor of Physical Therapy",96.00
+00:47:04.186,"Dr. Colin Davis Jones
+Doctor of Physical Therapy",96.25
+00:47:33.748,"Dr. Morgan Elizabeth Lee
+Doctor of Physical Therapy",95.75
+00:47:47.829,"Dr. Clare Covington Mackie
+Doctor of Physical Therapy",95.50
+00:48:04.579,"Dr. Bridgid Moira McCabe
+Doctor of Physical Therapy",94.50
+00:48:19.594,"Dr. Aubrey Jackson Merritt
+Doctor of Physical Therapy",95.88
+00:48:32.607,"Dr. Samantha Lynn Miller
+Doctor of Physical Therapy",95.00
+00:48:47.489,"Dr. Deanna Alexis Saunders
+Doctor of Physical Therapy",95.50
+00:49:02.837,"Dr. Kathryn Elizabeth Schreck
+Doctor of Physical Therapy",95.75
+00:49:18.053,"Dr. Kaitlyn Grace Shepherd
+Doctor of Physical Therapy",95.88
+00:49:31.433,"Dr. Luke Joshua Sunderman
+Doctor of Physical Therapy",95.75
+00:49:47.182,"Dr. Katie Elizabeth Thomsen
+Doctor of Physical Therapy",95.62
+00:50:03.431,"Dr. Janette Elaine Tripp
+Doctor of Physical Therapy",95.25
+00:50:20.815,"Dr. Shaylan Angel Wassner
+Doctor of Physical Therapy",93.88
+00:50:36.698,"Dr. Christopher Brice Watson
+Doctor of Physical Therapy",95.00
+00:50:53.982,"Dr. Connor Bradley Watson
+Doctor of Physical Therapy",95.62
+00:51:09.330,"Dr. William Ryan Wofford
+Doctor of Physical Therapy",95.38
+00:51:28.817,"Dr. Tamaya S. Browder
+Doctor of Public Health",94.88
+00:51:45.600,"Dr. Chantia Kimbrell Taylor
+Doctor of Public Health",94.38
+00:52:04.953,"Dr. Alisha Danielle Riggins
+Doctor of Public Health",95.38
+00:52:23.671,"Dr. Paige Jontée Perry
+Doctor of Public Health",94.25
+00:52:44.626,"Dr. Lukas Flint Roberson
+Doctor of Public Health",96.12
+00:53:05.246,"Dr. Jennifer Lentine
+Doctor of Public Health",88.43
+00:53:21.729,"Dr. Ryran Reshard Traylor
+Doctor of Public Health",94.50
+00:53:48.323,"Dr. Dwight David Williams, Jr.
+Doctor of Public Health",95.67
+00:54:09.243,"Dr. Claire-Lorentz Ugo-Ike
+Doctor of Publie Health",88.29
+00:54:29.597,"Dr. Debra Rich
+Doctor of Public Health",89.43
+00:54:50.318,"Dr. Ashton Marie Harris
+Doctor of Public Health",95.50
+00:55:11.539,"Dr. Savannah Taylor Steedley
+Doctor of Public Health",95.00
+00:55:35.930,"Dr. Trina Suttles
+Doctor of Public Health",92.29
+00:55:59.921,"Dr. Samuel Anokye-Mensah
+Doctor of Public Health",94.71
+00:56:23.444,"Dr. Jason Dwain Butler, Jr.
+Doctor of Public Health",95.67
+00:56:39.460,"Dr. Danielle Louise Smith
+Doctor of Public Health",95.88
+00:57:02.116,"Dr. Nazish Masud
+Doctor of Public Health",94.71
+00:57:51.465,"re Bn
+|",38.00
+00:58:00.541,"eae 53
+~ 4 z £OF 2 35 Fo",45.00
+00:58:00.608,"7 iP Peery ese
+, f ‘e » a” ae",31.14
+00:58:00.708,"> 5) a Tig) ee Fe
+. - 4 Po) * ~",41.90
+00:58:00.741,"4 7 Tis ee 8
+: a er ees",23.67
+00:58:00.808,"s [a % aT, ¢ bg? me ie
+ah. MT pave coe",33.67
+00:58:00.875,"4 an? x
+on, —_ _ ae",36.43
+00:58:00.942,"- ae 6) re ere st —
+; f EY (af Fe Se
+
+: | Miro bae 3
+
+Sp lige ‘ee
+
+se _~ ae ao",33.90
+00:58:01.008,"5 ei < s
+: pce * “Se
+. See iin",31.00
+00:58:01.075,"7 { YY ee Poe ee
+Pas eS:
+> ~~ — — | ao",41.77
+00:58:01.142,"= q ? AES tagh Cn
+a4 7 * | RE ate 4S
+pear) Gees
+
+wi ™ J Yr a",39.83
+00:58:01.242,"-  <ee _ pgs & A
+s } AES er ee Y
+
+A “ Oo f
+sq | vad pat 'S
+pe ye Y ones
+a SYP a Ly",35.78
+00:58:01.309,"oe | ORE eed oie
+a Pay J xe",38.88
+00:58:01.442,"= * ? AEX, tcf) te FO:
+oe ha ree aS
+
+¥ sf? ad > —
+54
+
+“<P adh ae, wt",33.50
+00:58:01.542,"ae yi! | RE paint 3 'S.
+yy?) tas se
+o~ “ ae ee",37.10
+00:58:01.676,"4 Ee 5 tog? me FO,
+
+— —- r a WSs ""ee
+
+, i ate as
+
+4 5 pe ro re Se
+Za 2",32.76
+00:58:01.776,"= : : SAE NSS Fle FOe
+. | OLE a ate  S.
+ap Ne
+
+ff « Fs ae i",36.29
+00:58:02.009,"\. yt . RED 1p) Fe FO
+sy BO em er &
+
+r i aos *« Sy
+: ae PP oS a ae",31.63
+00:58:02.777,"s. pO SS ree
+r Se * ~C
+
+Pas >
+3 > are A a» 2°",43.85
+00:58:03.277,"7 Pi > a ie en
+we Pe a
+
+yen tv & ou
+af) a Fae” fe",32.18
+00:58:03.778,"7 : R aay bach) ie Fae
+ge > ‘
+
+ao. RPE 2 >
+
+er 4 as Say a Te
+
+“ , 2 ~— oe —_— —-",39.76
+00:58:03.945,"7 ? D2.» IP bch) ae Fae
+rg =A we
+
+. : 5) ar =
++S an — tg
+
+| o- “ A aa» 20",33.55
+00:58:04.111,aN eS Say fo x,34.00
+00:58:04.278,"7 4 ? Pi > Pare eR
+
+a. ‘i Oe
+4 ys > y
+
+wm pS a) ae",36.12
+00:58:04.445,"N q ? TS. bch) ee FOS
+] Fae OO o
+
+' Ware xy
+a Se So VPs",34.40
+00:58:06.347,"7 ? Pa > ei me ve
+/ ia Qe y iS.
+- ¥ [— an
+4 wae c T 4
+i~ n“ Ja a",37.24
+00:58:06.547,"a Se if
+' |e RE pe i
+ye oe
+>) Se i, ae",29.91
+00:58:06.814,"3 ? ‘ AES tah me a:
+eye My
+»._ Sean i a",35.17
+00:58:10.151,"<i - a Be Se gt) ae Fe,
+= wee tp oe Se
+ao AS mp a =
+a ay £ Sy",32.83
+00:58:12.186,"‘ - al
+Sie om &
+£ o> Se",40.00
+00:58:13.488,,0.00
+00:58:13.521,A Eat 4 67 Meag es,11.00
+00:58:13.554,"Spies ett 7
+“ ed cK Ls a A",26.75
+00:58:13.588,"ghee
+thas F: gat ie, 4
+Py £ *",18.14
+00:58:13.621,os Rar eee ae,31.25
+00:58:13.721,"a a se. & =a
+) pointe shia eae ( IF",37.62
+00:58:13.821,"eo i
+Be ere Pers eee ol",29.14
+00:58:13.921,"a ee Loge. Ad
+
+. he tt Ora oy. Tee {
+
+J Se eed a en nae DO ( p
+eee rl. Sree Per ad 6",31.14
+00:58:13.988,"ee — —
+~ Eee =. ga ee Soe t
+) a ad"" ect wie ree Sek. ( I}",23.24
+00:58:14.822,"A —__ a eo ae
+yo eon = A",26.56
+00:58:14.856,) PE a2 tapers Rite f y,33.83
+00:58:14.922,"i Ee = i
+. Gh Ae POP om: ana Sees",31.55
+00:58:14.989,gay eae hy,37.00
+00:58:15.022,"A ee “yi
+) ge oa aaa eer f ""iy",24.67
+00:58:15.056,"a es SS i
+) eee, oot ae (Y",23.29
+00:58:15.156,"Wa kn ae ee. ie }
+ee oo as, Goria oes Lad »",24.11
+00:58:15.189,Cas cng,27.50
+00:58:15.223,"5 ee ee
+y See cy",19.50
+00:58:15.256,"i fy =
+Fee ice aie © SES:
+y eR mae (""|",33.75
+00:58:15.323,See,23.00
+00:58:15.356,Tee,33.00
+00:58:15.389,) ores sti rete gs:,42.75
+00:58:15.423,‘ eho ay eee dite fe psi R y,23.60
+00:58:15.523,"Ze Geen eS  *™ =f
+=a a Ee eS Sta aon
+to oe
+
+pee acids Seana | WS",31.40
+00:58:15.590,,0.00
+00:58:15.656,,0.00
+00:58:15.723,| Pear Te cee maange ( y,14.50
+00:58:15.790,. Bede eis is. Surtovee Reis (,28.67
+00:58:15.857,") Dy Ee One ot AS Oe """,31.60
+00:58:15.923,,0.00
+00:58:16.023,. BEAL oe s= a ;,24.00
+00:58:16.123,)\ “Repres ee recs cs at ( ig,45.17
+00:58:16.224,". Bee en a,",30.50
+00:58:16.324,"Lez? Tye | Lak = Te
+Ger Oe come (ON",34.40
+00:58:16.424,a ho oie cin (OU,11.00
+00:58:16.524,"Bh, Cao ee Cy",25.75
+00:58:16.591,om 218 Fa,31.33
+00:58:16.657,Nn e+ i gn,28.25
+00:58:16.724,"fo aoa Wi
+‘oy Ng!",33.80
+00:58:16.791,iam 2) ee Ce ‘> ss 1 —,30.88
+00:58:16.858,"= 3'% 0 a
+Oe Ca eet CaN 7
+oe Ai Sevier Ae",29.90
+00:58:16.891,,0.00
+00:58:16.924,,0.00
+00:58:16.991,"cio 314 Fee I
+PN pa igh 4, OR Cea 4",25.55
+00:58:17.058,,0.00
+00:58:17.091,"aaa apa : ra
+i ak ek. Peter ot am",35.50
+00:58:17.158,,0.00
+00:58:17.225,jam ola f a ok f-,34.50
+00:58:17.291,"ite eee
+‘. ee \ j
+.",29.00
+00:58:17.425,"= Bite oe a Te ey ~ ra
+DIAS SO OES!
+Seg te © chia we CK",30.35
+00:58:17.492,"= Nee ara £ 4 ro i
+An | BS. & * 173
+re a
+
+Oye ca ee Ny",42.44
+00:58:20.995,"Pr ae alt — SS
+BRAS PLO RS Ae
+Meoeite Orin. Sea \
+iN eo Sk aL. nan, Pde \ +",33.28
+00:58:21.162,"2) ee y=
+Cee ia Sane
+Ness $2. eka 1. Re ie \",28.15
+00:58:21.295,"Al Wat m i Coen |
+Pee Pde be \",22.50
+00:58:21.395,"Hoey a Trae #
+Sea tgy shia Ontovin ee SF
+gas $n kha tS Re Packer tol",20.67
+00:58:21.462,"Fig hin. meer Ee °
+Ee OE tals te ee ee ee”",22.08
+00:58:21.529,ERS niet meee,17.33
+00:58:21.562,"N Da on ge SY
+Fe ee J
+Sep ort ge Eis. Aaa Recs
+
+eas atari To j",33.00
+00:58:21.596,"\— ee * ft
+ee te CE nie * . s
+a. pices hg",32.90
+00:58:21.629,"iam ie esas i
+eee Lee Heck ag [
+DOR Rag Omi et
+9 OT an, ee ee ee",23.00
+00:58:21.662,,0.00
+00:58:21.696,"eR Sg CONES | AVES ag lee
+te Le eS Fender Yl -",25.09
+00:58:21.729,"ae eas x ada © Qe el
+Nik Sire La be sll a",26.45
+00:58:21.796,". Det eerie tee ».
+Bo yah Rear Fa Say a0 ae",32.10
+00:58:21.863,"De a ye
+te Sy eee nS Sy ool a",21.70
+00:58:21.896,"os
+i Le <i%
+icy ene ined sae . gre
+Pe 4 Riel ey
+ES at ies
+-*",29.33
+00:58:21.963,"Ls am re e35"" ERs
+ot edie Se
+' f « Tht",44.78
+00:58:22.063,"fr tsy! Fey
+
+Pe pn I ak =
+
+y y Pa ye as Ny
+om , aes I",29.60
+00:58:22.163,"ea a -
+oY Saag fo oe
+§ 5 SY ee eee eT",35.67
+00:58:22.230,"de  Y & Pn ee ae 6.
+DF eS egg.
+‘a. vay fr ~e",29.86
+00:58:23.030,"nak. &. ad ee ye Bee
+“ f del. %s9 mt Tee
+fi D =4",33.50
+00:58:23.698,"zx’ fi > A ‘
+le LBS = af
+2 wim, >
+eae Yer, eres
+vee.) Ry)
+“a as | re A",39.65
+00:58:24.131,"aa he. - ae Pe ee
+4 atin, , ee |
+; “de Pe ‘eet
+- Fy a i
+$3 tlie < -",34.30
+00:58:24.498,"f ) AS ah) Bad. Regs
+aa } (Ao. *S ‘s
+1 Hs = s
+: 4 ou nN mi!
+. , ide si) ot
+»",33.29
+00:58:24.799,"~t 3 ~<a el sf >
+“al od pa s sy",27.33
+00:58:25.199,"4 a Sd fs = Fag
+- Pei c
+a. 4 ae Bs RSS",42.25
+00:58:25.566,"i | ee) a
+ny ars
+Y ou . sae",28.44
+00:58:26.033,,0.00
+00:58:26.133,"_ = y ef ee
+
+. i Ge ED OS ee
+Ta Wer os
+
+5 ‘ aw © . >
+
+~aa eo &",38.20
+00:58:26.200,"wy pes Vv Damien
+Fat se i
+
+sae Pi ee in
+
+5 ’ Pare” WS
+“il ep ll < >",34.00
+00:58:26.234,"+ is o ot SN a al =""
+. ask Fe ye ©
+Li = ea? el < ety *S
+a _ 4) jal * 5",31.81
+00:58:26.267,"vy YG ee. Pa ee in
+A _ <2 ithe ey SS",29.17
+00:58:26.300,"“= 7 vo et ee Oe 6
+. tinh ea Fe. Fe
+
+5 es > iv
+14 ae? ie nah 'S
+a <a. the i ~S",30.00
+00:58:26.334,"TY a |
+vo
+b 4 : wo
+TY plage rea eye .
+qy me ty 3",36.29
+00:58:26.367,"Te cele. 2 es
+
+z i aia Pa 5 e-
+‘ : VaR etal ae
+3 “a te , * ~",31.33
+00:58:26.400,"a ‘yf v ni A hd
+( ae eke Peg
+
+’ : deta | _¢ a .
+
+ay 4d tien Yee",43.61
+00:58:26.467,". Ge eS ee
+5 aug aD An” Pa
+
+4 Uehat ek aly %;
+
+aa ae
+
+3% 42 ee ys",38.69
+00:58:26.501,"S yf Cy et a
+3 LE Z i 4
+’ 5 i > A» ir
+% Maid” _S na d
+
+ay tee *~ _",42.06
+00:58:26.534,"a
+., if ‘i
+: Ae en” ”
+‘ ay ta _o nok
+i pee '' :
+pee ~ ~~",42.06
+00:58:26.567,"4 th ae ' é  -_—*
+ra) MW 20s y
+ee Br es
+
+‘ sf 4 y at
+Be tere eo!",36.35
+00:58:26.601,"og tl ve  s. r)
+3 | AY aloe
+a i Fi oy Ln? | al
+
+- aed Ss =
+.y 2k thee rele",36.68
+00:58:26.634,"—_— — ae “
+ty 4 a ea
+ey 2 + mn
+an fit > -
+
+= , Ag 4 Ss =
+2 Pe Kran WH Dm ed",43.42
+00:58:26.701,"— Te yo rE = <
+LAN ear
+= 1 ¥ We eae SOL
+pe S oY =
+=",41.12
+00:58:26.734,"————— fF
+TY gig’
+
+-= i : -
+Pre 8 a
+ie pages =
+
+=",27.21
+00:58:26.767,">
+yo '
+gel care
+Ale pe en” Be",28.25
+00:58:26.801,". ap
+‘an. An
+* \' , e re ie _
+SP ote i>
+: af ne ,
+""¢
+> (""Wy sh",30.81
+00:58:26.834,"—— S
+= 1 ¥ o re - :
+is es
+Ag paige? Ree
+we -> Sf",34.00
+00:58:26.868,"a § 9 BY -— aie oS Oe
+fs Ko hee ere
+ol inn Yr Ye
+4 , i OP a
+- _ Ra alee not
+a JA - Poe. sa",28.57
+00:58:26.901,"A [
+‘ P \ ¥ . f te a
+“My 4 r ~~ = S ~~",38.46
+00:58:26.934,"—_ °° 9 Y ir on Ae
+. of iy AT * Pas
+aM aie",38.62
+00:58:27.001,,0.00
+00:58:27.034,,0.00
+00:58:27.068,"7 ¢ * N, He. “« .. Jd 2s re
+> 4 , ae Mee
+, | # pid wen” )",36.76
+00:58:27.101,"cee ON BR -~ AR or Oe
+AT Mea",34.00
+00:58:27.134,">» 4A a v
+| Os a
+rs ww.
+4 \ ‘nda ac
+A4\ oe <",39.07
+00:58:27.168,"ghee ie
+Aja st ail .",24.17
+00:58:27.235,"> Anes We he ee
+4 | WP Le.
+
+A i Re eR.
+
+7"" AA Ga eS a",29.82
+00:58:27.268,"y gre Nt
+eee ON BR RS ee oe
+Fe, hie Pe
+-, Nes yO ax",36.50
+00:58:27.301,"> zB St
+- tha. 2 6
+AT ORS
+=P 3 ht as wl
+""ort | Tina",44.31
+00:58:27.335,"> 2s ae eA Co re ae
+A, bet. eee
+ok OG
+‘| : in no ~ >
+“h ee ae ST <i a",32.75
+00:58:27.368,"> eee Sa .He-gs
+i, ie ee
+st Oa
+, Ty NN OF cad
+= \ ed he <i) A",23.18
+00:58:27.401,"ay eat ~
+, 7 ie Me
+RR i Ae <= E",31.30
+00:58:27.435,"\ Tee he Re Oia
+Prat) wea
+1 ip $2 sg
+» } Tad Y\ ~ a",37.62
+00:58:27.468,". Co oe
+Pray) ‘we",32.67
+00:58:27.535,"i Ate. Se SA
+Br a",26.83
+00:58:27.568,"pert Awe” | ves ar,
+Ge PR",28.29
+00:58:27.602,"per ea
+: 0 ag Pa x
+JE7,,.' * FO ee",27.00
+00:58:27.635,,0.00
+00:58:27.668,,0.00
+00:58:27.702,"Dag og ay bd Arta
+oer - f. “ifn SA
+= wg ’ wo ,",35.92
+00:58:27.735,"; : Ve 2 ~ gen aa
+bed x CE
+on Y i a Oe",32.08
+00:58:27.768,ay ae Me hin ws,39.25
+00:58:27.802,"otha ahh @ . w28 Y aes
+are ies
+gt OS
+
+| i BE en",28.50
+00:58:27.869,"Fee hl Le Ae 2S Bee
+4 = ¥ p3 A> =
+i le EU as",29.47
+00:58:27.935,. A? Be SRE LZ 5 Li a,42.29
+00:58:27.969,OE ee sh ae OSS es,25.33
+00:58:28.002,,0.00
+00:58:28.035,,0.00
+00:58:28.069,,0.00
+00:58:28.102,,0.00
+00:58:28.135,,0.00
+00:58:28.202,,0.00
+00:58:28.236,", a —e L a. ae",30.33
+00:58:28.269,C7 a is Pe,33.00
+00:58:28.302,lg ee oy FY a. a,25.17
+00:58:28.336,,0.00
+00:58:28.369,",, d ‘ ' : Kot",32.80
+00:58:28.402,ane.” W-<,23.00
+00:58:28.436,,0.00
+00:58:28.502,,0.00
+00:58:28.536,,0.00
+00:58:28.569,,0.00
+00:58:28.603,,0.00
+00:58:28.636,,0.00
+00:58:28.669,a ‘ae 4 : “ ai * ~,37.00
+00:58:28.703,,0.00
+00:58:28.736,cAY Sew 7S Sal Pl i wy ee?,26.83
+00:58:28.769,,0.00
+00:58:28.836,2 AEN a,24.00
+00:58:28.870,,0.00
+00:58:28.903,"sey? a
+“~~ * 4G gh",28.00
+00:58:28.936,,0.00
+00:58:28.970,,0.00
+00:58:29.003,,0.00
+00:58:29.070,SR UN Ana,24.00
+00:58:29.103,,0.00
+00:58:29.136,Ae Lae”,24.50
+00:58:29.170,ps - eg,42.00
+00:58:29.203,,0.00
+00:58:29.237,es ig tS,17.00
+00:58:29.303,Sa Ses OR,25.67
+00:58:29.337,,0.00
+00:58:29.370,"Wy Cap eae ee
+ee",20.40
+00:58:29.403,,0.00
+00:58:29.437,ei ea pte 4A,26.50
+00:58:29.470,ae 2 > he,44.75
+00:58:29.503,,0.00
+00:58:29.537,,0.00
+00:58:29.604,"ESN,",7.00
+00:58:29.637,,0.00
+00:58:29.670,,0.00
+00:58:29.704,62 SAN ae,14.67
+00:58:29.737,,0.00
+00:58:29.770,,0.00
+00:58:29.837,,0.00
+00:58:29.871,,0.00
+00:58:29.904,,0.00
+00:58:29.937,,0.00
+00:58:29.971,,0.00
+00:58:30.004,,0.00
+00:58:30.071,,0.00
+00:58:30.104,,0.00
+00:58:30.137,rae Door tA eg an pe rf,30.60
+00:58:30.171,,0.00
+00:58:30.204,ae ey Be Ne ae,38.20
+00:58:30.238,,0.00
+00:58:30.271,,0.00
+00:58:30.304,"tat oe tI 2, ee eae any OG",26.71
+00:58:30.371,a me SS eS kU,19.40
+00:58:30.404,SN eee,42.00
+00:58:30.438,SIA AT nk pre!,34.50
+00:58:30.471,Se Se RAN LY of oe,18.83
+00:58:30.505,SS hee,38.50
+00:58:30.538,"Ree ak ime we Pee 7
+f; TNagk ol Se ee",23.60
+00:58:30.571,"- Ye, oat? a tig I ww} ~
+SYN ie
+5 eek TM TS",20.00
+00:58:30.605,"aaa oA
+wa a Pe Ets",18.50
+00:58:30.638,"_o— » rh Fk ~ F , oe as
+> ineser sae Oe lie
+i -",29.67
+00:58:30.671,"EL ON Oh he ROE) 2G
+ee am a",27.62
+00:58:30.705,"1 eee ON OE ee eT eee WG
+fe 1, ~~” tee 7",27.00
+00:58:30.771,"a PRO Be 9 rene @ 17) ™
+Og ke RP",27.67
+00:58:30.838,"7 = ySe8) oe snc WF 2) i)
+gus Na nl pie:",25.56
+00:58:30.938,,0.00
+00:58:31.005,7... ir 2S ” ied a,32.00
+00:58:31.072,phate ie Ate,25.00
+00:58:31.172,,0.00
+00:58:31.272,were ASE ADL SAM) 3f,43.50
+00:58:31.339,,0.00
+00:58:31.439,"ae Veet, saad an, A +",30.60
+00:58:31.505,"See, to a 8 “Se . oP: a",38.25
+00:58:31.572,"oa. Oo SAD) = “Bo, ; Pr: ™
+P ee i» Pcie pr,",29.56
+00:58:31.672,"SRL dp
+pe Oe al ete m",28.40
+00:58:31.706,SY ee,21.50
+00:58:31.772,"ee ys EE REY pp YF: Sa
+DP Ra: aki
+CK stele s R ms rey",30.50
+00:58:31.839,"et 7 ele 2 ee “
+Se aoe aa Ws ale",23.44
+00:58:31.939,"2 eA re Ly Lae . yrs 2
+arab hg AW ald",28.42
+00:58:32.006,"kt Sake ai °s 7-4 oom # >
+ap pe",33.75
+00:58:32.073,- ~ Tn at- Voki “nal = -7 % wy = m= 2,25.78
+00:58:32.139,"be meg Nery 7 ia
+& Yue i Sa) ne nag",22.40
+00:58:32.240,,0.00
+00:58:32.306,,0.00
+00:58:32.373,,0.00
+00:58:32.473,"s-
+p ar",48.50
+00:58:32.540,"rnd
+es",33.00
+00:58:32.607,"eo A aval Wis ey
+area a naa ap",24.33
+00:58:32.673,"> Bel... Beh, me! ae .
+Bat “Ey yyy: r nas
+oes gay > >",26.77
+00:58:32.773,ORL Lae,27.00
+00:58:32.840,"eel PIS” 1 Lie
+Dea eae, ah",25.29
+00:58:32.907,Sa cath a! Ape 4 -,21.00
+00:58:33.007,= 6,65.00
+00:58:33.074,,0.00
+00:58:33.140,See eT Leh,16.00
+00:58:33.207,Sp AD an inks,27.00
+00:58:33.274,"3] “4 2
+¥ f bi
+. Ee",38.17
+00:58:33.341,"Petedea thi Aneel x6
+Se Ie ae",18.67
+00:58:33.407,,0.00
+00:58:33.507,,0.00
+00:58:33.574,,0.00
+00:58:33.641,"OG ae Ga nee > Ane
+oh el ee 6 ia """,28.00
+00:58:33.741,,0.00
+00:58:33.774,,0.00
+00:58:33.841,POAT Ett Lge,13.00
+00:58:33.908,,0.00
+00:58:33.975,,0.00
+00:58:34.041,"Ee pe he ed Ee =
+‘ gc Fee oy a iv t,,",29.73
+00:58:34.108,,0.00
+00:58:34.175,,0.00
+00:58:34.275,,0.00
+00:58:34.308,Le tpl! “IL a ) lili,29.50
+00:58:34.375,127 pol Sy ey +f ‘A % Tf ie i,31.22
+00:58:34.442,Ge ge ~~ 7,36.00
+00:58:34.508,,0.00
+00:58:34.609,at pos yy he SF ae hl >,31.00
+00:58:34.675,en eee ty LE .,25.80
+00:58:34.742,et Me NS Bape 3,15.80
+00:58:34.842,SSPE ci,23.00
+00:58:34.909,,0.00
+00:58:34.976,ED,0.00
+00:58:35.076,ee ee eS,22.67
+00:58:35.142,ee em,19.00
+00:58:35.209,NS & ee 7 a | ee =,41.50
+00:58:35.276,,0.00
+00:58:35.343,,0.00
+00:58:35.409,Sta heeph PT Fi,21.00
+00:58:35.476,,0.00
+00:58:35.576,<p gee aby fT lp,23.00
+00:58:35.643,RNG Ee,29.00
+00:58:35.710,Le ETM G me feb an,25.67
+00:58:35.776,"ey Se a Mea
+on tae a sy Sees Se a ay #
+Wren ae ath x J “Lge 2",27.79
+00:58:35.843,"OF REL ig DS ET | fe
+eer gba, fe pr",26.40
+00:58:35.910,"aie 2.98 [2 iy Lae ea Ua ele
+Ee oT
+Si Oh, «pay hae x",26.07
+00:58:35.977,"aaa eat OP a
+et POI, Ey ae?) 2f",25.00
+00:58:36.043,,0.00
+00:58:36.110,See é es hina,29.25
+00:58:36.177,"oe ee ae =
+Sod es EN
+AS: ah)",28.67
+00:58:36.244,,0.00
+00:58:36.310,,0.00
+00:58:36.377,"AA a ae ee WG ef
+Kee +. yy <i eee et ge",28.82
+00:58:36.444,"ae
+j yf Fag",45.75
+00:58:36.510,"e Sg) eee ae ne Fog
+2 ae Y FELI I 4 ARS""",26.44
+00:58:36.577,"Cb 27 SOE” ke
+A ost res Cyd . f Ld Se
+St Ay Oe. + gi",28.94
+00:58:36.644,"Wek 42 Loe vane aoe) AMP =
+aa ara",26.29
+00:58:36.711,"Wek Pla ero phe att aa =
+oy Fay A y om",31.40
+00:58:36.777,"sop ade. far, yr
+ae ELEY EA",23.83
+00:58:36.878,,0.00
+00:58:36.911,"Ee ke, ne a ee 2 he
+PE PSE” oe",22.80
+00:58:36.978,oar edd NoMa ac,22.50
+00:58:37.044,"ee “ayy bots. : 2 4 FY re AM
+arpa,",38.25
+00:58:37.111,"Dee DT MSE * ate
+Sap ae ee",16.33
+00:58:37.178,,0.00
+00:58:37.245,"deb J i by. *! Het tar ta 4 ®
+Fae et a eh ll a) em",32.44
+00:58:37.311,"Be) ap. *) Rit ter. cme 7 Lf
+Shy DTA HTT Sb
+Ee ee a",30.92
+00:58:37.411,"okt shel tt ae cae
+wae a ae",23.88
+00:58:37.478,sO I mi ye ie ee ep,39.00
+00:58:37.545,"Ra SEO SF ae
+ae ee",24.00
+00:58:37.645,,0.00
+00:58:37.678,"Ce Ae. Caer Ae) et a oe ery a
+okt PLE bs yey Jahia pe
+Ae NEP 9 EL",24.22
+00:58:37.745,"Sep ke es 5 VD pe tee * f/!
+MWg Dyke at Se
+ee oR rey + / & ie Xa.",30.74
+00:58:37.812,Se A a as - Wane fee (/,26.33
+00:58:37.879,okt ional ay aS,22.67
+00:58:37.979,"rs a x
+‘or j",28.60
+00:58:38.045,"eee TN Lae ew eee = [fe
+eat grat? © ab",23.70
+00:58:38.112,"“f ae 2
+! at a
+ior Oe AP
+se eeee
+“ee me}! x“",36.73
+00:58:38.212,,0.00
+00:58:38.279,"aes rg Se
+a i nig,",39.67
+00:58:38.346,eS TE eS a,27.50
+00:58:38.379,"ea le oy Ce Re - {je
+Bays we sea RE i
+Seige eget? *",24.08
+00:58:38.479,Sea eer hese,16.00
+00:58:38.546,ace aes,48.00
+00:58:38.646,"i vat - ray fiw >,
+PONS PH EIT aes
+wa < - Fy
+SS, Cae ee",28.73
+00:58:38.746,"ile eu.le- J- ve
+a - ——— angsty
+er er ge Tete ns aaa
+cin Mt} meets Tg",30.00
+00:58:39.413,"a | he eee )
+ree a SS
+era nu on ha
+SP ty CEs mene eee |
+Fk ote it eS ee",27.48
+00:58:39.680,"ae = YP
+Sere ty Si | ada |?",25.00
+00:58:39.881,"ae ‘= » 4
+| = iA F% hy ee
+Cone dette Thi | a ada",27.64
+00:58:40.181,"w=] = i
+f
+wa she “Oy / iP
+at - elas a tinge
+EP ty Of meena
+» pleas au. atte * Ee a ee",30.52
+00:58:40.381,"ge ee = os _y//f
+ne Sd reece 4 eS",21.00
+00:58:40.982,"ee oe Cee eee
+= i eet \
+siete Cae eee
+Peae tae ie | a ada",28.73
+00:58:41.349,Sin Mh eet TL Pe,28.00
+00:58:41.582,"ahs ; a ns
+eS f : fo 8S co a OEE.
+Ce nag Sis. eran FES
+OE pA, Sag ee aS onl",25.17
+00:58:42.083,slants Sa ek 1 ere acer,16.20
+00:58:42.316,"en | atm ie eee ay
+ve 18 —— ré
+wes PRIS a Rts oe
+Th ae in megan eee
+10 Oe PAE. Fen Oe Pas kr tl",24.13
+00:58:42.650,"zs Fa og, |p
+Le Sal At, eee Pies Ly te",26.09
+00:58:43.050,"= mie 3 =. ——_ ,
+ge oes Sng te. oe ee
+Se HB eikige COs Cetera Lae ee",28.40
+00:58:43.284,"a at, energies Ade Da",17.25
+00:58:43.417,"pais 3A & he —__;
+Gey, Ct wie fas
+Tae ak Smoteggeene ico lS og",30.00
+00:58:43.517,"zen & fo
+EE Rae Rin at
+Pier ie Baie ba",28.82
+00:58:43.618,"LE, SS a ee Hae
+Hie Sa Ak, Sere madioe Pa",23.90
+00:58:43.751,"Rl at om ey See
+ak ai, rhea 8 padioe Pa",28.67
+00:58:43.885,"Al Wat nm gg OAM a
+piece BG Pe ee eircs
+tio se ida. Pakeyns ate
+iy ac ea ena ey recs",26.79
+00:58:44.051,"Al Wat nm gg OAM a
+eee « fis. Aaa
+Boe titty SE ey recs",28.00
+00:58:44.652,Pier a padioe Pa,24.67
+00:58:44.819,"Rake yy ee ©
+MAP te i Sento nee Soe:
+Piper a pe ha",27.15
+00:58:44.952,"Rake yy ee ©
+MET ey CLR Peake ae
+| aT At, okey: me “4",29.00
+00:58:45.086,"A liat me oy eee i)
+ios 32'S fee ee
+Pipe rs a padioe Pa",20.18
+00:58:45.186,Piper a padioe Pa,21.67
+00:58:45.319,"EE FES See et “4
+ak a. Conege madioe Pa",27.29
+00:58:45.553,"wae 214 Fee
+Ce, PES
+ERE ey OR, Cae
+
+ak at, Sokelaggenes Baie ba",30.92
+00:58:45.753,"pais 3) fg uN
+Pe gg er en, ee ea
+tests Sa eka 1 ere aikeer",21.80
+00:58:45.953,"rojas 308 ee
+Se at Ree SS te ay
+ates Ser tect:
+Bag On te
+a at, Srhialg -.. madioe Pa",27.94
+00:58:46.520,"a) oe wv »4)3 ~ Ys .
+z= aa 3ia- S Al Be
+Or Aaa eer io Sg aes
+Hae So Ak, Sere madera",25.35
+00:58:46.654,,0.00
+00:58:46.754,"Vee Fe
+52 9 bortige Os worse ope:
+Fe wag Paden",22.89
+00:58:46.888,"Td ie ol a ee
+Vis Ca ee",31.25
+00:58:47.054,,0.00
+00:58:47.188,"Rat me ry eM a q
+oe atte CU in Cate pee wee:
+Gene rae Eis aaa",25.53
+00:58:47.355,"Lia aye £42 r
+EOP ag Otis Cte EH
+Ie eS Nr rn ater",24.55
+00:58:47.521,"an Va maya £4 Ye.
+Le 2 Pas ew aN
+SER ertge Os. weieeee see
+pi I eh) an same TS ig",26.56
+00:58:47.622,"Rate, ee ee
+We Pe SE eS
+ee akg Cie in Aateeee eed.
+PASC Te eh ne een eT tad",17.76
+00:58:47.755,"ez: 4 q
+aia 219 fe
+gag chase
+
+ont ‘i QEvEts wisest
+SS gi Naren esiag rt Ps",25.79
+00:58:47.922,"Meme ae k
+abe ge.  F
+-e° Lay ~ gas a r
+BED site Ein | OE aa Ee",27.18
+00:58:48.055,"az Rat re AM a x |
+aie",35.29
+00:58:48.155,"| poe Sais
+: 3: 2 Qwiee
+we “ as",33.71
+00:58:48.289,". eZ? - @y ~ ie
+Sk Ge eee ONG",36.33
+00:58:48.422,"AG }
+g oe < Ei i.
+Prt Bas od",24.89
+00:58:48.523,"~ >) “4 aaa , 4 |
+Cay Sen",35.50
+00:58:48.689,"“aie!
+eee eee ON",30.67
+00:58:48.723,"F — f Fees 4 -
+
+: oe he Citisn. ver Pps '
+Cee ae On et ee
+
+oeag tae bn",24.94
+00:58:48.789,"Nee, Cte
+eo €..",31.67
+00:58:48.856,Sak Oe Se,37.00
+00:58:48.923,skeet meee,14.50
+00:58:48.990,"~ The F +s 2 NY ‘ r
+ea See) \",31.10
+00:58:49.056,x tH ree he,46.25
+00:58:49.123,"NN Se be
+See Se ee r\",33.86
+00:58:49.190,"ye
+5 2 28s f
+sae eae
+‘os Ler ae- ©",27.50
+00:58:49.257,. Tie i ie \ . fs,22.67
+00:58:49.323,"aehg. — h
+eee /\",10.67
+00:58:49.390,"pe i r
+poo X
+Ce SPOS VN\",34.43
+00:58:49.457,"ie er
+Cite So A",42.80
+00:58:49.523,"a 2 eo J
+CE FEES RES",37.57
+00:58:49.590,"he +e Ae, »",24.25
+00:58:49.657,“SY als. q >,55.00
+00:58:49.724,,0.00
+00:58:49.790,,0.00
+00:58:49.857,"_—_ +s a, 4
+\a- peg.",46.00
+00:58:49.924,\ Mi A ae,30.75
+00:58:49.991,"\ Se -grRS
+hy, = Say id",42.33
+00:58:50.057,"\ Sh i 5 haw
+_-$re
+mie) ee |
+
+Link weer 6",42.56
+00:58:50.124,"et ane, |",43.67
+00:58:50.191,oe. nM,9.50
+00:58:50.258,"ehh. |
+apes |",22.00
+00:58:50.324,oa ae \\ |S 2. \\/ f,50.80
+00:58:50.391,"Ce COE. Oe """,33.50
+00:58:50.458,eicbh ie. =,43.00
+00:58:50.524,"elie. """,34.00
+00:58:50.591,eS) x,42.50
+00:58:50.658,mt 1,17.00
+00:58:50.725,eng \,31.50
+00:58:50.791,"= eg """,29.33
+00:58:50.858,"{Se eT ‘a\\Vae '¢ 4
+Pe Foe SS",35.60
+00:58:50.925,"ne 4 aa
+ceca fps ORS",29.67
+00:58:50.992,"Sep. WA
+ae a5 Ls aa",22.00
+00:58:51.058,2 eg fa,32.33
+00:58:51.125,,0.00
+00:58:51.192,"Be | Ws 4 ee AR
+eae a Lies es .",33.90
+00:58:51.259,Sa pee eee SR,18.50
+00:58:51.325,"2: ee
+= ie ae af ae",28.57
+00:58:51.392,"ce, | i? gl
+‘| a NM >",37.00
+00:58:51.459,"i= WZ ) \ qa
+Su NV ay
+_ Biter ‘9 (“ae 4
+Fe ag OE Se",33.47
+00:58:51.525,ee 9 ee,27.00
+00:58:51.592,"EN Wr a
+a am jet +, —_——",32.88
+00:58:51.659,E—— NZ Ve La,41.33
+00:58:51.726,"NA \\\ \
+B'S: Gee:",37.67
+00:58:51.792,SNA \\//.\ Vell a,18.67
+00:58:51.859,"Sy a ce
+es, eee):",24.00
+00:58:51.926,"ee, ee):
+aes 2 hae ©. f
+Be ey ON y aS >",30.31
+00:58:51.959,"tas | a Wi =,",42.00
+00:58:51.993,,0.00
+00:58:52.059,"2
+7 i 7 bot.
+_",19.00
+00:58:52.126,"ie, Rg):",39.00
+00:58:52.193,,0.00
+00:58:52.260,,0.00
+00:58:52.326,,0.00
+00:58:52.393,= | i,49.67
+00:58:52.460,"—— ah >
+— |
+| }",41.40
+00:58:52.526,"mM) i Ls
+ee me ee re) ©",27.29
+00:58:52.593,"ies ay:
+Fa A ee eS",18.17
+00:58:52.660,"a bes ©
+eae Te ee oy) <",31.29
+00:58:52.760,= Nee get mR,26.50
+00:58:52.860,"Deans ¢ é.
+ee eee ey",30.00
+00:58:52.927,ae it,26.00
+00:58:53.027,ae sa \ | i!,36.20
+00:58:53.160,,0.00
+00:58:53.361,"eS We °9
+\ Las pals. b
+_ Vlas 4 ee ee, i",38.00
+00:58:53.561,ips ia 2,34.50
+00:58:53.728,eS We? |,64.00
+00:58:53.895,"ek |: an
+ml Tat mn ee ne",36.00
+00:58:54.095,,0.00
+00:58:54.328,"Sl, ee e OD",28.67
+00:58:54.562,a4 ae ff,40.67
+00:58:54.795,,0.00
+00:58:55.062,"y a!
+aD at
+1 4 ; “ —",32.38
+00:58:55.162,on 1 a eee ee,27.40
+00:58:55.263,,0.00
+00:58:55.363,a Fae Pe Sagi . o& b,36.50
+00:58:55.463,,0.00
+00:58:55.563,iy,38.00
+00:58:55.663,‘a fe CW iw,41.75
+00:58:55.763,> a Lv i‘,45.25
+00:58:55.963,ry sa x i‘,35.50
+00:58:56.197,,0.00
+00:58:56.397,“a ie vy &,42.00
+00:58:56.597,,0.00
+00:58:56.831,,0.00
+00:58:57.064,,0.00
+00:58:57.198,,0.00
+00:58:57.265,,0.00
+00:58:57.365,,0.00
+00:58:57.465,Va 7?,31.50
+00:58:57.565,,0.00
+00:58:57.632,,0.00
+00:58:57.732,,0.00
+00:58:57.832,"SV 73
+b> —¥ pai. a 1",39.14
+00:58:57.899,,0.00
+00:58:58.099,,0.00
+00:58:58.299,,0.00
+00:58:58.532,"JN
+a YY pale. |",42.80
+00:58:58.799,,0.00
+00:58:59.033,"LOA
+<a | AVS",38.75
+00:58:59.267,GN 2m,32.00
+00:58:59.500,see 7,46.00
+00:58:59.800,,0.00
+00:59:00.034,,0.00
+00:59:00.268,,0.00
+00:59:00.534,,0.00
+00:59:00.768,a NW x\&,37.00
+00:59:01.002,LVR,44.00
+00:59:01.235,eA). ai,21.00
+00:59:01.502,,0.00
+00:59:01.736,JARI 3,56.50
+00:59:01.936,,0.00
+00:59:02.136,JANA 3,45.00
+00:59:02.270,aA,35.00
+00:59:02.403,eS) \\/. Aas,16.00
+00:59:02.503,eS) \\/. zeae,23.67
+00:59:02.670,,0.00
+00:59:02.870,4é NY V NVA,38.50
+00:59:03.104,es) Ce,38.00
+00:59:03.371,VARIA °3,21.00
+00:59:03.638,,0.00
+00:59:03.905,,0.00
+00:59:04.171,,0.00
+00:59:04.405,,0.00
+00:59:04.639,,0.00
+00:59:04.872,,0.00
+00:59:05.106,,0.00
+00:59:05.339,PRIA 3,32.00
+00:59:05.539,\ ZOU 4 - “3,38.50
+00:59:05.706,,0.00
+00:59:05.840,,0.00
+00:59:05.973,,0.00
+00:59:06.140,,0.00
+00:59:06.340,JRA: §,35.00
+00:59:06.574,,0.00
+00:59:06.707,,0.00
+00:59:06.841,,0.00
+00:59:06.974,,0.00
+00:59:07.108,,0.00
+00:59:07.308,,0.00
+00:59:07.475,,0.00
+00:59:07.642,,0.00
+00:59:07.875,PE §,45.00
+00:59:08.109,,0.00
+00:59:08.309,,0.00
+00:59:08.576,,0.00
+00:59:08.843,LIRR §,27.50
+00:59:09.076,,0.00
+00:59:09.343,,0.00
+00:59:09.577,,0.00
+00:59:09.810,,0.00
+00:59:10.044,,0.00
+00:59:10.278,,0.00
+00:59:10.478,*,33.00
+00:59:10.611,ee,5.00
+00:59:10.745,yes (PVE > 2,31.00
+00:59:10.912,,0.00
+00:59:11.112,ie “4,34.50
+00:59:11.312,ie “,16.00
+00:59:11.512,Je,36.00
+00:59:11.612,i =,41.50
+00:59:11.712,,0.00
+00:59:11.879,,0.00
+00:59:12.079,,0.00
+00:59:12.313,"i :
+wee \ as fi 4 XG (Sor",35.67
+00:59:12.513,,0.00
+00:59:12.747,,0.00
+00:59:12.813,SE toe,21.00
+00:59:12.880,,0.00
+00:59:12.947,(B-X,0.00
+00:59:13.047,a). | ae |,43.75
+00:59:13.114,,0.00
+00:59:13.180,,0.00
+00:59:13.281,,0.00
+00:59:13.347,,0.00
+00:59:13.414,,0.00
+00:59:13.514,‘< rh vy ot |,45.00
+00:59:13.547,,0.00
+00:59:13.614,,0.00
+00:59:13.681,,0.00
+00:59:13.748,"oe
+ie. 7) a a",31.40
+00:59:13.814,"oe
+| 2 |
+soummen
+» rN Va Pst |",53.88
+00:59:13.881,,0.00
+00:59:13.948,,0.00
+00:59:14.048,,0.00
+00:59:14.115,x | > |,48.75
+00:59:14.215,ff | oo {,34.50
+00:59:14.315,"args
+<< AW Fe ia",35.20
+00:59:14.415,"{
+are
+a! rt. #7) ia",35.17
+00:59:14.515,,0.00
+00:59:14.615,"Soi
+’ A Tr! a > ,",46.60
+00:59:14.715,,0.00
+00:59:14.782,"vn
+aad
+ates
+f re 47) > of",35.00
+00:59:14.882,,0.00
+00:59:15.049,"y , {
+» cy) _—_—",25.00
+00:59:15.316,"y . {
+. ty) oat",37.50
+00:59:15.583,. | oa we {,32.20
+00:59:15.883,’ Ly 7. 2S | ),21.17
+00:59:16.183,yy y. 23 a we q,32.40
+00:59:16.384,": 4
+GEORGIA
+Surin
+5
+ry 7. PY a ke",39.10
+00:59:16.617,"A
+GEORGIA
+Wea
+” (a
+Lo -. > a",42.38
+00:59:16.884,"rt ,. > B |",64.00
+00:59:17.084,7 r q,34.50
+00:59:17.318,"7 x q
+a , p> -",38.80
+00:59:17.585,"GEORGIA
+soutien
+~ , ap so",43.50
+00:59:17.852,~¢ ve » Se,31.00
+00:59:18.152,~~ uy np» te (,35.00
+00:59:18.419,yy fs i o,19.00
+00:59:18.653,"GEORGIA
+SOUTHER
+> A,
+a wa i o",57.29
+00:59:18.953,"GEORGIA
+SOUTHER
+bs
+7” Zi + af",54.29
+00:59:19.253,"SS ‘
+a . e F",35.50
+00:59:20.321,,0.00
+00:59:21.756,"GEORGIA
+SOUTHER!",93.00
+00:59:21.822,"GEORGIA
+SOUTHER
+?~ A > -",60.20
+00:59:21.889,,0.00
+00:59:21.956,"ay > -. """,50.50
+00:59:22.056,,0.00
+00:59:22.123,ay _ al |,47.33
+00:59:22.189,hy = -. |,60.00
+00:59:22.256,"GEORGIA
+SOUTHER
+2» A > nal",61.67
+00:59:22.323,"A
+GEORGIA
+SOUTHER",70.33
+00:59:22.390,ay > ~. |,53.67
+00:59:22.456,iy > al |,57.25
+00:59:22.957,Cy > =. |,54.25
+00:59:23.024,"GEORGIA
+SOUTHER
+>» i - .",48.80
+00:59:23.090,,0.00
+00:59:23.124,,0.00
+00:59:23.157,,0.00
+00:59:23.190,Cy > aad |,51.25
+00:59:23.257,Cy > - |,60.00
+00:59:23.324,"GEORGIA
+SOUTHER!
+>” A > 7”.",73.60
+00:59:23.357,y > -. ‘,37.00
+00:59:27.094,"> |
+iy - F i",52.75
+00:59:27.929,,0.00
+00:59:28.129,,0.00
+00:59:28.362,,0.00
+00:59:28.696,,0.00
+00:59:28.896,,0.00
+00:59:29.063,"GEORGIA
+BU THER
+‘ ,",33.67
+00:59:29.263,"GEORGIA
+: HER!",80.00
+00:59:29.497,,0.00
+00:59:29.764,,0.00
+00:59:30.665,,0.00
+00:59:31.499,"GEORGIA
+SOUTHER}",85.50
+00:59:31.999,"| GEORGIA
+SOUTHER}
+2 4 - ™,",66.20
+00:59:32.967,,0.00
+00:59:34.168,,0.00
+00:59:34.268,"> |
+a > F",58.40
+00:59:34.368,"> |
+a > F",49.60
+00:59:34.468,"> |
+~ > F",47.20
+00:59:34.535,"] GEORGIA
+SOUTHER
+> i ~~",45.00
+00:59:34.669,,0.00
+00:59:34.769,"“A i ~
+z/ ceoncia
+Sone
+h,
+“ -F ©",30.44
+00:59:34.835,",” = ~,",56.00
+00:59:34.869,* > ~~ ~,30.33
+00:59:34.902,,0.00
+00:59:34.936,,0.00
+00:59:34.969,"* ey
+= |",56.00
+00:59:35.002,"| ae :
+= seorcis
+Sore
+i b ‘q",49.60
+00:59:35.036,"y |
+H » ,~= x",41.17
+00:59:35.102,"ps :
+. A
+GEORGIA
+SOUTHER)
+( x
+> >,",51.62
+00:59:35.169,"e ; vo
+GEORGIA
+SOUTHER)
+§ x
+> > F a",49.62
+00:59:35.236,,0.00
+00:59:35.303,"x ""
+>” <4 Ps",48.40
+00:59:35.403,C; > F @,31.67
+00:59:35.503,e 4,46.00
+00:59:35.603,Er ¢,38.00
+00:59:35.703,Ey 4,52.00
+00:59:35.770,gE *.< B |,89.00
+00:59:35.836,i ae |,45.67
+00:59:35.903,i ae |,45.00
+00:59:35.970,"DS, . »",38.00
+00:59:36.037,"i a |
+S i ao",32.33
+00:59:36.103,"x 4 »
+> 4 >",63.67
+00:59:36.203,> c ££,37.33
+00:59:36.304,,0.00
+00:59:36.437,,0.00
+00:59:36.570,,0.00
+00:59:36.671,| iy ¢ |,63.25
+00:59:36.837,,0.00
+00:59:36.971,,0.00
+00:59:37.104,"> 4 4
+C;",40.75
+00:59:37.405,"> ¢ |
+C;",45.00
+00:59:37.605,| a ¢ é,63.67
+00:59:37.805,"> ¢ 4
+c",48.75
+00:59:37.939,| 3 ¢ 4,45.25
+00:59:38.039,,0.00
+00:59:38.139,,0.00
+00:59:38.272,,0.00
+00:59:38.372,,0.00
+00:59:38.439,,0.00
+00:59:38.506,,0.00
+00:59:38.539,"+
+a
+‘. -_ sar’",59.00
+00:59:38.572,* 4 ais,51.67
+00:59:38.606,,0.00
+00:59:38.639,,0.00
+00:59:38.673,"Y
+onGiA
+oes
+* ae, ..",21.33
+00:59:38.706,,0.00
+00:59:38.739,,0.00
+00:59:38.773,,0.00
+00:59:38.806,,0.00
+00:59:38.873,"= —
+* me, * z
+4 < x =
+Saat * ~e—
+7 C > -~*",41.00
+00:59:38.906,"> = | —.
+’ oon
+he: Set Sn,”
+-¥ . Oe is =? ~~ z",38.08
+00:59:38.940,"= ss""",34.50
+00:59:38.973,"— Ss qe
+a 7. aT
+
+—, = de a
+A ce",23.55
+00:59:39.006,a bh a,27.00
+00:59:39.040,"a a he 7s 7 <
+~ SS da
+ie Se",32.36
+00:59:39.106,". MOS ae | 4
+ca = FAS ~s ee
+: or. ae *.
+
+> ee ~~ We",29.41
+00:59:39.140,"Poi — w ——_ .-
+= . = ore,
+. Sine © a
+
+m we.",42.82
+00:59:39.173,"he - “4 iar
+Pim = =) _ —~
+
+Dees gah
+
+bs eY-_ =",38.77
+00:59:39.206,"- ~ > _
+re = ae = =
+~~. F = gah) >
+ie pe «2 ~~",38.20
+00:59:39.240,2a Cys,23.50
+00:59:39.273,ae ee SS op,21.75
+00:59:39.307,+a Set,37.50
+00:59:39.340,"oa - — . => 5s” *)
+Ss es!
+se eS se C*: ~ ¥",28.29
+00:59:39.407,". wes: <2 ri ™y
+2 =. > > ae =
+= » a",32.67
+00:59:39.440,"* = Sek
+~ e Se",37.00
+00:59:39.473,"~ = rs ‘— s~*, %
+2's ~* ~~ Sy
+2 >",45.10
+00:59:39.540,~ a K F _,56.00
+00:59:39.573,"c _— eae. “> “| So, \*
+~ = So ag)
+ey . =
+= ae
+~ s.",47.57
+00:59:39.640,"ee Sa Sy one
+> J Sols fad =
+0 oS . Sw?
+— r",32.87
+00:59:39.674,"a 2 th ’ i, \'
+oa a,
+= ~ . ~~ 4",31.00
+00:59:39.707,"rr Ae J ia,
+Wye et",31.80
+00:59:39.740,"a 2 ae ~~ daa, \",36.17
+00:59:39.774,"a ""PP Ws. hs \
+
+i eS Moo. GA
+> PT » : Cea wy
+= a",30.12
+00:59:39.807,ee ae bd CBee,24.00
+00:59:39.840,"~ By ce iss “Ven
+Bs ks, aZ Io
+Wer net",37.60
+00:59:39.874,"a ee me 44""
+
+~ <3 BOS GES Spy
+Po» de aT ae
+
+“<. YS Sig",29.47
+00:59:39.907,"a I Db im ai
+A oy x ‘ se",42.56
+00:59:39.941,"~a = a re ; hones 2
+> nis are 4 >",37.64
+00:59:39.974,"a ""Peer Ne J
+"" fe Sn SS ay
+ot Sthe",29.12
+00:59:40.007,"ne ee 7, is Ww
+
+=» a ‘70
+> — en “ ee
+Re Ay, = a ee",39.41
+00:59:40.041,"ao > “ee ai ™m cs,
+> per “kas, 422
+. % Aw wa a Se",34.00
+00:59:40.074,"> — en :
+; ba > a vas ye",37.89
+00:59:40.107,"ee ee ™ o,
+= - =
+
+> me an “
+
+: Tey Sigs",43.42
+00:59:40.174,"a ES i - 4 ee Vv
+> fan
+3 ba ee Ate AS,",35.29
+00:59:40.207,"> aes. lS i
+— “> 4
+
+ae Vou
+
+F ao hr ae",44.77
+00:59:40.241,Re a. \ as ire,38.00
+00:59:40.274,"an ga Sy Or le Se re
+=> ta ¢ sd.
+> By eee
+, . ae a
+: t7 ok a",33.05
+00:59:40.308,ee ok ae,20.00
+00:59:40.341,"on ae Y = ? i ¥
+
+> ny are
+- gees: ae x > *,
+4 ata a as ia",37.44
+00:59:40.408,ALS >. v4 wt ao ws ‘,31.25
+00:59:40.441,"J OLS Te KS c in
+ee he Nag. NHN",24.00
+00:59:40.474,ex ean > om,39.50
+00:59:40.508,"7 ee’ ye
+4 Fy Ne
+. ~~ >. »",31.44
+00:59:40.541,"A Off X 4 8k he
+os i =
+> my RES, Sy
+oe a Na",27.44
+00:59:40.574,"an 0 eet me i a oe
+mt + The
+e coy “hac, “6 Sig!
+<s ns s . *’ ist to.
+_ SY a",29.56
+00:59:40.608,S Fe,15.00
+00:59:40.641,"al ot” et ce a CS -_
+. ae a
+> — <= <n
+. wk? De Tee SP",31.89
+00:59:40.675,"» Ole Te 4 Sh > f ake
+% xy",31.00
+00:59:40.708,"7 eer ae “hae a ee.
+< ae e » >
+is wo? Ot",31.08
+00:59:40.741,">
+ale =
+eae
+—_> Se Ne
+. a Nh",34.80
+00:59:40.775,"al Cee XK 4 Sf inka
+aA — Le Pegs
+oe ar at ee",37.54
+00:59:40.808,"aa ALE AS: vee
+: Ses ine
+i _* EC ay; \ *",32.80
+00:59:40.841,"> Ales 4 OC S: ie *
+7 ee = xj at) S>
+ed we” oe Ny",30.20
+00:59:40.875,"> ale ——e xs il wa ot lg | .
+—_ Bm? Sot. ee 34
+ew FET Ne",30.94
+00:59:40.942,"on Ale sos tl SS Sad fe a
+s ee” Nie hina",32.09
+00:59:40.975,"> Ale sees tl SS: re? GFE :
+‘ FONT a Nm",26.20
+00:59:41.008,"> ele — Ea 4 SS LS 4d A
+2 le oy er,",34.69
+00:59:41.042,"= eles Al; S. tke .
+= Bane a”",33.88
+00:59:41.075,"> al>——= 4 es. ot OS *
+e < aN ne =",36.45
+00:59:41.108,"— ALD ess tl SS yao? OD 4
+> By eos A NS
+é wey >
+Se a ie es",27.71
+00:59:41.142,"—_ Alea a SE Lo a eT
+a, “ae LA 4
+
+— d —, S>> . SZ
+
+Pe ar >
+
+Oh ad le eee",35.00
+00:59:41.175,"> aS ne a OE las Sai FS 2
+_—_ ase SS * <<",32.31
+00:59:41.208,"se ot ee ee OR Ge ee ee OS
+” BS TNY
+< P 7 » a
+
+oe ae le en",37.11
+00:59:41.242,"> tS nes oe OM Tae es eS
+mx + 4)",33.10
+00:59:41.275,"— alee a SS: (Pa g.| is
+—— =, SON; is >
+eT om",37.25
+00:59:41.309,"— CFT 4 SL AD
+_—- a <
+RET ee",21.25
+00:59:41.342,"i Co es oe OR el Ta ae AB |
+~ “eae rhe]",29.83
+00:59:41.375,"i Alea aa ED LOLS
+x 4 Ge
+
+= at oS . LN
+
+- ¢ er a",26.40
+00:59:41.409,"i Fe me aa 4 Fe rm Af
+ae i
+
+—. a Sons =
+
+= € ee r ~",35.73
+00:59:41.442,"> alee aa SSO,
+a, - * LA
+
+= — So. el ae
+
+- € XS =F om ~",46.12
+00:59:41.475,"— alow s 4 = ems f
+~ a *
+
+— a SOS: ep
+¢ Boer oe OS",31.67
+00:59:41.509,"> ale ee a SSO
+—— a SOS ‘“
+= 6 =, *
+
+“a >, a",44.43
+00:59:41.542,"_—_ oleae a SEG,
+
+— me SO%. is
+i —— ieee
+
+— €¢ £oe oe",31.54
+00:59:41.575,"aa ——
+—- <=
+al
+= r
+- “2
+= SY
+. P
+‘x =o ee
+: 4 ri
+a""",40.18
+00:59:41.609,"7 ate gp OE ~~
+= — . “ss
+- ¢ Boe oe. “he",30.92
+00:59:41.642,"a = Tee
+
+— —— Se. Wa
+ox =
+
+— - ot",30.30
+00:59:41.709,"=> sey a ES ag 8
+——— — SS. <5 by
+= 6 eS se",37.33
+00:59:41.742,"> aD LS 7 NS, a Me ae
+— ¢ 2 eh",43.00
+00:59:41.776,"— = Soe. rds
+= « wet. Nis",34.50
+00:59:41.809,"= Pe | — ER > eo |
+>> : ee Be
+— [A s 3:4
+2° 4
+= é Se, UN",46.70
+00:59:41.842,"— — —o s.5
+asst
+— @ 2s",41.67
+00:59:41.876,"= 4 Ss, US",55.50
+00:59:41.909,">> ae a Eee: f
+—_ , SO5. Ss
+— a = oa)",27.80
+00:59:41.943,">> 2D ME 7
+aX 4 Fs
+
+— si So, pod
+
+— & a= YO",37.47
+00:59:41.976,">> Pig 2 Ay , wee hg, fl
+- 3.
+— sh = Pet >
+¢@ fe em YY.
+—",37.11
+00:59:42.009,"= jo —* 2 OER 2 in 4
+=> 2 8 if
+—_ SA S5:. a
+= 6 ease ti",39.78
+00:59:42.043,"_—* a5 Aja f°? .
+>> 2S a MS ef
+>» ew",39.11
+00:59:42.076,"—-* Se Ami FR” § Ws”
+=> -L—S x 4. ME hae: 4
+= & Y= =q »)",31.79
+00:59:42.109,"_> pT LOGS.” § ps ey
+— NS 4 8 — Ee ""
+: — ean
+
+a ye Sste *",38.50
+00:59:42.143,">> PSN pf Rt Me
+—_ TA QS: Sy
+— & YreSt® 4M",45.33
+00:59:42.176,"_— oN a MB PY
+cS okey
+—— &@ wT =e NM)",31.91
+00:59:42.243,">> Pye area a
+et By’ ‘"" a Ke c
+
+—— ie Os
+— Pah > as",27.93
+00:59:42.276,"> : f
+a oe,
+es i,
+Se",41.62
+00:59:42.310,"a EY
+— ee OR
+= Pe Say",25.88
+00:59:42.343,"a BERG Oe
+: f
+
+— TA Son. =
+
+= a if' at.",34.73
+00:59:42.376,"a BL FOR SS Oe Oe)
+i i SO
+acme a . ye",33.73
+00:59:42.410,"\ @A<s> a.
+a a ee
+— —, Ss. Pi
+——s Po — . ae",30.23
+00:59:42.443,"7 FORA S = We
+—— SO %
+| pg | rete © OS",29.43
+00:59:42.476,"a Y ACA RS Os
+— a SOS ie
+“ — > s, uw »",27.15
+00:59:42.510,"= Y AO AS OA Os
+— ie SOs
+= — a - . tt:",48.36
+00:59:42.543,"_ — 4 we wacd- ie Ee
+— san So. VP",33.56
+00:59:42.577,"S.  & a ) fh h
+— aa Son. Vek",32.29
+00:59:42.610,"— i SS, 7",40.50
+00:59:42.643,"> ee ee
+— te Son. a",30.86
+00:59:42.677,"ee BE, FS SA.
+= ae a St",27.29
+00:59:42.710,"_—=s ERA EONS SA.
+7 _% a Af",32.29
+00:59:42.743,,0.00
+00:59:42.777,"# —_ —_ ie * x. me, * a",40.22
+00:59:42.810,"7s ww I ® 26 a
+a WEBER ow rp
+, z Da» Ss ;",24.17
+00:59:42.843,"oe a | Soe 4 “ny a ook Wie
+= RIO RE,",35.25
+00:59:42.877,"| ans ais Z
+-..* et ae 3",27.67
+00:59:42.910,> Bae ar,29.33
+00:59:42.944,sa et + Oo ese ee,34.33
+00:59:43.010,"in | i) A: Oe eee
+FOR a es
+Toa So",34.00
+00:59:43.044,"i | ai a: Oe, iy © Te
+———— a",35.67
+00:59:43.077,"i Se a Oe, ie
+: wy eee",33.71
+00:59:43.110,,0.00
+00:59:43.144,ta} ae Sh LAS ee ee),32.33
+00:59:43.177,— ae Pew ERG,42.25
+00:59:43.210,,0.00
+00:59:43.244,"Y me LE ae :
+—> iy . ye 4
+>i ~<a ;",42.00
+00:59:43.277,,0.00
+00:59:43.311,"g SD a ee Me al Sh
+ee A
+7 DE R",26.64
+00:59:43.344,"(4. .. <
+eo WB 4. ata
+_ ERE SS
+ee —",31.78
+00:59:43.377,= Be A eT,41.00
+00:59:43.411,,0.00
+00:59:43.444,— me Vd ae Sh,34.00
+00:59:43.477,,0.00
+00:59:43.544,": SS Ce he ee ee
+EA Kee
+- Sen ae",28.67
+00:59:43.577,"4 eee
+gc Ra “oe % = f",35.00
+00:59:43.611,"i ee Ae Ce? al
+Ee AES",40.60
+00:59:43.644,"f Nees»
+NE
+soe",22.25
+00:59:43.678,"U ; oY = Pare is) LS or
+— ~~ | + i",24.33
+00:59:43.711,,0.00
+00:59:43.744,‘o_ Me gerne a3,33.00
+00:59:43.811,"f —- ABSA
+pb FOORS acs f",27.00
+00:59:43.844,|. 6 ie a “2 Dia.,39.17
+00:59:43.911,,0.00
+00:59:43.945,i | 2.3 ay ete,34.60
+00:59:43.978,"a | + eS Wiha e z
+I = a Ao ane “ct
+b A AX Se",34.83
+00:59:44.011,": “4 Fes Via a v3 Dhar us . 9
+an KR ee 4",43.89
+00:59:44.045,"Peart na
+a"" 2
+""2 eon \ TRY, ve ae,
+Re aoe
+- >> Bee
+>",29.14
+00:59:44.078,mae! SY NY Te SS See. Ae,35.71
+00:59:44.111,"~~ * pF FORE, ate
+fer oes seen",34.00
+00:59:44.145,,0.00
+00:59:44.178,"ee ata Si gf Oe
+NN SR“ fee .",33.11
+00:59:44.211,Ne eS,52.50
+00:59:44.245,"we Pra
+_ “femora",28.67
+00:59:44.278,"} “ABA aie gta
+On aes eA!",31.43
+00:59:44.312,": gel NAS,",32.50
+00:59:44.345,em Stee my,31.00
+00:59:44.378,"ABE .? Shee
+» a pj aN Peale",31.43
+00:59:44.412,"a So a ea el
+wo Oe OE) Fes
+‘te ete) te! ds, oe",31.38
+00:59:44.445,"} pf >. ey ~S * alain g
+KR ,< 2 aa UN",37.56
+00:59:44.478,"pg} =, Wot Be SOR
+
+4 | - > yea “2
+
+} “aad a 4 En Lae
+g\ re,",36.50
+00:59:44.512,"ee Ae Ree
+oe <7 oe 4) OE",23.43
+00:59:44.545,,0.00
+00:59:44.578,"a a i a ee RY % \
+| Fr A se gees S&S
+BRS OG,
+> a. Oe ee Ni =",35.86
+00:59:44.612,ee SSE ee us,30.33
+00:59:44.645,"> of s\n te ee &
+i 4 eee cen
+\",32.91
+00:59:44.679,"="" @€& bs aM A f} 2 >
+rY Psi =, <a ote 3 ra
+; CASS Oe
+as Py —* Oe.",30.82
+00:59:44.712,"ot So \a >) ee eo
+La ABA te. Se
+a oe A at rs
+3 (FELLAS y_
+oe ele —e Sy’ FE",31.80
+00:59:44.745,"¥ BT = > Bis SLAY BV
+; Set \ig * hen
+4, xe qx aie rs
+: X SAAS eS
+7 ale ig OE",27.32
+00:59:44.779,"L Bl Hr Nc ee cage =
+ee oP ae",28.90
+00:59:44.812,"=""
+fF.
+Z Bee
+- $ 5 =e
+x.) eS 7
+rt a Ss",38.00
+00:59:44.845,"eo Ss” .*~ i SS or bv
+: AB He rte” ex
+a ee ayy ss",34.86
+00:59:44.879,"eo Ss? .* he SS Lee vs
+; Ac ges es
+“eo BS SOARES OV",32.42
+00:59:44.912,"N + =”
+Sa i
+_%; Al aa oe Bs MZ
+ei 7
+= Re a .
+A \ pea
+= 7 T—w wis’ &",38.48
+00:59:44.946,"ed 67 Sa Oh SG ©
+: } eA is Set 7
+5 = Se a Beas: ,
+: e\ See aS
+~~ Pr A@I-© Bras",33.14
+00:59:44.979,"LA SR th ON *
+
+A ’ Siees ‘ay ve Tre Vin
+a5 Sh Ay = ee
+HAS",27.67
+00:59:45.012,,0.00
+00:59:45.046,"Se Ee eee, Si, 6% \
+"" te is Er de F.
+i a Jal We a Die le
+— np FA SOARS > We",31.83
+00:59:45.079,"2 ee 7 <
+et 5) SN > Te ye
+— ; > wean Ms
+J ABT aa ees
+wh
+: ate ~ 2 @
+= =",37.79
+00:59:45.112,"a ae Sant, Sim - 9/5 ee
+4} Rr vee Oe a
+97 tS:",32.29
+00:59:45.179,"LS SE he OE
+Sh x > be Ae
+
+—_——- Pe ee Cae ea
+- S 2 *",35.50
+00:59:45.212,,0.00
+00:59:45.246,"By SrA ke aie
+—_— Mf ate a vf",26.57
+00:59:45.279,"pl me PV oe Se
+4 f Vas ~ aes ase
+. RIBAS,",34.27
+00:59:45.346,"SE AR eee Me SRI Ss
+SA ames
+\aaeats
+. aN FOAL RS OR",32.90
+00:59:45.379,"- ie sare “XK etl
+ABS oe
+
+ey ¥
+
+._ Le TOA AS",32.30
+00:59:45.413,"by oo “jr X<
+
+ae ae Fes
+
+oe | inn, 99 a, |
+
+= - J, fF. 2% ae wa Poet Te 3
+
+re Fah f pe TAS x
+
++ TOA ASS Me,
+-—_— > a
+
+=e;",31.82
+00:59:45.446,"| Se A Bie SUR
+. a FO A= Oe,",31.90
+00:59:45.513,"Pa a ea E
+. . 2X DOA AK *,",34.33
+00:59:45.579,"ee LP ar a ed) y.
+el e7 ve Se Shee
+
+Sas a
+
+— ~ < _ ANd) : “ ve",38.86
+00:59:45.646,"ae eye)
+A ~
+me LP Pon a A we
+= ¥ wee Sakae |S
+q. REN Aya ier :
+Y AOA a <> A
+
+a A",34.27
+00:59:45.713,"| A is Se 8
+
+mat Fk «> hee, |
+
+s iA ae +,
+
+AX FO AS Pe",29.33
+00:59:45.780,"ee ee Sy oe
+ —— y OO & <2 eS",38.78
+00:59:45.846,"”  P a eae ae
+Bl Ae ees
+ —_— Y OO & <> eS.",37.57
+00:59:45.913,"sy +. Ws: Pound &
+Op yey Sk",30.12
+00:59:45.980,Ae Wate te,29.33
+00:59:46.047,"A fon ae eevee. gar) wy
+y ae a",38.67
+00:59:46.147,", ABE: toe i
+=. ye A aL.",30.83
+00:59:46.180,"SARS aan eae
+| ~- xX. Se ase ~
+= * 4.07 inet",29.67
+00:59:46.247,"AD Fon ae” ye) 7 »,
+| ef ie whe
+: } Oe hee",21.64
+00:59:46.314,"= "" ey Fen woe; Jp 72
+a Asp fon a Mage Dt EB Poy,
+ABE. + See he
+
+= ee) 2 oe as.",30.67
+00:59:46.380,"WARS ear an hae
+‘ Bl eS Sah
+i we 0 ae ee",31.40
+00:59:46.447,"re it Elin oe, &
+Be ke ee
+mS a5 AN v
+! oA ase
+.",23.23
+00:59:46.480,"> He
+
+Mee. ~~ Vj
+
+PS: be AL ay/ i
+
+-— srs ae ‘de
+
+RT F? Ss “a <2 as
+
+D. = Aye
+Ss",26.35
+00:59:46.514,"""6G nf Fs
+ak a te avs Magen a A.
+—_ ld : Ni igs
+ie «Shee
+aa rey
+me ah AN
+oe ava Py Ae
+»",29.64
+00:59:46.547,"gees 2 fo th. Maly
+Y XA eae",20.33
+00:59:46.581,"a7
+ey nde ip
+yFx9 Le shea
+. Vaaae 1N"" fs Se
+ai’",25.44
+00:59:46.614,"pe AD a PLT ng,
+py oe ye fk
+-. , ee 2 ae",31.00
+00:59:46.647,"= A? lor ae) rol Ty “h
+») ABE: te Se Deeg
+i: , =e 2 as >",34.82
+00:59:46.681,"eA Oona Ar Tl.
+pl =e) «he Se
+= \ O\ 2 le aa",31.54
+00:59:46.714,"“Sa rAP yes Mee Le
+| Sis «Me Se
+an 407 ofan",29.73
+00:59:46.747,", AS ona ArT) A
+| Fe OQ Sie Sede
+a : ee 2's",28.73
+00:59:46.781,"——_——lll EEE =
+E",41.00
+01:00:00.194,Jack N. Averitt College of Graduate Studies,95.00
+01:00:08.202,Carlos Andres Carvajal Saavedra,96.00
+01:00:16.177,"Denae Miishel Joyner
+Education Specialist",94.60
+01:00:23.117,"Alexia Poole
+Education Specialist",93.25
+01:00:28.689,"Marcela Liliana Niles
+Education Specialist",96.00
+01:00:33.627,"Molly Abigail Balducci
+Education Specialist",93.20
+01:00:38.566,"Gracen Candida Price
+Education Specialist",93.60
+01:00:44.538,"Katherine Virginia Morrison-Davis
+Education Specialist",92.60
+01:00:50.411,"Carla Vizcarra Villalpando
+Education Specialist",87.20
+01:00:56.183,"Lakendra Ann Swanson
+Education Specialist",95.20
+01:01:02.056,"Mallory Ann Hogan
+Education Specialist",96.00
+01:01:08.829,"Jenna Elise Gaskins
+Education Specialist",95.20
+01:01:14.702,"Sarina Alyse Kent
+Education Specialist",94.00
+01:01:21.375,"Kayleigh Dianne Hunter
+Education Specialist",96.00
+01:01:27.348,"Wilekia Shambrese Kind
+Education Specialist",90.40
+01:01:32.486,"Melissa Shortridge
+Education Specialist",93.25
+01:01:38.559,"Susan Elizabeth Ham
+Education Specialist",93.80
+01:01:45.166,"Krystal Marcena Mills
+Education Specialist",92.40
+01:01:50.271,"LaRanda B. Hooks-Green
+Education Specialist",93.00
+01:01:56.110,"Vanity Aiesha Youngblood
+Education Specialist",94.60
+01:02:02.349,"Aisha Shakti Hakim
+Education Specialist",96.20
+01:02:08.889,"Erika Nicole Farthing
+Education Specialist",94.80
+01:02:13.828,"Amber Pollette Stewart
+Education Specialist",92.80
+01:02:20.434,"Knilah Waters
+Education Specialist",92.00
+01:02:27.241,"Amanda Clarice Wilson
+Education Specialist",96.00
+01:02:33.047,"Angela Ward Wilson
+Education Specialist",94.60
+01:02:38.819,"Eileen Fraise
+Education Specialist",92.25
+01:02:44.758,"Kelley Germaine Price
+Education Specialist",94.60
+01:02:50.965,"Adrian McBride
+Education Specialist",95.50
+01:02:56.537,"LaKennya Kierra Chatman
+Education Specialist",92.00
+01:03:02.109,"Breosha Danielle Toomer
+Education Specialist",95.20
+01:03:08.482,"Crystal LaCheryl Gibson
+Education Specialist",92.60
+01:03:15.289,"Courtney Daryl Powell
+Education Specialist",94.40
+01:03:21.662,"Frankia Roneshia Ruffin
+Education Specialist",94.40
+01:03:27.168,"Kicha Pinthiere-Jasmin
+Education Specialist",90.50
+01:03:34.108,"Bobby Darien Daniels
+Education Specialist",95.00
+01:03:41.215,"Avery Jordan
+Education Specialist",94.00
+01:03:47.755,"Krystle Williams White
+Education Specialist",96.00
+01:03:52.793,"Derek Antawan Webb
+Education Specialist",92.20
+01:03:58.566,"Michael Lynn Dillard
+Education Specialist",94.60
+01:04:04.305,"Subha Roy Vidyadharan
+Education Specialist",91.60
+01:04:11.278,"Carrissa Ilanda Dart
+Education Specialist",93.20
+01:04:18.118,"Alexis Inyang Sheafford Fluellen
+Education Specialist",91.83
+01:04:25.726,"Caprinxia Milkeisha Wallace
+Education Specialist",91.80
+01:04:31.966,"Robin ReNee Hogan
+Education Specialist",94.40
+01:04:38.872,"Amber Nicole Kersey
+Education Specialist",95.20
+01:04:52.119,"Victoria Lavale Davis
+Master of Public Health",94.57
+01:04:58.325,"Alice Ann McCloud
+Master of Public Health",95.57
+01:05:04.498,"Dorothy Kedell Seybold
+Master of Public Health",95.00
+01:05:09.837,"Donya Lafes Tirell Glenn, Jr.
+Master of Public Health",94.67
+01:05:14.541,"Dominique JaShaun Daniels
+Master of Public Health",94.86
+01:05:20.114,"Olayemi Victoria Aloba
+Master of Public Health",94.29
+01:05:26.253,"Thomas Vick Harris, Jr.
+Master of Public Health",96.00
+01:05:34.495,"Timothy O'mar Lucas II
+Master of Science",94.00
+01:05:41.402,"Dyani Ashley Whynn
+Master of Public Health",92.57
+01:05:47.174,"Sandy Denise Dawson
+Master of Public Health",95.71
+01:05:53.447,"Erika Lynn Ward
+Master of Arts in Teaching",94.50
+01:06:06.427,"Calicia Lashaun Melton
+Master of Arts in Teaching",94.62
+01:06:12.466,"Catrice Fraser
+Master of Education",95.40
+01:06:18.639,"Disha Aprilynn Leonard
+Master of Arts in Teaching",94.88
+01:06:23.844,"Joe Nathan Paige
+Master of Education",96.00
+01:06:29.383,Kayla Nicole Markey,96.00
+01:06:36.423,"Flor Rosamaria Rodriguez
+Master of Business Administration",94.57
+01:06:42.029,"Veronica Meza Martinez
+Master of Education",95.83
+01:06:47.968,"Wells Austin Scott
+Master of Business Administration",95.57
+01:06:53.540,"Sheldon Pattardo Simon, Jr.
+Master of Science in Electrical and Computer Engineering",94.25
+01:07:00.347,"Zeddie Perry IV
+Master of Science",94.50
+01:07:05.919,"Rajesh Ananthraman
+Master of Science",94.20
+01:07:11.558,"Jillian Elizabeth Reese Bates
+Master of Education",95.71
+01:07:16.430,"Madeline LaRue Wentworth
+Master of Education",95.67
+01:07:22.302,"Michael Ryan Darke
+Master of Education",95.83
+01:07:28.776,"Haley Marie Vaglienti
+Master of Science",94.50
+01:07:34.448,"Tammim Habib
+Master of Business Administration",94.50
+01:07:40.621,"Sydney Claire Smith
+Master of Science",95.67
+01:07:46.593,"Anasia Sewell
+Master of Public Health",95.17
+01:07:52.065,"Cateria Jannelle Coleman
+Master of Education",94.50
+01:07:58.072,"Kira Barnes
+Master of Healthcare Administration",94.67
+01:08:03.110,"Lovonda Bell
+Master of Arts in Teaching",95.00
+01:08:08.782,"Daiiyah Latrice Davis
+Master of Public Health",94.29
+01:08:15.122,"Naomi Camille Reyes
+Master of Public Health",95.43
+01:08:22.062,"Alysia Danae Williams
+Master of Public Health",95.57
+01:08:27.568,"April Mills
+Master of Public Health",95.00
+01:08:37.578,"Daeshjea Monae McGee
+Master of Public Health",95.29
+01:08:52.559,"Braden Joseph Waugh
+Master of Science",95.83
+01:08:58.031,"Shelby Elaine Madden
+Master of Science",95.83
+01:09:03.203,"Ezra Josef Greidinger
+Master of Science",94.67
+01:09:09.543,"Rohit Paruchuri
+Master of Science",94.40
+01:09:16.083,"Jarius Lamont Smith
+Master of Arts in Teaching",94.75
+01:09:22.489,"Draven Michael Green
+Master of Education",95.83
+01:09:28.362,"Janis S. Raymond
+Master of Arts in Teaching",93.62
+01:09:34.801,"Ella Grace Higdon
+Master of Education",95.83
+01:09:40.541,"Betsy Caroline Fuller
+Master of Arts in Teaching",96.00
+01:09:46.213,"Nicolas Garcia
+Master of Arts in Teaching",95.14
+01:09:52.686,"Taylor Sherri Drennen
+Master of Education",94.67
+01:09:57.925,"Preet Atulkumar Patel
+Master of Accounting",94.33
+01:10:03.530,"Andrew Lynch
+Master of Accounting",95.80
+01:10:08.902,"Irankunda Jancine
+Master of Accounting",94.20
+01:10:15.976,"Dorothy Hogan Marlow
+Master of Education",95.67
+01:10:21.848,"Miles Jacob Phipps
+Master of Science",95.33
+01:10:27.854,"Kaitlyn Louise Nasworthy
+Master of Education",94.67
+01:10:33.193,"Roslyn Ann Ridgeway
+Master of Public Administration",95.86
+01:10:38.665,"Ashley Fann
+Master of Education",95.80
+01:10:43.971,"Mark Lyle Mortimer
+Master of Arts in Teaching",95.88
+01:10:50.444,"Aleissa Star Wolf
+Master of Education",94.83
+01:10:57.718,"David Anthony Cole
+Master of Business Administration",95.71
+01:11:03.223,"Matthew Kyle Stewart
+Master of Arts in Teaching",95.88
+01:11:09.229,"Colt Frank Brantley
+Master of Arts in Teaching",95.50
+01:11:15.335,"Erika Faulkner
+Master of Arts in Teaching",94.57
+01:11:31.885,"Samantha Fulghum Mathe
+Master of Arts in Teaching",94.62
+01:11:37.758,"Aric Kaemon Porter
+Master of Science",94.67
+01:11:42.763,"Taylor Marie Curtis
+Master of Education",95.83
+01:11:49.136,"Marnette Lachion Price
+Master of Education",94.50
+01:11:54.608,"Takeissa Inez Clark
+Master of Arts in Teaching",93.88
+01:12:07.220,"Sierra Monee Brown
+Master of Public Health",95.43
+01:12:13.493,"Catherine Olivia Smith
+Master of Education",95.67
+01:12:19.066,"James A Pritchard
+Master of Education",95.83
+01:12:24.971,"Sherry Herron
+Master of Business Administration",96.00
+01:12:31.278,"India Patrina Davis
+Master of Science in Nursing",94.62
+01:12:37.417,"Lori Kate Maples
+Master of Science in Nursing",95.75
+01:12:43.457,"Brittaney Maria Horton
+Master of Science in Nursing",95.50
+01:12:49.062,"Madeleine Elisabeth Krueger
+Master of Science",95.67
+01:12:54.568,"Marisa Kortright
+Master of Science",94.20
+01:13:00.407,"Jennifer Mullally
+Master of Education",95.60
+01:13:05.779,"Brooke Rebecca Dixon
+Master of Education",95.83
+01:13:11.451,"Julie Beth Jones
+Master of Education",96.00
+01:13:16.490,"Deshawntee Ironhead Gallon
+Master of Public Administration",94.43
+01:13:22.829,"Nancy Aleta Mize
+Master of Arts",95.33
+01:13:28.235,"Whitney Williams Wright
+Master of Arts in Teaching",96.00
+01:13:34.241,"Joseph Andrew Mitchell
+Master of Accounting",95.83
+01:13:41.081,"Paige Leigh Massey
+Master of Education",95.83
+01:13:46.820,"Jenna Lynn Teeples
+Master of Education",94.83
+01:13:51.324,"Steven Allen Whitaker
+Master of Science",95.67
+01:13:57.798,"Thomas Anthony Schandolph
+Master of Music",93.83
+01:14:04.371,"Sydney Grace Harvey
+Master of Education",95.83
+01:14:10.177,"Thomas Alexander Love
+Master of Accounting",95.67
+01:14:15.182,"Baily Joshua Russ
+Master of Accounting",96.00
+01:14:20.320,"Crista Marie Havar
+Master of Arts in Teaching",94.25
+01:14:26.593,"Hannah Price Todd
+Master of Science in Nursing",95.38
+01:14:32.666,"Bravura Jerrod Banks, Jr.
+Master of Business Administration",95.12
+01:14:37.971,"Jonah Ronald Doyle
+Master of Science",95.83
+01:14:43.310,"Kimberly Renee Joyner
+Master of Education",95.83
+01:14:48.114,"Viviana Marie Rodriguez
+Master of Arts in Teaching",96.00
+01:14:55.355,"Nila Mojaveri
+Master of Fine Arts",93.50
+01:15:12.339,"Mackinzey H. Critzer
+Master of Fine Arts",92.71
+01:15:18.678,"Jaylen Christian Bennett Bryant
+Master of Business Administration",95.12
+01:15:24.784,"Alexis Johnson
+Master of Arts in Teaching",95.71
+01:15:30.390,"Guy Butler
+Master of Science",95.80
+01:15:36.496,"Chelsea Danielle Williams
+Master of Public Health",95.86
+01:15:42.135,"Delecia Nicole MacAlpine
+Master of Arts in Teaching",93.38
+01:15:47.007,"August Edward Rautmann
+Master of Science",93.67
+01:15:53.013,"Pamela Ann Zeno
+Master of Education",95.50
+01:16:03.023,"Patrick William Webb
+Master of Science",95.33
+01:16:07.994,"Brendan Monroe Oxford
+Master of Business Administration",95.43
+01:16:13.800,"Grant Emory Triplett
+Master of Business Administration",95.57
+01:16:19.005,"Travelverlayus Baker
+Master of Arts in Teaching",92.71
+01:16:25.211,"Koree Jacobs Joiner
+Master of Science in Nursing",95.62
+01:16:30.183,"Percy Henderson
+Master of Science",95.40
+01:16:34.854,"Katlin Rose Massey
+Master of Education",95.17
+01:16:40.927,"David Andre Skinner, Jr.
+Master of Science",95.43
+01:16:47.901,"Jennifer Hendrix Berghoff
+Master of Education",94.67
+01:16:54.674,"Kristina Renae Horsley
+Master of Arts",94.83
+01:16:59.746,"Ashleigh Jordyn Dent
+Master of Arts in Teaching",95.88
+01:17:05.452,"George-Ann Allayne Dixon
+Master of Science",94.33
+01:17:12.425,"Grace E. Rene de Cotret
+Master of Business Administration",94.33
+01:17:18.598,"Tamontray Rashad Tucker
+Master of Science",95.33
+01:17:23.670,"Destiny Deronica Richards
+Master of Public Administration",94.57
+01:17:29.109,"Ernest Adinkrah Dzomeku
+Master of Public Administration",94.14
+01:17:34.314,"Abbey McKaela Levea
+Master of Science",94.17
+01:17:40.620,"Cameron De'Jon Williams
+Master of Science",94.00
+01:17:47.127,"Shane Veal
+Master of Science in Nursing",96.00
+01:17:52.265,"Jason Otis Howell
+Master of Public Administration",96.00
+01:17:57.103,"Ashlynn Brenae Maxey
+Master of Education",94.50
+01:18:02.909,"Amaya Tennille Guyton
+Master of Education",95.83
+01:18:08.415,"Aston Clayton Thompson
+Master of Business Administration",95.43
+01:18:13.953,"Victoire Litre
+Master of Science",95.80
+01:18:19.693,"Julie Rebecca Kessler
+Master of Science",95.33
+01:18:25.198,"Sierra Lashay Smith
+Master of Education",94.67
+01:18:30.470,"Nadiyah Shamiya Louder
+Master of Education",94.50
+01:18:35.675,"Monisesie Duncan
+Master of Public Health",94.33
+01:18:42.215,"Courtney Marie Gonzales
+Master of Education",95.83
+01:18:47.787,"Ashley Elizabeth Jachimski
+Master of Education",94.67
+01:18:52.659,"Amber Hightower
+Master of Education",95.80
+01:19:03.703,"Luke Timothy Stinnett
+Master of Music",95.67
+01:19:09.242,"Joshua Edward Upchurch
+Master of Music",95.67
+01:19:14.614,"Amy Genty-Goines
+Master of Education",94.40
+01:19:20.019,"Elizabeth Renault Smith
+Master of Arts in Teaching",95.62
+01:19:24.991,"Tanya Rachelle Edwards
+Master of Arts in Teaching",95.75
+01:19:30.897,"Lina Michelle Goss
+Master of Arts in Teaching",95.12
+01:19:36.069,"Teagan Moore
+Master of Healthcare Administration",95.50
+01:19:41.274,"Ena'Marie Veronica Williams
+Master of Healthcare Administration",92.71
+01:19:46.846,"Samuel Blake Tallent
+Master of Education",96.00
+01:19:53.853,"Katie Warner
+Master of Education",95.80
+01:19:58.658,"Mohamed Keita
+Master of Business Administration",95.67
+01:20:06.266,"Benjamin David Serface
+Master of Science",94.33
+01:20:14.207,"Edward Izsan LeSane
+Master of Science",94.17
+01:20:19.913,"Lynnetta Smith
+Master of Public Administration",95.00
+01:20:25.585,"Rebekah Mae Huneke
+Master of Science",94.33
+01:20:30.356,"Roberto Jesus Jorge, Jr.
+Master of Arts",94.43
+01:20:36.963,"Jessica Rebecca Griffin
+Master of Arts in Teaching",95.75
+01:20:42.835,"Olivia Yu Wen Allen
+Master of Education",95.71
+01:20:48.875,"Laurence Maria Nado Toe
+Master of Public Health",95.00
+01:20:55.882,"LaToya Nicole Luther
+Master of Education",96.00
+01:21:04.824,"Crystal Dawn Daniels
+Master of Education",95.83
+01:21:10.930,"Amber Stroud
+Master of Science in Nursing",95.57
+01:21:16.869,"Daniel Joseph Flood IV
+Master of Science",95.57
+01:21:22.508,"Brandy Blige Adams
+Master of Public Administration",95.71
+01:21:28.715,"Anna Marie Allen
+Master of Arts in Teaching",95.88
+01:21:35.121,"Hailey Stevens Fortner
+Master of Education",94.67
+01:21:40.326,"Alyssa Lyn Kaeser
+Master of Education",96.00
+01:21:45.665,"Paige Middleton
+Master of Education",95.80
+01:21:51.004,"LaQueisha Ancira Shynice Dawson
+Master of Science",93.86
+01:21:57.310,"Kavonte Devon Brown
+Master of Science",95.17
+01:22:03.383,"Jonas Frederic Chen
+Master of Science in Electrical and Computer Engineering",95.18
+01:22:08.955,"Nicole Wells Sasser
+Master of Science in Nursing",96.00
+01:22:14.427,"Teresa Vanessa Aranda
+Master of Science in Nursing",95.75
+01:22:19.766,"Rebekah Burt Randle
+Master of Science in Nursing",95.88
+01:22:25.004,"Akira RaChelle Dominique Greene
+Master of Education",94.86
+01:22:30.310,"Charles David Stahl II
+Master of Public Administration",90.38
+01:22:35.982,"Kellyann Elizabeth Cruz
+Master of Education",95.50
+01:22:41.387,"Jenifer Annalee Love
+Master of Science",95.83
+01:22:51.731,"Maeve Jillian King
+Master of Arts",95.00
+01:22:57.603,"Hannah Conover Potter
+Master of Education",95.83
+01:23:03.576,"Tchanavia Shaniqua Scott
+Master of Business Administration",93.57
+01:23:09.248,"Tara Egan Williams
+Master of Education",96.17
+01:23:14.153,"Victarie Markela Walker
+Master of Arts in Teaching",94.62
+01:23:19.058,"Kiersten Deleah Brown
+Master of Arts in Teaching",94.88
+01:23:24.597,"Hao Cai
+Master of Science",95.60
+01:23:46.986,"Lily Mckena Cohran
+Master of Science",93.67
+01:23:52.625,"Jackson D. Gilleland
+Master of Science",94.00
+01:23:58.131,"Spencer Cade Boling
+Master of Science",95.67
+01:24:02.902,"Andrew Steven Ashley
+Master of Science",95.67
+01:24:15.515,"Kaylee M. Gaunt
+Master of Arts",94.17
+01:24:21.554,"Diego Torres Urbina
+Master of Science",96.00
+01:24:27.693,"Libby McKindley
+Master of Science",94.00
+01:24:35.968,"Morgan Grace Kieffer
+Master of Science",95.67
+01:24:41.674,"Jasmine Marquez
+Master of Science",95.60
+01:24:46.979,"Shantoria Jordan Mcclammy
+Master of Education",93.00
+01:24:55.188,"Dylan Tim Ihle
+Master of Science",92.33
+01:25:00.126,"Allison Carrington
+Master of Arts in Teaching",96.00
+01:25:05.832,"Haley Elizabeth Pearson
+Master of Education",95.83
+01:25:11.804,"Hannah Inez Holbrook
+Master of Education",96.00
+01:25:17.343,"Benjamin Kyle Page
+Master of Science in Athletic Training",95.33
+01:25:21.948,"Garrison Aldridge Rose
+Master of Science in Athletic Training",95.11
+01:25:27.420,"Phenix Chandler Blake Jenkins
+Master of Science in Athletic Training",95.50
+01:25:32.959,"Brandon Avery Elenbaas
+Master of Science in Athletic Training",94.00
+01:25:38.231,"Keely Elizabeth Goodloe
+Master of Science in Athletic Training",95.22
+01:25:43.369,"Madalyn Victoria Ravenscraft
+Master of Science in Athletic Training",94.33
+01:25:48.708,"Alexandra Socheat Helmers
+Master of Science in Athletic Training",94.11
+01:25:54.213,"Halle Alexis Cohn
+Master of Science in Athletic Training",95.44
+01:26:02.922,"Katherine Grace Williamson
+Master of Science in Athletic Training",95.11
+01:26:09.962,"Kayla Maureen Mitchell
+Master of Science in Athletic Training",95.89
+01:26:15.301,"Olivia Katherine Welch
+Master of Science in Athletic Training",95.00
+01:26:20.473,"Miranda Leanna Thompson
+Master of Science in Athletic Training",95.67
+01:26:26.078,"Jonah Simmons
+Master of Science in Athletic Training",95.38
+01:26:31.284,"Jordan Camyrn Pearson
+Master of Science in Athletic Training",94.56
+01:26:36.722,"Laura Lynn Dye Wittenauer
+Master of Arts in Teaching",93.22
+01:26:42.695,"Chinelo Chidinma Chukwuma
+Master of Science",93.00
+01:26:48.701,"Dajunia Regina Conley Gore
+Master of Public Health",94.75
+01:26:54.407,"Melissa Watson Town
+Master of Education",95.83
+01:27:00.580,"Abigail Cherie Danielle Wiggins
+Master of Education",95.29
+01:27:06.419,"Mya Kay Nicholson
+Master of Education",95.83
+01:27:12.358,"Kylie Brooke Alt
+Master of Education",95.83
+01:27:17.663,"Kristen Elise Kingery Cowart
+Master of Education",95.86
+01:27:23.002,"Heather Marie Glow
+Master of Arts in Teaching",95.75
+01:27:27.940,"Catherine Elise Lamas
+Master of Science",95.83
+01:27:33.145,"Mary Miller Kaelin
+Master of Science",95.67
+01:27:39.318,"Megan Leighann Cole
+Master of Science",94.00
+01:27:45.157,"Cameron Nicole Long
+Master of Science",95.33
+01:27:50.329,"Haley Brooke Wilkes
+Master of Science",95.50
+01:27:56.869,"Felicia Vanessa Meyme Tilles
+Master of Science",94.14
+01:28:01.741,"Jessica Noelle Stevens
+Master of Science",95.67
+01:28:06.779,"Devon Lewis Dashnaw
+Master of Science",94.33
+01:28:12.385,"Allison Raye Mulkey
+Master of Education",94.67
+01:28:20.059,"Madison Michelle Hooper
+Master of Education",96.00
+01:28:25.965,"Andru Mason Matthews
+Master of Business Administration",95.71
+01:28:30.670,"Kristen Gossett
+Master of Arts in Teaching",95.86
+01:28:36.742,"Martha Suzanne Hancock
+Master of Education",96.00
+01:28:42.148,"Mallory Alexis DuShane
+Master of Science in Nursing",95.00
+01:28:46.686,"John Corey Norton
+Master of Science in Nursing",95.88
+01:28:51.457,"Moriah Banks
+Master of Public Health",95.50
+01:28:56.562,"Renesha Charmaine Ferebee
+Master of Business Administration",94.43
+01:29:02.435,"Theresa Canady
+Master of Business Administration",95.67
+01:29:07.540,"Jessica Lee Cameron
+Master of Business Administration",95.71
+01:29:12.578,"Stephen James Robertson
+Master of Business Administration",95.86
+01:29:19.485,"Heston Luke Roberts
+Master of Science in Electrical and Computer Engineering",95.64
+01:29:24.757,"Masi Andrini Tamargo
+Master of Accounting",92.83
+01:29:29.962,"Connor Paul Braniff
+Master of Accounting",94.67
+01:29:35.501,"McKinsey Greer Ingle
+Master of Education",94.33
+01:29:41.540,"Sandry Josephine Kilby
+Master of Business Administration",95.29
+01:29:47.279,"Promise Ayebapriye Oti-Okardie
+Master of Arts",93.67
+01:29:55.855,"Oluwadamilola Jadesola Ajayi
+Master of Arts",93.67
+01:30:01.694,"Deborah Ujeh Osahor
+Master of Science in Information Technology",94.44
+01:30:07.666,"Susan Wright
+Master of Accounting",94.80
+01:30:14.039,"Suzanne Michelle Frankum
+Master of Arts in Teaching",93.00
+01:30:19.512,"Thomas Arthur Boose II
+Master of Business Administration",93.12
+01:30:24.717,"Madison Lynn Terry
+Master of Education",95.67
+01:30:30.856,"Dawn Elizabeth Perry
+Master of Education",94.83
+01:30:35.261,"Jaden Ferrell Hood
+Master of Science",95.33
+01:30:40.399,"Mandolin Shay Holloway
+Master of Education",95.50
+01:30:45.738,"Tanner Allen
+Master of Accounting",95.20
+01:30:50.676,"Evan Micah Wilson
+Master of Accounting",95.33
+01:30:54.914,"Benjamin Andrew Sikes
+Master of Science in Nursing",95.88
+01:30:59.952,"Matthew Ragsdale
+Master of Science",95.40
+01:31:04.323,"Alexander Xavier Omarion D'iant'e Archie
+Master of Science",93.25
+01:31:09.128,"Cheyenne Nicole Smith
+Master of Arts in Teaching",95.50
+01:31:13.966,"Guillermo Peralta Lopez
+Master of Science in Mechanical Engineering",95.33
+01:31:19.171,"Noah Thomas Lancaster
+Master of Education",96.00
+01:31:24.210,"John Curtis Lanier
+Master of Business Administration",95.71
+01:31:28.380,"Humza Khan
+Master of Science in Mechanical Engineering",94.50
+01:31:35.254,"Kaci Leigh Gammon
+Master of Science",95.83
+01:31:40.593,"Alexandria Rene! Bradshaw
+Master of Science",91.50
+01:31:45.564,"Lindsey Marie Breaux
+Master of Science",95.83
+01:31:51.370,"Alayna Mae Cassidy
+Master of Science",96.00
+01:31:56.909,"Ellie Gigis
+Master of Science",93.60
+01:32:02.081,"Abbygail Taylor Brooks
+Master of Science",94.83
+01:32:06.719,"Morgan Reece Hines
+Master of Science",95.67
+01:32:11.624,"Maria Isabella Gamez
+Master of Science",95.33
+01:32:16.362,"Verena Zaisberger
+Master of Science",93.80
+01:32:21.767,"Elena Carrell Spence
+Master of Science",95.67
+01:32:27.773,"Anna-Marie Bathe
+Master of Science",95.20
+01:32:33.312,"Abigail Paige Gordon
+Master of Science",95.67
+01:32:39.151,"Jace Aymond
+Master of Science",94.00
+01:32:45.024,"Nathan Thomas Ebersole
+Master of Science",95.67
+01:32:52.565,"Anna Kopituk
+Master of Science",93.40
+01:32:57.636,"Courtney Skylar Solomon
+Master of Science",95.83
+01:33:02.775,"Brian Andrew Murray
+Master of Science",95.67
+01:33:08.747,"Hyrum Preece
+Master of Science",95.80
+01:33:16.722,"Taylor Owens
+Master of Arts in Teaching",96.00
+01:33:22.761,"Makayla Nesbitt
+Master of Accounting",95.80
+01:33:30.436,"David J. Woodworth
+Master of Arts in Teaching",95.75
+01:33:37.509,"Lara L. Woodworth
+Master of Arts in Teaching",93.50
+01:33:43.315,"Zahporrah Eason
+Master of Public Health",95.33
+01:33:49.755,"Mikayla Renee Gholston
+Master of Education",94.50
+01:33:55.594,"Chasidy Angelica Jones
+Master of Education",95.00
+01:34:01.767,"Janaisha Shanice Cooper
+Master of Arts in Teaching",95.38
+01:34:07.639,"Ololade Quareebat Ogunnaike
+Master of Science in Nursing",93.62
+01:34:15.481,"Taylor Marie Montgomery
+Master of Education",95.83
+01:34:20.285,"Rachel Renae Faranda
+Master of Education",94.67
+01:34:26.492,"Cristy Sehr
+Master of Education",95.80
+01:34:31.764,"Lindsey Ann Turner
+Master of Arts in Teaching",95.62
+01:34:39.838,"Christopher Michael Nease
+Master of Science in Nursing",95.00
+01:34:45.511,"Grayce Elizabeth Houchins
+Master of Arts",92.50
+01:34:52.317,"Ashli Celeste Haynes
+Master of Arts in Teaching",94.12
+01:34:58.357,"Brandi Amira Shaw
+Master of Arts in Teaching",95.25
+01:35:04.963,"Candius Miller Harris
+Master of Arts in Teaching",95.12
+01:35:11.470,"Merri Clair Lewis
+Master of Accounting",95.50
+01:35:16.742,"Kayla Harville
+Master of Arts in Teaching",93.86
+01:35:21.313,"Carla Renae Simmons
+Master of Education",95.83
+01:35:26.652,"McKenna Marie Mumm
+Master of Arts in Teaching",95.38
+01:35:33.125,"Tammie Joanne Natho
+Master of Public Administration",94.86
+01:35:39.064,"Joshua Antonio Brown
+Master of Science",95.67
+01:35:45.237,"Rashida Yolanda Daniel Taylor
+Master of Arts in Teaching",95.89
+01:35:51.210,"Kaylee Rachel Origer
+Master of Music",94.67
+01:35:56.381,"Emma Jane Lutz
+Master of Music",95.67
+01:36:01.587,"Anna Marie Gressick
+Master of Music",94.67
+01:36:06.358,"Jediah Anthony Sabree-Brooks
+Master of Science in Electrical and Computer Engineering",93.55
+01:36:11.997,"Brian Scott Durden II
+Master of Arts in Teaching",95.44
+01:36:17.369,"Austin Alexander Ashworth
+Master of Accounting",93.67
+01:36:21.540,"Lexis Langner Riehl
+Master of Science in Nursing",94.00
+01:36:26.945,"Kamilya Lashannetta Henderson
+Master of Arts in Teaching",94.62
+01:36:32.484,"Najaah Tysha Weatherspoon
+Master of Arts in Teaching",94.00
+01:36:41.760,"Noah Grant Bell
+Master of Education",95.83
+01:36:57.376,"Kayla Grace Appiah
+Master of Education",95.50
+01:37:02.447,"Shemetria Tershon Risper
+Master of Education",94.00
+01:37:07.753,"Morgan Leigh Ayers
+Master of Education",95.83
+01:37:13.792,"Carolina Morgan Jones
+Master of Education",96.00
+01:37:18.297,"Kayla Louise Childers
+Master of Education",95.83
+01:37:24.036,"Daron Bryant
+Master of Education",95.80
+01:37:28.207,"Amanda Lucile Ganser
+Master of Business Administration",94.57
+01:37:33.779,"Matthew Jay Frost
+Master of Business Administration",95.57
+01:37:38.717,"Megan Lopez
+Master of Arts in Teaching",95.71
+01:37:45.524,"Danielle Osnoe
+Master of Education",94.40
+01:37:51.163,"Melissa Renee Hayes
+Master of Education",96.00
+01:37:56.168,"Melinawo Korku Vowotor
+Master of Science in Mechanical Engineering",94.11
+01:38:01.573,"Amiee Teresa Green
+Master of Education",95.33
+01:38:05.911,"Mary Dufie Afrane
+Master of Science",93.67
+01:38:10.949,"Rojeena Khadka
+Master of Science in Information Technology",93.75
+01:38:15.387,"Tyshawnia Nikeysha Tyler
+Master of Business Administration",94.43
+01:38:21.093,"Marsha Waters
+Master of Business Administration",95.50
+01:38:26.698,"Jordan Diane Logan
+Master of Business Administration",95.86
+01:38:32.070,"Reginald Kayne Turner
+Master of Science",95.83
+01:38:37.609,"Wilbert Stubbs
+Master of Arts",94.40
+01:38:43.548,"Erin Elizabeth Rice
+Master of Education",96.00
+01:38:53.992,"Brianna Lei Austin-Byler
+Master of Arts in Teaching",94.88
+01:39:00.198,"Julie Alexandra Ramirez
+Master of Arts in Teaching",95.38
+01:39:05.037,"Carmella Megan Lane
+Master of Arts in Teaching",95.75
+01:39:11.076,"Lashauna Nekel Hill
+Master of Arts in Teaching",94.88
+01:39:16.949,"Eleanor Danielle Solomon
+Master of Business Administration",95.71
+01:39:22.020,"Christopher Bryce Cranshaw
+Master of Healthcare Administration",92.86
+01:39:26.925,"Christina Lynna East
+Master of Healthcare Administration",92.43
+01:39:33.932,"Sydnie Lancaster
+Master of Healthcare Administration",92.83
+01:39:39.938,"Stacie Cannon
+Master of Arts in Teaching",95.43
+01:39:50.582,"Julia Christine Snyder
+Master of Arts in Teaching",95.75
+01:39:55.153,"Elizabeth Jo'aria Williams
+Master of Business Administration",93.14
+01:40:00.359,"Brandi Cameron Luke
+Master of Business Administration",95.71
+01:40:04.930,"Alayna Eggerton
+Master of Business Administration",94.50
+01:40:10.469,"Jermetra Shavette Johnson
+Master of Education",94.33
+01:40:15.240,"Hannah Grace Sweatt
+Master of Education",96.00
+01:40:19.678,"Mojoyinola Adeola Adedoyin
+Master of Science in Information Technology",93.78
+01:40:25.117,"Edward Fox Newcomb
+Master of Fine Arts",95.43
+01:40:31.356,"Amelia Elizabeth Ricker
+Master of Education",95.67
+01:40:37.129,"Jaelyn Reese Darley
+Master of Education",95.17
+01:40:46.938,"Reagan Elizabeth Voelp
+Master of Accounting",94.83
+01:40:51.877,"Denitria Janay Morrison
+Master of Arts in Teaching",94.75
+01:40:58.550,"Olabode Samuel Anifowose
+Master of Science in Mechanical Engineering",94.44
+01:41:03.321,"Kimberly Hunter
+Master of Arts in Teaching",94.00
+01:41:07.726,"Terissa Alexandra Orr
+Master of Education",95.17
+01:41:12.531,"Dakota Vhan Touchton
+Master of Arts in Teaching",94.50
+01:41:17.636,"Danny Tevell Evans
+Master of Education",94.33
+01:41:24.743,"Robin Brittany Adams
+Master of Arts in Teaching",95.38
+01:41:29.147,"Raven Laquinceya Thomas
+Master of Arts in Teaching",94.50
+01:41:35.754,"Larissa Broadway Alderman
+Master of Business Administration",95.71
+01:41:41.893,"Anish George
+Master of Business Administration",95.83
+01:41:46.064,"Rashad Laquinton Smith
+Master of Business Administration",94.57
+01:41:51.703,"Sarah Witter Liebenow
+Master of Science",94.50
+01:41:57.509,"Leah Rachel Jacobson
+Master of Arts in Teaching",95.75
+01:42:05.917,"Abigail Olivia Mannix
+Master of Arts in Teaching",94.62
+01:42:11.223,"Brittany Danielle Gibbons
+Master of Arts in Teaching",95.75
+01:42:16.495,"Elijah Michael Green
+Master of Music",95.17
+01:42:22.467,"Queshebia Paschell
+Master of Business Administration",94.33
+01:42:30.342,"Mary Campbell Kelly
+Master of Science in Nursing",95.62
+01:42:37.115,"Donessa C. Gattis
+Master of Science in Nursing",94.50
+01:42:42.721,"Jennifer Pollard Boone
+Master of Science in Nursing",95.75
+01:42:47.893,"Noah James Brack
+Master of Science in Mechanical Engineering",95.78
+01:42:55.500,"Uyiosa Steve lroghama
+Master of Science in Electrical and Computer Engineering",88.36
+01:43:00.639,"Mason Scott Durst
+Master of Business Administration",95.43
+01:43:05.810,"Ashley Tameka Murphy
+Master of Arts in Teaching",95.88
+01:43:12.551,"Leilani Chiann Hunt
+Master of Public Health",94.57
+01:43:17.822,"Fernando Nunez
+Master of Arts in Teaching",92.43
+01:43:22.928,"Congratulations, Graduate!",96.00
+01:43:27.766,"Christina Marie Mccall
+Master of Education",95.00
+01:43:37.175,"Alexis Lauren McBurney
+Master of Science",95.50
+01:43:43.582,"Daniel Oluwafemi Olofin
+Master of Science",93.67
+01:43:50.689,"Moshood Abiola Garuba
+Master of Science",93.83
+01:43:55.560,"Ashleigh Stroud
+Master of Business Administration",95.67
+01:43:59.898,"Amber Denae Fowler
+Master of Public Health",94.71
+01:44:05.804,"Kaley Hallman
+Master of Education",95.80
+01:44:11.309,"Courtney Alexis Newton
+Master of Accounting",96.00
+01:44:16.715,"Cadence Marie Lynn
+Master of Accounting",95.83
+01:44:23.622,"Jamie Bopp
+Master of Arts in Teaching",95.43
+01:44:29.060,"Calvin Scott Carter
+Master of Accounting",96.00
+01:44:33.999,"Malia T. Mann
+Master of Education",94.33
+01:44:40.772,"Macy Gabrielle Pounds
+Master of Arts",95.17
+01:44:45.043,"Giacomo Vincent Palazzolo
+Master of Accounting",94.33
+01:44:51.249,"William A. Gibson I
+Master of Accounting",90.00
+01:44:55.954,"Bridgett Marshall
+Master of Arts in Teaching",94.29
+01:45:01.693,"Savannah Elaine Ferrell
+Master of Education",95.67
+01:45:07.532,"Jessica Zenker
+Master of Education",95.60
+01:45:12.671,"Emily Marie McNatt
+Master of Education",94.50
+01:45:19.744,"Harleigh Montana Hussey
+Master of Business Administration",95.14
+01:45:24.816,"Rachael Alexia Colver
+Master of Science in Nursing",94.62
+01:45:30.088,"Kyle Andrew Kersey
+Master of Education",95.50
+01:45:36.494,"Megan Elizabeth Vigneri
+Master of Education",94.50
+01:45:40.799,"Kandace Crosby
+Master of Public Health",95.83
+01:45:46.237,"Julianna Victoria Tillman
+Master of Arts",94.67
+01:45:51.109,"Morayo Joy Akingbelue
+Master of Arts",93.83
+01:45:56.481,"Susmita Acharjee
+Master of Science in Civil Engineering",93.62
+01:46:01.352,"Jakia Jaber Tunal
+Master of Science",94.00
+01:46:06.024,"Altasia M. Phillips
+Master of Arts in Teaching",94.00
+01:46:12.230,"Caroline Elizabeth Madden
+Master of Arts in Teaching",95.88
+01:46:17.769,"Lauren Elizabeth Holt
+Master of Arts in Teaching",95.88
+01:46:22.607,"Kellen Matthew White
+Master of Science",95.67
+01:46:28.346,"Oluwafunmilayo Aminu
+Master of Business Administration",94.17
+01:46:33.318,"Denise M. Mister
+Master of Arts in Teaching",94.75
+01:46:38.623,"Brittany Marie Span
+Master of Arts in Teaching",95.88
+01:46:53.138,"Vicki Lea Lincoln
+Master of Education",96.00
+01:46:57.776,"Shavauna Harris
+Master of Arts in Teaching",93.43
+01:47:05.417,"Ashley Jewelle Lynch
+Master of Science",94.83
+01:47:11.589,"Olivia Victoria Ann Holmes
+Master of Education",95.71
+01:47:18.029,"Torri Alexandria Jackson
+Master of Science",95.50
+01:47:23.668,"Amanda Garcia - Mendoza
+Master of Arts",94.86
+01:47:29.274,"Joshua Randel Davis
+Master of Accounting",95.50
+01:47:35.447,"Rutledge Gunning Missroon
+Master of Accounting",94.17
+01:47:47.826,"Lauren Hahn Miller
+Master of Arts",95.33
+01:47:53.031,"Victoria Laree Turner
+Master of Arts",93.50
+01:47:58.069,"Ricardo Tori Valdez
+Master of Accounting",95.83
+01:48:03.441,"Karla Berenice Valles
+Master of Arts in Teaching",95.75
+01:48:09.514,"Zion Ameire Smith
+Master of Science",94.67
+01:48:15.887,"Makenzie Chanelle Bailey
+Master of Science",95.83
+01:48:21.726,"Morgan Danyelle Jackson
+Master of Science",94.33
+01:48:27.332,"Katie Cheek
+Master of Aris in Teaching",92.29
+01:48:34.239,"Adib Altallal
+Master of Public Administration",94.33
+01:48:38.676,"Essence Mon'a Johnson
+Master of Arts in Teaching",92.50
+01:48:43.848,"ShaTerrilyn Thomas
+Master of Arts in Teaching",94.57
+01:48:50.288,"Umit Ege Cankus
+Master of Arts",93.83
+01:48:56.227,"Eleanor Hancock Samples
+Master of Education",96.00
+01:49:01.833,"Kelli Aikens
+Master of Education",94.60
+01:49:14.913,"Rebekah Kaye Cole
+Master of Arts",95.33
+01:49:24.155,"Karen Curl
+Master of Business Administration",95.67
+01:49:29.794,"Madison Jo Kathleen Stefan
+Master of Arts",95.29
+01:49:34.832,"Ana Iris Flores
+Master of Arts",95.00
+01:49:40.939,"Charles Min Woo
+Master of Science",95.33
+01:49:46.311,"Nicholas Lee Sewing
+Master of Science",95.67
+01:49:52.250,"Brandi Monroe Stanberry
+Master of Arts in Teaching",94.75
+01:49:58.723,"Ashleigh Cribbs
+Master of Arts in Teaching",95.71
+01:50:03.928,"Amber Joan Guillen
+Master of Education",95.67
+01:50:10.101,"Quinn Marie Swidorski
+Master of Education",94.83
+01:50:15.273,"Eliza Anne Engle
+Master of Education",96.00
+01:50:29.120,"Sierra Cherese Griszell-James
+Master of Accounting",93.83
+01:50:35.326,"Sarah Kate Yokley
+Master of Education",94.67
+01:50:40.732,"Joshua Osasenaga Osaghae
+Master of Science in Applied Physical Science",94.40
+01:50:46.938,"Gloria Anne Moore-Clanton
+Master of Arts in Teaching",94.62
+01:50:52.977,"Jada Ivery
+Master of Business Administration",94.17
+01:50:59.150,"Courtney Fuller
+Master of Science in Nursing",96.00
+01:51:04.022,"Sarah Beth Negron
+Master of Science in Nursing",96.00
+01:51:08.693,"Sarah Alexis Batenko
+Master of Science",94.83
+01:51:15.533,"Serenity Mylasia Brooks
+Master of Accounting",94.50
+01:51:21.572,"Amanda Susan Borzello
+Master of Education",94.67
+01:51:27.912,"Dieusila Tassy
+Master of Education",94.40
+01:51:34.185,"Alyssa Gabrielle Love-Archey
+Master of Public Health",94.57
+01:51:40.091,"Kaylin Janae Berry
+Master of Public Health",95.14
+01:51:45.463,"Briana Jean MacGillivray
+Master of Arts in Teaching",92.50
+01:51:49.667,"Joanna Elisabeth Atkins
+Master of Arts in Teaching",95.62
+01:51:55.473,"Isaiah John Philipp
+Master of Arts",94.67
+01:52:01.712,"Diego Alejandro Escobar Giraldo
+Master of Music",91.00
+01:52:07.485,"Trinity Rachelle Wright
+Master of Science",95.83
+01:52:13.658,"Oliver Lew Pettes
+Master of Science",94.83
+01:52:20.631,"Classy Monae Hall
+Master of Education",95.50
+01:52:25.570,"Seth Alexander Williams
+Master of Arts in Teaching",95.88
+01:52:31.142,"Imani Michelle Williams
+Master of Education",95.67
+01:52:36.380,"Chloé D. Brown
+Master of Education",91.50
+01:52:42.520,"Nia Nicole Miles
+Master of Public Health",95.57
+01:52:47.992,"Ivey Diane Joyner
+Master of Arts in Teaching",95.88
+01:52:52.597,"Matthew Brandon Mitchell
+Master of Accounting",95.50
+01:52:58.436,"Teddie Vesselin Kapsamounov
+Master of Business Administration",93.29
+01:53:04.242,"Briana Murray Igou
+Master of Business Administration",94.57
+01:53:09.780,"Taylor Voisine
+Master of Public Health",94.83
+01:53:15.052,"Joy Parks Miraglia
+Master of Arts in Teaching",92.62
+01:53:20.558,"Leah Elizabeth Palmer
+Master of Education",95.83
+01:53:26.030,"D'Kissy Charleen Bristow
+Master of Business Administration",95.29
+01:53:31.702,"D'Erica Evans
+Master of Business Administration",95.17
+01:53:39.076,"Kareem Eugene Clarke
+Master of Business Administration",95.86
+01:53:44.415,"Jared Henry Delagrange
+Master of Arts in Teaching",95.00
+01:53:50.621,"Noah Victor Delagrange
+Master of Science",94.83
+01:53:55.760,"Joshua Vendee Merriweather
+Master of Public Administration",94.86
+01:54:00.932,"Mitchell Austin Moore
+Master of Business Administration",95.71
+01:54:06.537,"Brandon Pledger
+Master of Business Administration",95.83
+01:54:11.509,"Temitope Damilola Elijah
+Master of Sciénce in Information Technology",92.56
+01:54:17.648,"Esther Titilayo Omoyiwola
+Master of Science in Electrical and Computer Engineering",94.27
+01:54:23.888,"Ashley Nicole Cordell
+Master of Arts in Teaching",95.50
+01:54:29.393,"Jade Chiara Burney
+Master of Education",95.50
+01:54:35.233,"Rachel Diane Simmons
+Master of Business Administration",95.86
+01:54:40.304,"Alexis LeeAnn Braddy
+Master of Education",94.67
+01:54:45.209,"Daniel Milacak
+Master of Science",93.80
+01:54:50.348,"Senia Octavia Moore
+Master of Public Health",95.14
+01:54:56.487,"Azharul Islam
+Master of Science in Civil Engineering",95.12
+01:55:02.126,"Moshiur Rahman Tushar
+Master of Science in Civil Engineering",94.11
+01:55:07.231,"Dawn Merrell
+Master of Public Administration",96.00
+01:55:12.703,"Takiah Beaver
+Master of Science in Nursing",95.29
+01:55:17.808,"Tiffany Lynn Harbin
+Master of Science in Nursing",92.88
+01:55:22.613,"Renata Bass
+Master of Science in Nursing",95.00
+01:55:28.219,"Karissa Leigh Hackett
+Master of Science in Nursing",96.00
+01:55:33.824,"Jessi May Kimbrough
+Master of Science in Nursing",95.50
+01:55:38.996,"Cynthia Monroid
+Master of Arts in Teaching",94.71
+01:55:43.134,"Mary Abbigail Rowe
+Master of Arts in Teaching",95.00
+01:55:48.973,"Telitita Burley
+Master of Education",95.20
+01:55:54.712,"India Denise Newton
+Master of Education",95.50
+01:56:01.852,"Marissa Kate Ragsdale
+Master of Education",96.00
+01:56:07.658,"Michael Jake Bentley
+Master of Public Administration",96.00
+01:56:12.530,"Mary DeLoach
+Master of Public Administration",94.50
+01:56:17.401,"Walter Raleigh Robinson III
+Master of Science",92.00
+01:56:23.240,"Madeline Anna Banks
+Master of Science",95.67
+01:56:28.179,"Davis Grace Churchwell
+Master of Arts in Teaching",95.75
+01:56:34.852,"Ryan Connor Gray
+Master of Science",95.83
+01:56:39.757,"Emily Shae Barnard
+Master of Science",95.83
+01:56:57.508,"Courtney Brooke Cubbedge
+Master of Science",94.50
+01:57:02.113,"Sophia Anna Kapusinski-Russo
+Master of Science",94.17
+01:57:06.884,"Amanda Brooke Brandmire
+Master of Science",94.50
+01:57:12.423,"Hannah Hanlon
+Master of Business Administration",95.83
+01:57:35.012,"Janaba Duvia Saaka
+Master of Arts in Teaching",94.25
+01:57:40.818,"Destinee Anadia Marbley
+Master of Science",93.50
+01:57:46.957,"Mark Niblett
+Master of Accounting",95.60
+01:57:51.629,Nicodemus Gabriel Xavier Banks,96.00
+01:57:56.100,"Nasya lyanna Gilbert
+Master of Education",92.50
+01:58:01.038,"Diana Bello Fox
+Master of Education",95.83
+01:58:05.910,"Jeffrey Thomas Detweiler
+Master of Accounting",94.67
+01:58:11.982,"Angela Dawn Kiker
+Master of Science",95.67
+01:58:17.488,"Joshua Paul Kiker
+Master of Science",95.67
+01:58:23.127,"Kimberly Mae Hill
+Master of Accounting",96.00
+01:58:28.265,"Luke Carter Davis Johnson
+Master of Arts in Teaching",95.44
+01:58:33.904,"Isabel Ptacek
+Master of Arts",93.80
+01:58:40.978,"Tayden B. Berry
+Master of Science in Electrical and Computer Engineering",94.18
+01:58:47.084,"Courtney Lyn Sullivan
+Master of Public Health",96.00
+01:58:52.456,"T'yunna W. Smith
+Master of Arts",93.50
+01:58:57.761,"Jaelen Nikol Polk
+Master of Business Administration",94.29
+01:59:03.868,"Joshua Kendrick Jones
+Master of Education",96.00
+01:59:09.540,"Breanna Nicole Pye
+Master of Science in Nursing",95.88
+01:59:14.612,"Ci'Erra Tyeshia Mance
+Master of Education",93.00
+01:59:20.518,"Allison Kristine Sheppard
+Master of Arts in Teaching",95.88
+01:59:26.190,"Bella Vey Kronenberg
+Master of Arts in Teaching",94.50
+01:59:30.895,"Moses Ezikel Green III
+Master of Education",94.57
+01:59:36.901,"Jaylee Chyanne Williams
+Master of Education",94.50
+01:59:42.006,"Courtney Williams
+Master of Arts in Teaching",95.43
+01:59:46.977,"Yolanda Sherell Canady
+Master of Business Administration",94.71
+01:59:53.851,"Kelliaun Veronica Hall
+Master of Science",95.33
+01:59:59.089,"Elizabeth Dajia Rose Cody
+Master of Science",94.86
+02:00:05.729,"Sarah Kay Byrd
+Master of Education",96.00
+02:00:10.801,"Desjane Smith
+Master of Public Health",94.83
+02:00:16.373,"Jakafus Smith, Jr.
+Master of Business Administration",95.29
+02:00:22.079,"Skyya Mia LaShay Bacon
+Master of Arts",93.57
+02:00:27.084,"Maria C. Ingram
+Master of Public Health",93.57
+02:00:33.190,"Trelawny H. Francis
+Master of Education",94.67
+02:00:38.329,"Anna Karina Folds
+Master of Business Administration",95.86
+02:00:43.434,"Lynnsey Grace Eckler Mastenbrook
+Master of Science",93.29
+02:00:50.207,"Abigayle Lindsey Sheldon
+Master of Science",94.50
+02:00:54.979,"Tieshia Copeland
+Master of Education",94.80
+02:01:00.751,"Valerie Musto
+Master of Science",96.00
+02:01:05.789,"Chinedu Chidi Nwachukwu
+Master of Science in Information Technology",94.22
+02:01:11.261,"Dieudonne Mwela Tshiamala
+Master of Science",93.67
+02:01:16.200,"Kennedy Briku
+Master of Arts",94.00
+02:01:21.639,"Taylor Corvette Miles
+Master of Arts in Teaching",95.88
+02:01:28.445,"Abdulrazaq Mamud
+Master of Science in information Technology",94.12
+02:01:34.551,"Patrah Anima Frimpong
+Master of Arts",93.17
+02:01:38.989,"Kerem Dogan
+Master of Science",95.80
+02:01:43.627,"Audrey Elizabeth Popard
+Master of Arts",93.83
+02:01:48.565,"Melissa Heredia-Chegue
+Master of Education",94.40
+02:01:53.404,"Muhammad Saad
+Master of Science in Mechanical Engineering",96.00
+02:01:58.142,"Aundreya Simone James
+Master of Science",95.17
+02:02:03.881,"LaDaniel Ann Jefferson
+Master of Healthcare Administration",92.71
+02:02:09.853,"Teyonya Narcissus Jefferson
+Master of Public Health",95.00
+02:02:15.359,"Bre Nicole Adams
+Master of Arts in Teaching",95.88
+02:02:21.031,"Kwabena Boama Owusu
+Master of Healthcare Administration",93.14
+02:02:28.605,"Marchelle Imogene Fletcher
+Master of Arts in Teaching",91.50
+02:02:35.079,"Chasmia Denise Hill
+Master of Education",95.17
+02:02:41.218,"Lord Coffie
+Master of Science in Information Technology",95.00
+02:02:47.691,"Deidre Nelson
+Master of Arts in Teaching",94.86
+02:02:53.630,"Mercedes Lanay Caldwell
+Master of Science",94.67
+02:03:00.204,"Brittany Jean Espie
+Master of Science",93.83
+02:03:06.810,"Amanda Carol McCrory
+Master of Education",95.33
+02:03:11.882,"Manisha Chowdhury
+Master of Arts in Teaching",95.71
+02:03:17.454,"Francesca Jefferson
+Master of Education",95.80
+02:03:22.459,"Suzanne Samford Tatum
+Master of Education",96.00
+02:03:27.998,"Destiny Marlinda Hartwell
+Master of Science",94.67
+02:03:33.437,"Miah Yasima Monae Jones
+Master of Science",94.57
+02:03:38.275,"Noah Michael Riley
+Master of Science in Nursing",95.75
+02:03:44.882,"Chauntilena Ty’Reasha Butler
+Master of Education",94.00
+02:03:50.053,"Jacob Owusu Gakpo
+Master of Public Health",94.00
+02:03:59.229,"Padde Musa
+Master of Public Health",95.00
+02:04:06.503,"Jobayed H Badhan
+Master of Science in Civil Engineering",92.00
+02:04:14.411,"Shaveta Foreman
+Master of Arts in Teaching",94.29
+02:04:20.517,"Oluwafemi Temitope Ogungbenle
+Master of Business Administration",91.71
+02:04:28.058,"Demia Alexus White
+Master of Healthcare Administration",95.14
+02:04:33.864,"Melvin Ekene Ajuluchukwu
+Master of Science in Information Technology",94.33
+02:04:40.037,"Muhili Keulere Abdullahi
+Master of Science in Mechanical Engineering",94.56
+02:04:45.542,"Emmanuella Ogun
+Master of Science in Mechanical Engineering",95.12
+02:04:51.181,"Jasmyne Alexius Williams
+Master of Science in Nursing",94.62
+02:04:57.354,"Lina Alrefaei
+Master of Public Health",94.67
+02:05:02.292,"Madison Elizabeth Blanding
+Master of Education",95.83
+02:05:12.569,"ShaRonda DeVera Battle
+Master of Arts in Teaching",92.25
+02:05:19.042,"Abdullah Al Fahim
+Master of Science in Mechanical Engineering",95.11
+02:05:24.214,"Felecia Arenae McCollum
+Master of Arts in Teaching",94.75
+02:05:30.020,"Muhammad Mutahir
+Master of Science in Civil Engineering",94.38
+02:05:35.759,"a
+.
+,",12.00

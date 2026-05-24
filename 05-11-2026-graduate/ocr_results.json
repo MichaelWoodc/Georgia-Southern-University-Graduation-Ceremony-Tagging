@@ -1,0 +1,5107 @@
+[
+
+{
+  "index": "60124",
+  "timestamp": "00:33:26.168",
+  "label": "frame",
+  "ocr_text": "Dr. Moneak Rochelle Mccrary\n Doctor of Education\n",
+  "confidence": "77.70"
+},
+{
+  "index": "60838",
+  "timestamp": "00:33:49.992",
+  "label": "frame",
+  "ocr_text": "Dr. Zsa Zsa Blue Davis\n Doctor of Education\n",
+  "confidence": "78.60"
+},
+{
+  "index": "61406",
+  "timestamp": "00:34:08.944",
+  "label": "frame",
+  "ocr_text": "Dr. Keia Monai Dodd\n Doctor of Education\n",
+  "confidence": "69.90"
+},
+{
+  "index": "61406",
+  "timestamp": "00:34:08.944",
+  "label": "frame",
+  "ocr_text": "Dr. Keia Monai Dodd\nDoctor of Education",
+  "confidence": "93.71"
+},
+{
+  "index": "61988",
+  "timestamp": "00:34:28.363",
+  "label": "frame",
+  "ocr_text": "Dr. Trina Rossman Smith\nDoctor of Education",
+  "confidence": "95.57"
+},
+{
+  "index": "62499",
+  "timestamp": "00:34:45.414",
+  "label": "frame",
+  "ocr_text": "Dr. Jason R. Trotter\nDoctor of Education",
+  "confidence": "95.14"
+},
+{
+  "index": "63246",
+  "timestamp": "00:35:10.339",
+  "label": "frame",
+  "ocr_text": "Dr. Melissa Ann Francisco\nDoctor of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "63921",
+  "timestamp": "00:35:32.861",
+  "label": "frame",
+  "ocr_text": "Dr. Kimberly Lashon Hollis\nDoctor of Education",
+  "confidence": "94.14"
+},
+{
+  "index": "64621",
+  "timestamp": "00:35:56.218",
+  "label": "frame",
+  "ocr_text": "Dr. Alyxandra Kathryn Nelson\nDoctor of Education",
+  "confidence": "94.86"
+},
+{
+  "index": "65347",
+  "timestamp": "00:36:20.442",
+  "label": "frame",
+  "ocr_text": "Dr. Kanesha Michelle Williams\nDoctor of Education",
+  "confidence": "94.29"
+},
+{
+  "index": "66216",
+  "timestamp": "00:36:49.438",
+  "label": "frame",
+  "ocr_text": "Dr. Destiny Ann Nazzrie\nDoctor of Education",
+  "confidence": "94.86"
+},
+{
+  "index": "67028",
+  "timestamp": "00:37:16.531",
+  "label": "frame",
+  "ocr_text": "Dr. Herbert Lee Chambers, Jr.\nDoctor of Education",
+  "confidence": "95.88"
+},
+{
+  "index": "67615",
+  "timestamp": "00:37:36.118",
+  "label": "frame",
+  "ocr_text": "Dr. Jana Brown Collins\nDoctor of Education",
+  "confidence": "95.71"
+},
+{
+  "index": "68354",
+  "timestamp": "00:38:00.776",
+  "label": "frame",
+  "ocr_text": "Dr. Sean Patrick Bianchi\nDoctor of Education",
+  "confidence": "95.86"
+},
+{
+  "index": "68354",
+  "timestamp": "00:38:00.776",
+  "label": "frame",
+  "ocr_text": "Dr. Sean Patrick Bianchi\nDoctor of Education",
+  "confidence": "95.86"
+},
+{
+  "index": "69003",
+  "timestamp": "00:38:22.431",
+  "label": "frame",
+  "ocr_text": "Dr. Kimberly Rae Kirstein\nDoctor of Education",
+  "confidence": "95.57"
+},
+{
+  "index": "69687",
+  "timestamp": "00:38:45.254",
+  "label": "frame",
+  "ocr_text": "Dr. Letitice Katrice Johnson\nDoctor of Education",
+  "confidence": "94.57"
+},
+{
+  "index": "70290",
+  "timestamp": "00:39:05.374",
+  "label": "frame",
+  "ocr_text": "Dr. Luis F. Mercado Rosario\nDoctor of Education",
+  "confidence": "94.50"
+},
+{
+  "index": "71033",
+  "timestamp": "00:39:30.165",
+  "label": "frame",
+  "ocr_text": "Dr. Michael Allen Jones\nDoctor of Education",
+  "confidence": "95.71"
+},
+{
+  "index": "71679",
+  "timestamp": "00:39:51.720",
+  "label": "frame",
+  "ocr_text": "Dr. Jayde Brittany Nelson\nDoctor of Education",
+  "confidence": "95.29"
+},
+{
+  "index": "72322",
+  "timestamp": "00:40:13.175",
+  "label": "frame",
+  "ocr_text": "Dr. Jerry J. Oliver, Jr.\nDoctor of Education",
+  "confidence": "95.25"
+},
+{
+  "index": "73003",
+  "timestamp": "00:40:35.898",
+  "label": "frame",
+  "ocr_text": "Dr. Bridgette LaShaun Allen\nDoctor of Education",
+  "confidence": "95.14"
+},
+{
+  "index": "73616",
+  "timestamp": "00:40:56.351",
+  "label": "frame",
+  "ocr_text": "Dr. Alison Dimsdale Geigerman\nDoctor of Education",
+  "confidence": "94.71"
+},
+{
+  "index": "74383",
+  "timestamp": "00:41:21.944",
+  "label": "frame",
+  "ocr_text": "Dr. Ivy Y. Brannen\nDoctor of Education",
+  "confidence": "93.86"
+},
+{
+  "index": "75066",
+  "timestamp": "00:41:44.733",
+  "label": "frame",
+  "ocr_text": "Dr. Jody Marie Showell\nDoctor of Nursing Practice",
+  "confidence": "94.50"
+},
+{
+  "index": "75775",
+  "timestamp": "00:42:08.390",
+  "label": "frame",
+  "ocr_text": "Dr. Allison Nicole Weaver\nDoctor of Nursing Practice",
+  "confidence": "96.00"
+},
+{
+  "index": "76440",
+  "timestamp": "00:42:30.579",
+  "label": "frame",
+  "ocr_text": "Dr. Trekesha Mitchell Broady\nDoctor of Nursing Practice",
+  "confidence": "93.62"
+},
+{
+  "index": "77125",
+  "timestamp": "00:42:53.435",
+  "label": "frame",
+  "ocr_text": "Dr. Temica Bohannon Niblack\nDoctor of Nursing Practice",
+  "confidence": "94.00"
+},
+{
+  "index": "77952",
+  "timestamp": "00:43:21.029",
+  "label": "frame",
+  "ocr_text": "Dr. Kelly Elizabeth Ashley\nDoctor of Physical Therapy",
+  "confidence": "95.00"
+},
+{
+  "index": "78392",
+  "timestamp": "00:43:35.711",
+  "label": "frame",
+  "ocr_text": "Dr. Amber Renee Bass\nDoctor of Physical Therapy",
+  "confidence": "96.00"
+},
+{
+  "index": "78866",
+  "timestamp": "00:43:51.526",
+  "label": "frame",
+  "ocr_text": "Dr. Haley Elizabeth Burke\nDoctor of Physical Therapy",
+  "confidence": "95.62"
+},
+{
+  "index": "79330",
+  "timestamp": "00:44:07.009",
+  "label": "frame",
+  "ocr_text": "Dr. Kallan Noelle Carper\nDoctor of Physical Therapy",
+  "confidence": "94.62"
+},
+{
+  "index": "79820",
+  "timestamp": "00:44:23.358",
+  "label": "frame",
+  "ocr_text": "Dr. Benjamin Wade Castleberry\nDoctor of Physical Therapy",
+  "confidence": "94.50"
+},
+{
+  "index": "80215",
+  "timestamp": "00:44:36.538",
+  "label": "frame",
+  "ocr_text": "Dr. Jon Mason Clements\nDoctor of Physical Therapy",
+  "confidence": "94.12"
+},
+{
+  "index": "80683",
+  "timestamp": "00:44:52.154",
+  "label": "frame",
+  "ocr_text": "Dr. Ka'Leah Janae Davis\nDoctor of Physical Therapy",
+  "confidence": "95.00"
+},
+{
+  "index": "81182",
+  "timestamp": "00:45:08.804",
+  "label": "frame",
+  "ocr_text": "Dr. Jaden Anne Delperdang\nDoctor of Physical Therapy",
+  "confidence": "94.88"
+},
+{
+  "index": "81586",
+  "timestamp": "00:45:22.284",
+  "label": "frame",
+  "ocr_text": "Dr. Charlotte Hagan Dempsey\nDoctor of Physical Therapy",
+  "confidence": "96.00"
+},
+{
+  "index": "82031",
+  "timestamp": "00:45:37.132",
+  "label": "frame",
+  "ocr_text": "Dr. Sarah Annlee Freeman\nDoctor of Physical Therapy",
+  "confidence": "95.00"
+},
+{
+  "index": "82448",
+  "timestamp": "00:45:51.046",
+  "label": "frame",
+  "ocr_text": "Dr. Makena Gormley\nDoctor of Physical Therapy",
+  "confidence": "94.14"
+},
+{
+  "index": "82930",
+  "timestamp": "00:46:07.129",
+  "label": "frame",
+  "ocr_text": "Dr. Rebekah Louise Harville\nDoctor of Physical Therapy",
+  "confidence": "95.00"
+},
+{
+  "index": "83371",
+  "timestamp": "00:46:21.843",
+  "label": "frame",
+  "ocr_text": "Dr. Brooke Mackenzie Hester\nDoctor of Physical Therapy",
+  "confidence": "94.88"
+},
+{
+  "index": "83804",
+  "timestamp": "00:46:36.291",
+  "label": "frame",
+  "ocr_text": "Dr. Michael Hoff\nDoctor of Physical Therapy",
+  "confidence": "94.71"
+},
+{
+  "index": "84180",
+  "timestamp": "00:46:48.837",
+  "label": "frame",
+  "ocr_text": "Dr. Madelyn Paige Jackson\nDoctor of Physical Therapy",
+  "confidence": "96.00"
+},
+{
+  "index": "84640",
+  "timestamp": "00:47:04.186",
+  "label": "frame",
+  "ocr_text": "Dr. Colin Davis Jones\nDoctor of Physical Therapy",
+  "confidence": "96.25"
+},
+{
+  "index": "85526",
+  "timestamp": "00:47:33.748",
+  "label": "frame",
+  "ocr_text": "Dr. Morgan Elizabeth Lee\nDoctor of Physical Therapy",
+  "confidence": "95.75"
+},
+{
+  "index": "85948",
+  "timestamp": "00:47:47.829",
+  "label": "frame",
+  "ocr_text": "Dr. Clare Covington Mackie\nDoctor of Physical Therapy",
+  "confidence": "95.50"
+},
+{
+  "index": "86450",
+  "timestamp": "00:48:04.579",
+  "label": "frame",
+  "ocr_text": "Dr. Bridgid Moira McCabe\nDoctor of Physical Therapy",
+  "confidence": "94.50"
+},
+{
+  "index": "86900",
+  "timestamp": "00:48:19.594",
+  "label": "frame",
+  "ocr_text": "Dr. Aubrey Jackson Merritt\nDoctor of Physical Therapy",
+  "confidence": "95.88"
+},
+{
+  "index": "87290",
+  "timestamp": "00:48:32.607",
+  "label": "frame",
+  "ocr_text": "Dr. Samantha Lynn Miller\nDoctor of Physical Therapy",
+  "confidence": "95.00"
+},
+{
+  "index": "87736",
+  "timestamp": "00:48:47.489",
+  "label": "frame",
+  "ocr_text": "Dr. Deanna Alexis Saunders\nDoctor of Physical Therapy",
+  "confidence": "95.50"
+},
+{
+  "index": "88196",
+  "timestamp": "00:49:02.837",
+  "label": "frame",
+  "ocr_text": "Dr. Kathryn Elizabeth Schreck\nDoctor of Physical Therapy",
+  "confidence": "95.75"
+},
+{
+  "index": "88652",
+  "timestamp": "00:49:18.053",
+  "label": "frame",
+  "ocr_text": "Dr. Kaitlyn Grace Shepherd\nDoctor of Physical Therapy",
+  "confidence": "95.88"
+},
+{
+  "index": "89053",
+  "timestamp": "00:49:31.433",
+  "label": "frame",
+  "ocr_text": "Dr. Luke Joshua Sunderman\nDoctor of Physical Therapy",
+  "confidence": "95.75"
+},
+{
+  "index": "89525",
+  "timestamp": "00:49:47.182",
+  "label": "frame",
+  "ocr_text": "Dr. Katie Elizabeth Thomsen\nDoctor of Physical Therapy",
+  "confidence": "95.62"
+},
+{
+  "index": "90012",
+  "timestamp": "00:50:03.431",
+  "label": "frame",
+  "ocr_text": "Dr. Janette Elaine Tripp\nDoctor of Physical Therapy",
+  "confidence": "95.25"
+},
+{
+  "index": "90533",
+  "timestamp": "00:50:20.815",
+  "label": "frame",
+  "ocr_text": "Dr. Shaylan Angel Wassner\nDoctor of Physical Therapy",
+  "confidence": "93.88"
+},
+{
+  "index": "91009",
+  "timestamp": "00:50:36.698",
+  "label": "frame",
+  "ocr_text": "Dr. Christopher Brice Watson\nDoctor of Physical Therapy",
+  "confidence": "95.00"
+},
+{
+  "index": "91527",
+  "timestamp": "00:50:53.982",
+  "label": "frame",
+  "ocr_text": "Dr. Connor Bradley Watson\nDoctor of Physical Therapy",
+  "confidence": "95.62"
+},
+{
+  "index": "91987",
+  "timestamp": "00:51:09.330",
+  "label": "frame",
+  "ocr_text": "Dr. William Ryan Wofford\nDoctor of Physical Therapy",
+  "confidence": "95.38"
+},
+{
+  "index": "92571",
+  "timestamp": "00:51:28.817",
+  "label": "frame",
+  "ocr_text": "Dr. Tamaya S. Browder\nDoctor of Public Health",
+  "confidence": "94.88"
+},
+{
+  "index": "93074",
+  "timestamp": "00:51:45.600",
+  "label": "frame",
+  "ocr_text": "Dr. Chantia Kimbrell Taylor\nDoctor of Public Health",
+  "confidence": "94.38"
+},
+{
+  "index": "93654",
+  "timestamp": "00:52:04.953",
+  "label": "frame",
+  "ocr_text": "Dr. Alisha Danielle Riggins\nDoctor of Public Health",
+  "confidence": "95.38"
+},
+{
+  "index": "94215",
+  "timestamp": "00:52:23.671",
+  "label": "frame",
+  "ocr_text": "Dr. Paige Jont\u00e9e Perry\nDoctor of Public Health",
+  "confidence": "94.25"
+},
+{
+  "index": "94843",
+  "timestamp": "00:52:44.626",
+  "label": "frame",
+  "ocr_text": "Dr. Lukas Flint Roberson\nDoctor of Public Health",
+  "confidence": "96.12"
+},
+{
+  "index": "95461",
+  "timestamp": "00:53:05.246",
+  "label": "frame",
+  "ocr_text": "Dr. Jennifer Lentine\nDoctor of Public Health",
+  "confidence": "88.43"
+},
+{
+  "index": "95955",
+  "timestamp": "00:53:21.729",
+  "label": "frame",
+  "ocr_text": "Dr. Ryran Reshard Traylor\nDoctor of Public Health",
+  "confidence": "94.50"
+},
+{
+  "index": "96752",
+  "timestamp": "00:53:48.323",
+  "label": "frame",
+  "ocr_text": "Dr. Dwight David Williams, Jr.\nDoctor of Public Health",
+  "confidence": "95.67"
+},
+{
+  "index": "97379",
+  "timestamp": "00:54:09.243",
+  "label": "frame",
+  "ocr_text": "Dr. Claire-Lorentz Ugo-Ike\nDoctor of Publie Health",
+  "confidence": "88.29"
+},
+{
+  "index": "97989",
+  "timestamp": "00:54:29.597",
+  "label": "frame",
+  "ocr_text": "Dr. Debra Rich\nDoctor of Public Health",
+  "confidence": "89.43"
+},
+{
+  "index": "98610",
+  "timestamp": "00:54:50.318",
+  "label": "frame",
+  "ocr_text": "Dr. Ashton Marie Harris\nDoctor of Public Health",
+  "confidence": "95.50"
+},
+{
+  "index": "99246",
+  "timestamp": "00:55:11.539",
+  "label": "frame",
+  "ocr_text": "Dr. Savannah Taylor Steedley\nDoctor of Public Health",
+  "confidence": "95.00"
+},
+{
+  "index": "99977",
+  "timestamp": "00:55:35.930",
+  "label": "frame",
+  "ocr_text": "Dr. Trina Suttles\nDoctor of Public Health",
+  "confidence": "92.29"
+},
+{
+  "index": "100696",
+  "timestamp": "00:55:59.921",
+  "label": "frame",
+  "ocr_text": "Dr. Samuel Anokye-Mensah\nDoctor of Public Health",
+  "confidence": "94.71"
+},
+{
+  "index": "101401",
+  "timestamp": "00:56:23.444",
+  "label": "frame",
+  "ocr_text": "Dr. Jason Dwain Butler, Jr.\nDoctor of Public Health",
+  "confidence": "95.67"
+},
+{
+  "index": "101881",
+  "timestamp": "00:56:39.460",
+  "label": "frame",
+  "ocr_text": "Dr. Danielle Louise Smith\nDoctor of Public Health",
+  "confidence": "95.88"
+},
+{
+  "index": "102560",
+  "timestamp": "00:57:02.116",
+  "label": "frame",
+  "ocr_text": "Dr. Nazish Masud\nDoctor of Public Health",
+  "confidence": "94.71"
+},
+
+{
+  "index": "107897",
+  "timestamp": "01:00:00.194",
+  "label": "frame",
+  "ocr_text": "Jack N. Averitt College of Graduate Studies",
+  "confidence": "95.00"
+},
+{
+  "index": "108137",
+  "timestamp": "01:00:08.202",
+  "label": "frame",
+  "ocr_text": "Carlos Andres Carvajal Saavedra",
+  "confidence": "96.00"
+},
+{
+  "index": "108376",
+  "timestamp": "01:00:16.177",
+  "label": "frame",
+  "ocr_text": "Denae Miishel Joyner\nEducation Specialist",
+  "confidence": "94.60"
+},
+{
+  "index": "108584",
+  "timestamp": "01:00:23.117",
+  "label": "frame",
+  "ocr_text": "Alexia Poole\nEducation Specialist",
+  "confidence": "93.25"
+},
+{
+  "index": "108751",
+  "timestamp": "01:00:28.689",
+  "label": "frame",
+  "ocr_text": "Marcela Liliana Niles\nEducation Specialist",
+  "confidence": "96.00"
+},
+{
+  "index": "108899",
+  "timestamp": "01:00:33.627",
+  "label": "frame",
+  "ocr_text": "Molly Abigail Balducci\nEducation Specialist",
+  "confidence": "93.20"
+},
+{
+  "index": "109047",
+  "timestamp": "01:00:38.566",
+  "label": "frame",
+  "ocr_text": "Gracen Candida Price\nEducation Specialist",
+  "confidence": "93.60"
+},
+{
+  "index": "109226",
+  "timestamp": "01:00:44.538",
+  "label": "frame",
+  "ocr_text": "Katherine Virginia Morrison-Davis\nEducation Specialist",
+  "confidence": "92.60"
+},
+{
+  "index": "109402",
+  "timestamp": "01:00:50.411",
+  "label": "frame",
+  "ocr_text": "Carla Vizcarra Villalpando\nEducation Specialist",
+  "confidence": "87.20"
+},
+{
+  "index": "109575",
+  "timestamp": "01:00:56.183",
+  "label": "frame",
+  "ocr_text": "Lakendra Ann Swanson\nEducation Specialist",
+  "confidence": "95.20"
+},
+{
+  "index": "109751",
+  "timestamp": "01:01:02.056",
+  "label": "frame",
+  "ocr_text": "Mallory Ann Hogan\nEducation Specialist",
+  "confidence": "96.00"
+},
+{
+  "index": "109954",
+  "timestamp": "01:01:08.829",
+  "label": "frame",
+  "ocr_text": "Jenna Elise Gaskins\nEducation Specialist",
+  "confidence": "95.20"
+},
+{
+  "index": "110130",
+  "timestamp": "01:01:14.702",
+  "label": "frame",
+  "ocr_text": "Sarina Alyse Kent\nEducation Specialist",
+  "confidence": "94.00"
+},
+{
+  "index": "110330",
+  "timestamp": "01:01:21.375",
+  "label": "frame",
+  "ocr_text": "Kayleigh Dianne Hunter\nEducation Specialist",
+  "confidence": "96.00"
+},
+{
+  "index": "110509",
+  "timestamp": "01:01:27.348",
+  "label": "frame",
+  "ocr_text": "Wilekia Shambrese Kind\nEducation Specialist",
+  "confidence": "90.40"
+},
+{
+  "index": "110663",
+  "timestamp": "01:01:32.486",
+  "label": "frame",
+  "ocr_text": "Melissa Shortridge\nEducation Specialist",
+  "confidence": "93.25"
+},
+{
+  "index": "110845",
+  "timestamp": "01:01:38.559",
+  "label": "frame",
+  "ocr_text": "Susan Elizabeth Ham\nEducation Specialist",
+  "confidence": "93.80"
+},
+{
+  "index": "111043",
+  "timestamp": "01:01:45.166",
+  "label": "frame",
+  "ocr_text": "Krystal Marcena Mills\nEducation Specialist",
+  "confidence": "92.40"
+},
+{
+  "index": "111196",
+  "timestamp": "01:01:50.271",
+  "label": "frame",
+  "ocr_text": "LaRanda B. Hooks-Green\nEducation Specialist",
+  "confidence": "93.00"
+},
+{
+  "index": "111371",
+  "timestamp": "01:01:56.110",
+  "label": "frame",
+  "ocr_text": "Vanity Aiesha Youngblood\nEducation Specialist",
+  "confidence": "94.60"
+},
+{
+  "index": "111558",
+  "timestamp": "01:02:02.349",
+  "label": "frame",
+  "ocr_text": "Aisha Shakti Hakim\nEducation Specialist",
+  "confidence": "96.20"
+},
+{
+  "index": "111754",
+  "timestamp": "01:02:08.889",
+  "label": "frame",
+  "ocr_text": "Erika Nicole Farthing\nEducation Specialist",
+  "confidence": "94.80"
+},
+{
+  "index": "111902",
+  "timestamp": "01:02:13.828",
+  "label": "frame",
+  "ocr_text": "Amber Pollette Stewart\nEducation Specialist",
+  "confidence": "92.80"
+},
+{
+  "index": "112100",
+  "timestamp": "01:02:20.434",
+  "label": "frame",
+  "ocr_text": "Knilah Waters\nEducation Specialist",
+  "confidence": "92.00"
+},
+{
+  "index": "112304",
+  "timestamp": "01:02:27.241",
+  "label": "frame",
+  "ocr_text": "Amanda Clarice Wilson\nEducation Specialist",
+  "confidence": "96.00"
+},
+{
+  "index": "112478",
+  "timestamp": "01:02:33.047",
+  "label": "frame",
+  "ocr_text": "Angela Ward Wilson\nEducation Specialist",
+  "confidence": "94.60"
+},
+{
+  "index": "112651",
+  "timestamp": "01:02:38.819",
+  "label": "frame",
+  "ocr_text": "Eileen Fraise\nEducation Specialist",
+  "confidence": "92.25"
+},
+{
+  "index": "112829",
+  "timestamp": "01:02:44.758",
+  "label": "frame",
+  "ocr_text": "Kelley Germaine Price\nEducation Specialist",
+  "confidence": "94.60"
+},
+{
+  "index": "113015",
+  "timestamp": "01:02:50.965",
+  "label": "frame",
+  "ocr_text": "Adrian McBride\nEducation Specialist",
+  "confidence": "95.50"
+},
+{
+  "index": "113182",
+  "timestamp": "01:02:56.537",
+  "label": "frame",
+  "ocr_text": "LaKennya Kierra Chatman\nEducation Specialist",
+  "confidence": "92.00"
+},
+{
+  "index": "113349",
+  "timestamp": "01:03:02.109",
+  "label": "frame",
+  "ocr_text": "Breosha Danielle Toomer\nEducation Specialist",
+  "confidence": "95.20"
+},
+{
+  "index": "113540",
+  "timestamp": "01:03:08.482",
+  "label": "frame",
+  "ocr_text": "Crystal LaCheryl Gibson\nEducation Specialist",
+  "confidence": "92.60"
+},
+{
+  "index": "113744",
+  "timestamp": "01:03:15.289",
+  "label": "frame",
+  "ocr_text": "Courtney Daryl Powell\nEducation Specialist",
+  "confidence": "94.40"
+},
+{
+  "index": "113935",
+  "timestamp": "01:03:21.662",
+  "label": "frame",
+  "ocr_text": "Frankia Roneshia Ruffin\nEducation Specialist",
+  "confidence": "94.40"
+},
+{
+  "index": "114100",
+  "timestamp": "01:03:27.168",
+  "label": "frame",
+  "ocr_text": "Kicha Pinthiere-Jasmin\nEducation Specialist",
+  "confidence": "90.50"
+},
+{
+  "index": "114308",
+  "timestamp": "01:03:34.108",
+  "label": "frame",
+  "ocr_text": "Bobby Darien Daniels\nEducation Specialist",
+  "confidence": "95.00"
+},
+{
+  "index": "114521",
+  "timestamp": "01:03:41.215",
+  "label": "frame",
+  "ocr_text": "Avery Jordan\nEducation Specialist",
+  "confidence": "94.00"
+},
+{
+  "index": "114717",
+  "timestamp": "01:03:47.755",
+  "label": "frame",
+  "ocr_text": "Krystle Williams White\nEducation Specialist",
+  "confidence": "96.00"
+},
+{
+  "index": "114868",
+  "timestamp": "01:03:52.793",
+  "label": "frame",
+  "ocr_text": "Derek Antawan Webb\nEducation Specialist",
+  "confidence": "92.20"
+},
+{
+  "index": "115041",
+  "timestamp": "01:03:58.566",
+  "label": "frame",
+  "ocr_text": "Michael Lynn Dillard\nEducation Specialist",
+  "confidence": "94.60"
+},
+{
+  "index": "115213",
+  "timestamp": "01:04:04.305",
+  "label": "frame",
+  "ocr_text": "Subha Roy Vidyadharan\nEducation Specialist",
+  "confidence": "91.60"
+},
+{
+  "index": "115422",
+  "timestamp": "01:04:11.278",
+  "label": "frame",
+  "ocr_text": "Carrissa Ilanda Dart\nEducation Specialist",
+  "confidence": "93.20"
+},
+{
+  "index": "115627",
+  "timestamp": "01:04:18.118",
+  "label": "frame",
+  "ocr_text": "Alexis Inyang Sheafford Fluellen\nEducation Specialist",
+  "confidence": "91.83"
+},
+{
+  "index": "115855",
+  "timestamp": "01:04:25.726",
+  "label": "frame",
+  "ocr_text": "Caprinxia Milkeisha Wallace\nEducation Specialist",
+  "confidence": "91.80"
+},
+{
+  "index": "116042",
+  "timestamp": "01:04:31.966",
+  "label": "frame",
+  "ocr_text": "Robin ReNee Hogan\nEducation Specialist",
+  "confidence": "94.40"
+},
+{
+  "index": "116249",
+  "timestamp": "01:04:38.872",
+  "label": "frame",
+  "ocr_text": "Amber Nicole Kersey\nEducation Specialist",
+  "confidence": "95.20"
+},
+{
+  "index": "116646",
+  "timestamp": "01:04:52.119",
+  "label": "frame",
+  "ocr_text": "Victoria Lavale Davis\nMaster of Public Health",
+  "confidence": "94.57"
+},
+{
+  "index": "116832",
+  "timestamp": "01:04:58.325",
+  "label": "frame",
+  "ocr_text": "Alice Ann McCloud\nMaster of Public Health",
+  "confidence": "95.57"
+},
+{
+  "index": "117017",
+  "timestamp": "01:05:04.498",
+  "label": "frame",
+  "ocr_text": "Dorothy Kedell Seybold\nMaster of Public Health",
+  "confidence": "95.00"
+},
+{
+  "index": "117177",
+  "timestamp": "01:05:09.837",
+  "label": "frame",
+  "ocr_text": "Donya Lafes Tirell Glenn, Jr.\nMaster of Public Health",
+  "confidence": "94.67"
+},
+{
+  "index": "117318",
+  "timestamp": "01:05:14.541",
+  "label": "frame",
+  "ocr_text": "Dominique JaShaun Daniels\nMaster of Public Health",
+  "confidence": "94.86"
+},
+{
+  "index": "117485",
+  "timestamp": "01:05:20.114",
+  "label": "frame",
+  "ocr_text": "Olayemi Victoria Aloba\nMaster of Public Health",
+  "confidence": "94.29"
+},
+{
+  "index": "117669",
+  "timestamp": "01:05:26.253",
+  "label": "frame",
+  "ocr_text": "Thomas Vick Harris, Jr.\nMaster of Public Health",
+  "confidence": "96.00"
+},
+{
+  "index": "117916",
+  "timestamp": "01:05:34.495",
+  "label": "frame",
+  "ocr_text": "Timothy O'mar Lucas II\nMaster of Science",
+  "confidence": "94.00"
+},
+{
+  "index": "118123",
+  "timestamp": "01:05:41.402",
+  "label": "frame",
+  "ocr_text": "Dyani Ashley Whynn\nMaster of Public Health",
+  "confidence": "92.57"
+},
+{
+  "index": "118296",
+  "timestamp": "01:05:47.174",
+  "label": "frame",
+  "ocr_text": "Sandy Denise Dawson\nMaster of Public Health",
+  "confidence": "95.71"
+},
+{
+  "index": "118484",
+  "timestamp": "01:05:53.447",
+  "label": "frame",
+  "ocr_text": "Erika Lynn Ward\nMaster of Arts in Teaching",
+  "confidence": "94.50"
+},
+{
+  "index": "118873",
+  "timestamp": "01:06:06.427",
+  "label": "frame",
+  "ocr_text": "Calicia Lashaun Melton\nMaster of Arts in Teaching",
+  "confidence": "94.62"
+},
+{
+  "index": "119054",
+  "timestamp": "01:06:12.466",
+  "label": "frame",
+  "ocr_text": "Catrice Fraser\nMaster of Education",
+  "confidence": "95.40"
+},
+{
+  "index": "119239",
+  "timestamp": "01:06:18.639",
+  "label": "frame",
+  "ocr_text": "Disha Aprilynn Leonard\nMaster of Arts in Teaching",
+  "confidence": "94.88"
+},
+{
+  "index": "119395",
+  "timestamp": "01:06:23.844",
+  "label": "frame",
+  "ocr_text": "Joe Nathan Paige\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "119561",
+  "timestamp": "01:06:29.383",
+  "label": "frame",
+  "ocr_text": "Kayla Nicole Markey",
+  "confidence": "96.00"
+},
+{
+  "index": "119772",
+  "timestamp": "01:06:36.423",
+  "label": "frame",
+  "ocr_text": "Flor Rosamaria Rodriguez\nMaster of Business Administration",
+  "confidence": "94.57"
+},
+{
+  "index": "119940",
+  "timestamp": "01:06:42.029",
+  "label": "frame",
+  "ocr_text": "Veronica Meza Martinez\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "120118",
+  "timestamp": "01:06:47.968",
+  "label": "frame",
+  "ocr_text": "Wells Austin Scott\nMaster of Business Administration",
+  "confidence": "95.57"
+},
+{
+  "index": "120285",
+  "timestamp": "01:06:53.540",
+  "label": "frame",
+  "ocr_text": "Sheldon Pattardo Simon, Jr.\nMaster of Science in Electrical and Computer Engineering",
+  "confidence": "94.25"
+},
+{
+  "index": "120489",
+  "timestamp": "01:07:00.347",
+  "label": "frame",
+  "ocr_text": "Zeddie Perry IV\nMaster of Science",
+  "confidence": "94.50"
+},
+{
+  "index": "120656",
+  "timestamp": "01:07:05.919",
+  "label": "frame",
+  "ocr_text": "Rajesh Ananthraman\nMaster of Science",
+  "confidence": "94.20"
+},
+{
+  "index": "120825",
+  "timestamp": "01:07:11.558",
+  "label": "frame",
+  "ocr_text": "Jillian Elizabeth Reese Bates\nMaster of Education",
+  "confidence": "95.71"
+},
+{
+  "index": "120971",
+  "timestamp": "01:07:16.430",
+  "label": "frame",
+  "ocr_text": "Madeline LaRue Wentworth\nMaster of Education",
+  "confidence": "95.67"
+},
+{
+  "index": "121147",
+  "timestamp": "01:07:22.302",
+  "label": "frame",
+  "ocr_text": "Michael Ryan Darke\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "121341",
+  "timestamp": "01:07:28.776",
+  "label": "frame",
+  "ocr_text": "Haley Marie Vaglienti\nMaster of Science",
+  "confidence": "94.50"
+},
+{
+  "index": "121511",
+  "timestamp": "01:07:34.448",
+  "label": "frame",
+  "ocr_text": "Tammim Habib\nMaster of Business Administration",
+  "confidence": "94.50"
+},
+{
+  "index": "121696",
+  "timestamp": "01:07:40.621",
+  "label": "frame",
+  "ocr_text": "Sydney Claire Smith\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "121875",
+  "timestamp": "01:07:46.593",
+  "label": "frame",
+  "ocr_text": "Anasia Sewell\nMaster of Public Health",
+  "confidence": "95.17"
+},
+{
+  "index": "122039",
+  "timestamp": "01:07:52.065",
+  "label": "frame",
+  "ocr_text": "Cateria Jannelle Coleman\nMaster of Education",
+  "confidence": "94.50"
+},
+{
+  "index": "122219",
+  "timestamp": "01:07:58.072",
+  "label": "frame",
+  "ocr_text": "Kira Barnes\nMaster of Healthcare Administration",
+  "confidence": "94.67"
+},
+{
+  "index": "122370",
+  "timestamp": "01:08:03.110",
+  "label": "frame",
+  "ocr_text": "Lovonda Bell\nMaster of Arts in Teaching",
+  "confidence": "95.00"
+},
+{
+  "index": "122540",
+  "timestamp": "01:08:08.782",
+  "label": "frame",
+  "ocr_text": "Daiiyah Latrice Davis\nMaster of Public Health",
+  "confidence": "94.29"
+},
+{
+  "index": "122730",
+  "timestamp": "01:08:15.122",
+  "label": "frame",
+  "ocr_text": "Naomi Camille Reyes\nMaster of Public Health",
+  "confidence": "95.43"
+},
+{
+  "index": "122938",
+  "timestamp": "01:08:22.062",
+  "label": "frame",
+  "ocr_text": "Alysia Danae Williams\nMaster of Public Health",
+  "confidence": "95.57"
+},
+{
+  "index": "123103",
+  "timestamp": "01:08:27.568",
+  "label": "frame",
+  "ocr_text": "April Mills\nMaster of Public Health",
+  "confidence": "95.00"
+},
+{
+  "index": "123403",
+  "timestamp": "01:08:37.578",
+  "label": "frame",
+  "ocr_text": "Daeshjea Monae McGee\nMaster of Public Health",
+  "confidence": "95.29"
+},
+{
+  "index": "123852",
+  "timestamp": "01:08:52.559",
+  "label": "frame",
+  "ocr_text": "Braden Joseph Waugh\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "124016",
+  "timestamp": "01:08:58.031",
+  "label": "frame",
+  "ocr_text": "Shelby Elaine Madden\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "124171",
+  "timestamp": "01:09:03.203",
+  "label": "frame",
+  "ocr_text": "Ezra Josef Greidinger\nMaster of Science",
+  "confidence": "94.67"
+},
+{
+  "index": "124361",
+  "timestamp": "01:09:09.543",
+  "label": "frame",
+  "ocr_text": "Rohit Paruchuri\nMaster of Science",
+  "confidence": "94.40"
+},
+{
+  "index": "124557",
+  "timestamp": "01:09:16.083",
+  "label": "frame",
+  "ocr_text": "Jarius Lamont Smith\nMaster of Arts in Teaching",
+  "confidence": "94.75"
+},
+{
+  "index": "124749",
+  "timestamp": "01:09:22.489",
+  "label": "frame",
+  "ocr_text": "Draven Michael Green\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "124925",
+  "timestamp": "01:09:28.362",
+  "label": "frame",
+  "ocr_text": "Janis S. Raymond\nMaster of Arts in Teaching",
+  "confidence": "93.62"
+},
+{
+  "index": "125118",
+  "timestamp": "01:09:34.801",
+  "label": "frame",
+  "ocr_text": "Ella Grace Higdon\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "125290",
+  "timestamp": "01:09:40.541",
+  "label": "frame",
+  "ocr_text": "Betsy Caroline Fuller\nMaster of Arts in Teaching",
+  "confidence": "96.00"
+},
+{
+  "index": "125460",
+  "timestamp": "01:09:46.213",
+  "label": "frame",
+  "ocr_text": "Nicolas Garcia\nMaster of Arts in Teaching",
+  "confidence": "95.14"
+},
+{
+  "index": "125654",
+  "timestamp": "01:09:52.686",
+  "label": "frame",
+  "ocr_text": "Taylor Sherri Drennen\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "125811",
+  "timestamp": "01:09:57.925",
+  "label": "frame",
+  "ocr_text": "Preet Atulkumar Patel\nMaster of Accounting",
+  "confidence": "94.33"
+},
+{
+  "index": "125979",
+  "timestamp": "01:10:03.530",
+  "label": "frame",
+  "ocr_text": "Andrew Lynch\nMaster of Accounting",
+  "confidence": "95.80"
+},
+{
+  "index": "126140",
+  "timestamp": "01:10:08.902",
+  "label": "frame",
+  "ocr_text": "Irankunda Jancine\nMaster of Accounting",
+  "confidence": "94.20"
+},
+{
+  "index": "126352",
+  "timestamp": "01:10:15.976",
+  "label": "frame",
+  "ocr_text": "Dorothy Hogan Marlow\nMaster of Education",
+  "confidence": "95.67"
+},
+{
+  "index": "126528",
+  "timestamp": "01:10:21.848",
+  "label": "frame",
+  "ocr_text": "Miles Jacob Phipps\nMaster of Science",
+  "confidence": "95.33"
+},
+{
+  "index": "126708",
+  "timestamp": "01:10:27.854",
+  "label": "frame",
+  "ocr_text": "Kaitlyn Louise Nasworthy\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "126868",
+  "timestamp": "01:10:33.193",
+  "label": "frame",
+  "ocr_text": "Roslyn Ann Ridgeway\nMaster of Public Administration",
+  "confidence": "95.86"
+},
+{
+  "index": "127032",
+  "timestamp": "01:10:38.665",
+  "label": "frame",
+  "ocr_text": "Ashley Fann\nMaster of Education",
+  "confidence": "95.80"
+},
+{
+  "index": "127191",
+  "timestamp": "01:10:43.971",
+  "label": "frame",
+  "ocr_text": "Mark Lyle Mortimer\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "127385",
+  "timestamp": "01:10:50.444",
+  "label": "frame",
+  "ocr_text": "Aleissa Star Wolf\nMaster of Education",
+  "confidence": "94.83"
+},
+{
+  "index": "127603",
+  "timestamp": "01:10:57.718",
+  "label": "frame",
+  "ocr_text": "David Anthony Cole\nMaster of Business Administration",
+  "confidence": "95.71"
+},
+{
+  "index": "127768",
+  "timestamp": "01:11:03.223",
+  "label": "frame",
+  "ocr_text": "Matthew Kyle Stewart\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "127948",
+  "timestamp": "01:11:09.229",
+  "label": "frame",
+  "ocr_text": "Colt Frank Brantley\nMaster of Arts in Teaching",
+  "confidence": "95.50"
+},
+{
+  "index": "128131",
+  "timestamp": "01:11:15.335",
+  "label": "frame",
+  "ocr_text": "Erika Faulkner\nMaster of Arts in Teaching",
+  "confidence": "94.57"
+},
+{
+  "index": "128627",
+  "timestamp": "01:11:31.885",
+  "label": "frame",
+  "ocr_text": "Samantha Fulghum Mathe\nMaster of Arts in Teaching",
+  "confidence": "94.62"
+},
+{
+  "index": "128803",
+  "timestamp": "01:11:37.758",
+  "label": "frame",
+  "ocr_text": "Aric Kaemon Porter\nMaster of Science",
+  "confidence": "94.67"
+},
+{
+  "index": "128953",
+  "timestamp": "01:11:42.763",
+  "label": "frame",
+  "ocr_text": "Taylor Marie Curtis\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "129144",
+  "timestamp": "01:11:49.136",
+  "label": "frame",
+  "ocr_text": "Marnette Lachion Price\nMaster of Education",
+  "confidence": "94.50"
+},
+{
+  "index": "129308",
+  "timestamp": "01:11:54.608",
+  "label": "frame",
+  "ocr_text": "Takeissa Inez Clark\nMaster of Arts in Teaching",
+  "confidence": "93.88"
+},
+{
+  "index": "129686",
+  "timestamp": "01:12:07.220",
+  "label": "frame",
+  "ocr_text": "Sierra Monee Brown\nMaster of Public Health",
+  "confidence": "95.43"
+},
+{
+  "index": "129874",
+  "timestamp": "01:12:13.493",
+  "label": "frame",
+  "ocr_text": "Catherine Olivia Smith\nMaster of Education",
+  "confidence": "95.67"
+},
+{
+  "index": "130041",
+  "timestamp": "01:12:19.066",
+  "label": "frame",
+  "ocr_text": "James A Pritchard\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "130218",
+  "timestamp": "01:12:24.971",
+  "label": "frame",
+  "ocr_text": "Sherry Herron\nMaster of Business Administration",
+  "confidence": "96.00"
+},
+{
+  "index": "130407",
+  "timestamp": "01:12:31.278",
+  "label": "frame",
+  "ocr_text": "India Patrina Davis\nMaster of Science in Nursing",
+  "confidence": "94.62"
+},
+{
+  "index": "130591",
+  "timestamp": "01:12:37.417",
+  "label": "frame",
+  "ocr_text": "Lori Kate Maples\nMaster of Science in Nursing",
+  "confidence": "95.75"
+},
+{
+  "index": "130772",
+  "timestamp": "01:12:43.457",
+  "label": "frame",
+  "ocr_text": "Brittaney Maria Horton\nMaster of Science in Nursing",
+  "confidence": "95.50"
+},
+{
+  "index": "130940",
+  "timestamp": "01:12:49.062",
+  "label": "frame",
+  "ocr_text": "Madeleine Elisabeth Krueger\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "131105",
+  "timestamp": "01:12:54.568",
+  "label": "frame",
+  "ocr_text": "Marisa Kortright\nMaster of Science",
+  "confidence": "94.20"
+},
+{
+  "index": "131280",
+  "timestamp": "01:13:00.407",
+  "label": "frame",
+  "ocr_text": "Jennifer Mullally\nMaster of Education",
+  "confidence": "95.60"
+},
+{
+  "index": "131441",
+  "timestamp": "01:13:05.779",
+  "label": "frame",
+  "ocr_text": "Brooke Rebecca Dixon\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "131611",
+  "timestamp": "01:13:11.451",
+  "label": "frame",
+  "ocr_text": "Julie Beth Jones\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "131762",
+  "timestamp": "01:13:16.490",
+  "label": "frame",
+  "ocr_text": "Deshawntee Ironhead Gallon\nMaster of Public Administration",
+  "confidence": "94.43"
+},
+{
+  "index": "131952",
+  "timestamp": "01:13:22.829",
+  "label": "frame",
+  "ocr_text": "Nancy Aleta Mize\nMaster of Arts",
+  "confidence": "95.33"
+},
+{
+  "index": "132114",
+  "timestamp": "01:13:28.235",
+  "label": "frame",
+  "ocr_text": "Whitney Williams Wright\nMaster of Arts in Teaching",
+  "confidence": "96.00"
+},
+{
+  "index": "132294",
+  "timestamp": "01:13:34.241",
+  "label": "frame",
+  "ocr_text": "Joseph Andrew Mitchell\nMaster of Accounting",
+  "confidence": "95.83"
+},
+{
+  "index": "132499",
+  "timestamp": "01:13:41.081",
+  "label": "frame",
+  "ocr_text": "Paige Leigh Massey\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "132671",
+  "timestamp": "01:13:46.820",
+  "label": "frame",
+  "ocr_text": "Jenna Lynn Teeples\nMaster of Education",
+  "confidence": "94.83"
+},
+{
+  "index": "132806",
+  "timestamp": "01:13:51.324",
+  "label": "frame",
+  "ocr_text": "Steven Allen Whitaker\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "133000",
+  "timestamp": "01:13:57.798",
+  "label": "frame",
+  "ocr_text": "Thomas Anthony Schandolph\nMaster of Music",
+  "confidence": "93.83"
+},
+{
+  "index": "133197",
+  "timestamp": "01:14:04.371",
+  "label": "frame",
+  "ocr_text": "Sydney Grace Harvey\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "133371",
+  "timestamp": "01:14:10.177",
+  "label": "frame",
+  "ocr_text": "Thomas Alexander Love\nMaster of Accounting",
+  "confidence": "95.67"
+},
+{
+  "index": "133521",
+  "timestamp": "01:14:15.182",
+  "label": "frame",
+  "ocr_text": "Baily Joshua Russ\nMaster of Accounting",
+  "confidence": "96.00"
+},
+{
+  "index": "133675",
+  "timestamp": "01:14:20.320",
+  "label": "frame",
+  "ocr_text": "Crista Marie Havar\nMaster of Arts in Teaching",
+  "confidence": "94.25"
+},
+{
+  "index": "133863",
+  "timestamp": "01:14:26.593",
+  "label": "frame",
+  "ocr_text": "Hannah Price Todd\nMaster of Science in Nursing",
+  "confidence": "95.38"
+},
+{
+  "index": "134045",
+  "timestamp": "01:14:32.666",
+  "label": "frame",
+  "ocr_text": "Bravura Jerrod Banks, Jr.\nMaster of Business Administration",
+  "confidence": "95.12"
+},
+{
+  "index": "134204",
+  "timestamp": "01:14:37.971",
+  "label": "frame",
+  "ocr_text": "Jonah Ronald Doyle\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "134364",
+  "timestamp": "01:14:43.310",
+  "label": "frame",
+  "ocr_text": "Kimberly Renee Joyner\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "134508",
+  "timestamp": "01:14:48.114",
+  "label": "frame",
+  "ocr_text": "Viviana Marie Rodriguez\nMaster of Arts in Teaching",
+  "confidence": "96.00"
+},
+{
+  "index": "134725",
+  "timestamp": "01:14:55.355",
+  "label": "frame",
+  "ocr_text": "Nila Mojaveri\nMaster of Fine Arts",
+  "confidence": "93.50"
+},
+{
+  "index": "135234",
+  "timestamp": "01:15:12.339",
+  "label": "frame",
+  "ocr_text": "Mackinzey H. Critzer\nMaster of Fine Arts",
+  "confidence": "92.71"
+},
+{
+  "index": "135424",
+  "timestamp": "01:15:18.678",
+  "label": "frame",
+  "ocr_text": "Jaylen Christian Bennett Bryant\nMaster of Business Administration",
+  "confidence": "95.12"
+},
+{
+  "index": "135607",
+  "timestamp": "01:15:24.784",
+  "label": "frame",
+  "ocr_text": "Alexis Johnson\nMaster of Arts in Teaching",
+  "confidence": "95.71"
+},
+{
+  "index": "135775",
+  "timestamp": "01:15:30.390",
+  "label": "frame",
+  "ocr_text": "Guy Butler\nMaster of Science",
+  "confidence": "95.80"
+},
+{
+  "index": "135958",
+  "timestamp": "01:15:36.496",
+  "label": "frame",
+  "ocr_text": "Chelsea Danielle Williams\nMaster of Public Health",
+  "confidence": "95.86"
+},
+{
+  "index": "136127",
+  "timestamp": "01:15:42.135",
+  "label": "frame",
+  "ocr_text": "Delecia Nicole MacAlpine\nMaster of Arts in Teaching",
+  "confidence": "93.38"
+},
+{
+  "index": "136273",
+  "timestamp": "01:15:47.007",
+  "label": "frame",
+  "ocr_text": "August Edward Rautmann\nMaster of Science",
+  "confidence": "93.67"
+},
+{
+  "index": "136453",
+  "timestamp": "01:15:53.013",
+  "label": "frame",
+  "ocr_text": "Pamela Ann Zeno\nMaster of Education",
+  "confidence": "95.50"
+},
+{
+  "index": "136753",
+  "timestamp": "01:16:03.023",
+  "label": "frame",
+  "ocr_text": "Patrick William Webb\nMaster of Science",
+  "confidence": "95.33"
+},
+{
+  "index": "136902",
+  "timestamp": "01:16:07.994",
+  "label": "frame",
+  "ocr_text": "Brendan Monroe Oxford\nMaster of Business Administration",
+  "confidence": "95.43"
+},
+{
+  "index": "137076",
+  "timestamp": "01:16:13.800",
+  "label": "frame",
+  "ocr_text": "Grant Emory Triplett\nMaster of Business Administration",
+  "confidence": "95.57"
+},
+{
+  "index": "137232",
+  "timestamp": "01:16:19.005",
+  "label": "frame",
+  "ocr_text": "Travelverlayus Baker\nMaster of Arts in Teaching",
+  "confidence": "92.71"
+},
+{
+  "index": "137418",
+  "timestamp": "01:16:25.211",
+  "label": "frame",
+  "ocr_text": "Koree Jacobs Joiner\nMaster of Science in Nursing",
+  "confidence": "95.62"
+},
+{
+  "index": "137567",
+  "timestamp": "01:16:30.183",
+  "label": "frame",
+  "ocr_text": "Percy Henderson\nMaster of Science",
+  "confidence": "95.40"
+},
+{
+  "index": "137707",
+  "timestamp": "01:16:34.854",
+  "label": "frame",
+  "ocr_text": "Katlin Rose Massey\nMaster of Education",
+  "confidence": "95.17"
+},
+{
+  "index": "137889",
+  "timestamp": "01:16:40.927",
+  "label": "frame",
+  "ocr_text": "David Andre Skinner, Jr.\nMaster of Science",
+  "confidence": "95.43"
+},
+{
+  "index": "138098",
+  "timestamp": "01:16:47.901",
+  "label": "frame",
+  "ocr_text": "Jennifer Hendrix Berghoff\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "138301",
+  "timestamp": "01:16:54.674",
+  "label": "frame",
+  "ocr_text": "Kristina Renae Horsley\nMaster of Arts",
+  "confidence": "94.83"
+},
+{
+  "index": "138453",
+  "timestamp": "01:16:59.746",
+  "label": "frame",
+  "ocr_text": "Ashleigh Jordyn Dent\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "138624",
+  "timestamp": "01:17:05.452",
+  "label": "frame",
+  "ocr_text": "George-Ann Allayne Dixon\nMaster of Science",
+  "confidence": "94.33"
+},
+{
+  "index": "138833",
+  "timestamp": "01:17:12.425",
+  "label": "frame",
+  "ocr_text": "Grace E. Rene de Cotret\nMaster of Business Administration",
+  "confidence": "94.33"
+},
+{
+  "index": "139018",
+  "timestamp": "01:17:18.598",
+  "label": "frame",
+  "ocr_text": "Tamontray Rashad Tucker\nMaster of Science",
+  "confidence": "95.33"
+},
+{
+  "index": "139170",
+  "timestamp": "01:17:23.670",
+  "label": "frame",
+  "ocr_text": "Destiny Deronica Richards\nMaster of Public Administration",
+  "confidence": "94.57"
+},
+{
+  "index": "139333",
+  "timestamp": "01:17:29.109",
+  "label": "frame",
+  "ocr_text": "Ernest Adinkrah Dzomeku\nMaster of Public Administration",
+  "confidence": "94.14"
+},
+{
+  "index": "139489",
+  "timestamp": "01:17:34.314",
+  "label": "frame",
+  "ocr_text": "Abbey McKaela Levea\nMaster of Science",
+  "confidence": "94.17"
+},
+{
+  "index": "139678",
+  "timestamp": "01:17:40.620",
+  "label": "frame",
+  "ocr_text": "Cameron De'Jon Williams\nMaster of Science",
+  "confidence": "94.00"
+},
+{
+  "index": "139873",
+  "timestamp": "01:17:47.127",
+  "label": "frame",
+  "ocr_text": "Shane Veal\nMaster of Science in Nursing",
+  "confidence": "96.00"
+},
+{
+  "index": "140027",
+  "timestamp": "01:17:52.265",
+  "label": "frame",
+  "ocr_text": "Jason Otis Howell\nMaster of Public Administration",
+  "confidence": "96.00"
+},
+{
+  "index": "140172",
+  "timestamp": "01:17:57.103",
+  "label": "frame",
+  "ocr_text": "Ashlynn Brenae Maxey\nMaster of Education",
+  "confidence": "94.50"
+},
+{
+  "index": "140346",
+  "timestamp": "01:18:02.909",
+  "label": "frame",
+  "ocr_text": "Amaya Tennille Guyton\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "140511",
+  "timestamp": "01:18:08.415",
+  "label": "frame",
+  "ocr_text": "Aston Clayton Thompson\nMaster of Business Administration",
+  "confidence": "95.43"
+},
+{
+  "index": "140677",
+  "timestamp": "01:18:13.953",
+  "label": "frame",
+  "ocr_text": "Victoire Litre\nMaster of Science",
+  "confidence": "95.80"
+},
+{
+  "index": "140849",
+  "timestamp": "01:18:19.693",
+  "label": "frame",
+  "ocr_text": "Julie Rebecca Kessler\nMaster of Science",
+  "confidence": "95.33"
+},
+{
+  "index": "141014",
+  "timestamp": "01:18:25.198",
+  "label": "frame",
+  "ocr_text": "Sierra Lashay Smith\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "141172",
+  "timestamp": "01:18:30.470",
+  "label": "frame",
+  "ocr_text": "Nadiyah Shamiya Louder\nMaster of Education",
+  "confidence": "94.50"
+},
+{
+  "index": "141328",
+  "timestamp": "01:18:35.675",
+  "label": "frame",
+  "ocr_text": "Monisesie Duncan\nMaster of Public Health",
+  "confidence": "94.33"
+},
+{
+  "index": "141524",
+  "timestamp": "01:18:42.215",
+  "label": "frame",
+  "ocr_text": "Courtney Marie Gonzales\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "141691",
+  "timestamp": "01:18:47.787",
+  "label": "frame",
+  "ocr_text": "Ashley Elizabeth Jachimski\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "141837",
+  "timestamp": "01:18:52.659",
+  "label": "frame",
+  "ocr_text": "Amber Hightower\nMaster of Education",
+  "confidence": "95.80"
+},
+{
+  "index": "142168",
+  "timestamp": "01:19:03.703",
+  "label": "frame",
+  "ocr_text": "Luke Timothy Stinnett\nMaster of Music",
+  "confidence": "95.67"
+},
+{
+  "index": "142334",
+  "timestamp": "01:19:09.242",
+  "label": "frame",
+  "ocr_text": "Joshua Edward Upchurch\nMaster of Music",
+  "confidence": "95.67"
+},
+{
+  "index": "142495",
+  "timestamp": "01:19:14.614",
+  "label": "frame",
+  "ocr_text": "Amy Genty-Goines\nMaster of Education",
+  "confidence": "94.40"
+},
+{
+  "index": "142657",
+  "timestamp": "01:19:20.019",
+  "label": "frame",
+  "ocr_text": "Elizabeth Renault Smith\nMaster of Arts in Teaching",
+  "confidence": "95.62"
+},
+{
+  "index": "142806",
+  "timestamp": "01:19:24.991",
+  "label": "frame",
+  "ocr_text": "Tanya Rachelle Edwards\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "142983",
+  "timestamp": "01:19:30.897",
+  "label": "frame",
+  "ocr_text": "Lina Michelle Goss\nMaster of Arts in Teaching",
+  "confidence": "95.12"
+},
+{
+  "index": "143138",
+  "timestamp": "01:19:36.069",
+  "label": "frame",
+  "ocr_text": "Teagan Moore\nMaster of Healthcare Administration",
+  "confidence": "95.50"
+},
+{
+  "index": "143294",
+  "timestamp": "01:19:41.274",
+  "label": "frame",
+  "ocr_text": "Ena'Marie Veronica Williams\nMaster of Healthcare Administration",
+  "confidence": "92.71"
+},
+{
+  "index": "143461",
+  "timestamp": "01:19:46.846",
+  "label": "frame",
+  "ocr_text": "Samuel Blake Tallent\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "143671",
+  "timestamp": "01:19:53.853",
+  "label": "frame",
+  "ocr_text": "Katie Warner\nMaster of Education",
+  "confidence": "95.80"
+},
+{
+  "index": "143815",
+  "timestamp": "01:19:58.658",
+  "label": "frame",
+  "ocr_text": "Mohamed Keita\nMaster of Business Administration",
+  "confidence": "95.67"
+},
+{
+  "index": "144043",
+  "timestamp": "01:20:06.266",
+  "label": "frame",
+  "ocr_text": "Benjamin David Serface\nMaster of Science",
+  "confidence": "94.33"
+},
+{
+  "index": "144281",
+  "timestamp": "01:20:14.207",
+  "label": "frame",
+  "ocr_text": "Edward Izsan LeSane\nMaster of Science",
+  "confidence": "94.17"
+},
+{
+  "index": "144452",
+  "timestamp": "01:20:19.913",
+  "label": "frame",
+  "ocr_text": "Lynnetta Smith\nMaster of Public Administration",
+  "confidence": "95.00"
+},
+{
+  "index": "144622",
+  "timestamp": "01:20:25.585",
+  "label": "frame",
+  "ocr_text": "Rebekah Mae Huneke\nMaster of Science",
+  "confidence": "94.33"
+},
+{
+  "index": "144765",
+  "timestamp": "01:20:30.356",
+  "label": "frame",
+  "ocr_text": "Roberto Jesus Jorge, Jr.\nMaster of Arts",
+  "confidence": "94.43"
+},
+{
+  "index": "144963",
+  "timestamp": "01:20:36.963",
+  "label": "frame",
+  "ocr_text": "Jessica Rebecca Griffin\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "145139",
+  "timestamp": "01:20:42.835",
+  "label": "frame",
+  "ocr_text": "Olivia Yu Wen Allen\nMaster of Education",
+  "confidence": "95.71"
+},
+{
+  "index": "145320",
+  "timestamp": "01:20:48.875",
+  "label": "frame",
+  "ocr_text": "Laurence Maria Nado Toe\nMaster of Public Health",
+  "confidence": "95.00"
+},
+{
+  "index": "145530",
+  "timestamp": "01:20:55.882",
+  "label": "frame",
+  "ocr_text": "LaToya Nicole Luther\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "145798",
+  "timestamp": "01:21:04.824",
+  "label": "frame",
+  "ocr_text": "Crystal Dawn Daniels\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "145981",
+  "timestamp": "01:21:10.930",
+  "label": "frame",
+  "ocr_text": "Amber Stroud\nMaster of Science in Nursing",
+  "confidence": "95.57"
+},
+{
+  "index": "146159",
+  "timestamp": "01:21:16.869",
+  "label": "frame",
+  "ocr_text": "Daniel Joseph Flood IV\nMaster of Science",
+  "confidence": "95.57"
+},
+{
+  "index": "146328",
+  "timestamp": "01:21:22.508",
+  "label": "frame",
+  "ocr_text": "Brandy Blige Adams\nMaster of Public Administration",
+  "confidence": "95.71"
+},
+{
+  "index": "146514",
+  "timestamp": "01:21:28.715",
+  "label": "frame",
+  "ocr_text": "Anna Marie Allen\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "146706",
+  "timestamp": "01:21:35.121",
+  "label": "frame",
+  "ocr_text": "Hailey Stevens Fortner\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "146862",
+  "timestamp": "01:21:40.326",
+  "label": "frame",
+  "ocr_text": "Alyssa Lyn Kaeser\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "147022",
+  "timestamp": "01:21:45.665",
+  "label": "frame",
+  "ocr_text": "Paige Middleton\nMaster of Education",
+  "confidence": "95.80"
+},
+{
+  "index": "147182",
+  "timestamp": "01:21:51.004",
+  "label": "frame",
+  "ocr_text": "LaQueisha Ancira Shynice Dawson\nMaster of Science",
+  "confidence": "93.86"
+},
+{
+  "index": "147371",
+  "timestamp": "01:21:57.310",
+  "label": "frame",
+  "ocr_text": "Kavonte Devon Brown\nMaster of Science",
+  "confidence": "95.17"
+},
+{
+  "index": "147553",
+  "timestamp": "01:22:03.383",
+  "label": "frame",
+  "ocr_text": "Jonas Frederic Chen\nMaster of Science in Electrical and Computer Engineering",
+  "confidence": "95.18"
+},
+{
+  "index": "147720",
+  "timestamp": "01:22:08.955",
+  "label": "frame",
+  "ocr_text": "Nicole Wells Sasser\nMaster of Science in Nursing",
+  "confidence": "96.00"
+},
+{
+  "index": "147884",
+  "timestamp": "01:22:14.427",
+  "label": "frame",
+  "ocr_text": "Teresa Vanessa Aranda\nMaster of Science in Nursing",
+  "confidence": "95.75"
+},
+{
+  "index": "148044",
+  "timestamp": "01:22:19.766",
+  "label": "frame",
+  "ocr_text": "Rebekah Burt Randle\nMaster of Science in Nursing",
+  "confidence": "95.88"
+},
+{
+  "index": "148201",
+  "timestamp": "01:22:25.004",
+  "label": "frame",
+  "ocr_text": "Akira RaChelle Dominique Greene\nMaster of Education",
+  "confidence": "94.86"
+},
+{
+  "index": "148360",
+  "timestamp": "01:22:30.310",
+  "label": "frame",
+  "ocr_text": "Charles David Stahl II\nMaster of Public Administration",
+  "confidence": "90.38"
+},
+{
+  "index": "148530",
+  "timestamp": "01:22:35.982",
+  "label": "frame",
+  "ocr_text": "Kellyann Elizabeth Cruz\nMaster of Education",
+  "confidence": "95.50"
+},
+{
+  "index": "148692",
+  "timestamp": "01:22:41.387",
+  "label": "frame",
+  "ocr_text": "Jenifer Annalee Love\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "149002",
+  "timestamp": "01:22:51.731",
+  "label": "frame",
+  "ocr_text": "Maeve Jillian King\nMaster of Arts",
+  "confidence": "95.00"
+},
+{
+  "index": "149178",
+  "timestamp": "01:22:57.603",
+  "label": "frame",
+  "ocr_text": "Hannah Conover Potter\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "149357",
+  "timestamp": "01:23:03.576",
+  "label": "frame",
+  "ocr_text": "Tchanavia Shaniqua Scott\nMaster of Business Administration",
+  "confidence": "93.57"
+},
+{
+  "index": "149527",
+  "timestamp": "01:23:09.248",
+  "label": "frame",
+  "ocr_text": "Tara Egan Williams\nMaster of Education",
+  "confidence": "96.17"
+},
+{
+  "index": "149674",
+  "timestamp": "01:23:14.153",
+  "label": "frame",
+  "ocr_text": "Victarie Markela Walker\nMaster of Arts in Teaching",
+  "confidence": "94.62"
+},
+{
+  "index": "149821",
+  "timestamp": "01:23:19.058",
+  "label": "frame",
+  "ocr_text": "Kiersten Deleah Brown\nMaster of Arts in Teaching",
+  "confidence": "94.88"
+},
+{
+  "index": "149987",
+  "timestamp": "01:23:24.597",
+  "label": "frame",
+  "ocr_text": "Hao Cai\nMaster of Science",
+  "confidence": "95.60"
+},
+{
+  "index": "150658",
+  "timestamp": "01:23:46.986",
+  "label": "frame",
+  "ocr_text": "Lily Mckena Cohran\nMaster of Science",
+  "confidence": "93.67"
+},
+{
+  "index": "150827",
+  "timestamp": "01:23:52.625",
+  "label": "frame",
+  "ocr_text": "Jackson D. Gilleland\nMaster of Science",
+  "confidence": "94.00"
+},
+{
+  "index": "150992",
+  "timestamp": "01:23:58.131",
+  "label": "frame",
+  "ocr_text": "Spencer Cade Boling\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "151135",
+  "timestamp": "01:24:02.902",
+  "label": "frame",
+  "ocr_text": "Andrew Steven Ashley\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "151513",
+  "timestamp": "01:24:15.515",
+  "label": "frame",
+  "ocr_text": "Kaylee M. Gaunt\nMaster of Arts",
+  "confidence": "94.17"
+},
+{
+  "index": "151694",
+  "timestamp": "01:24:21.554",
+  "label": "frame",
+  "ocr_text": "Diego Torres Urbina\nMaster of Science",
+  "confidence": "96.00"
+},
+{
+  "index": "151878",
+  "timestamp": "01:24:27.693",
+  "label": "frame",
+  "ocr_text": "Libby McKindley\nMaster of Science",
+  "confidence": "94.00"
+},
+{
+  "index": "152126",
+  "timestamp": "01:24:35.968",
+  "label": "frame",
+  "ocr_text": "Morgan Grace Kieffer\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "152297",
+  "timestamp": "01:24:41.674",
+  "label": "frame",
+  "ocr_text": "Jasmine Marquez\nMaster of Science",
+  "confidence": "95.60"
+},
+{
+  "index": "152456",
+  "timestamp": "01:24:46.979",
+  "label": "frame",
+  "ocr_text": "Shantoria Jordan Mcclammy\nMaster of Education",
+  "confidence": "93.00"
+},
+{
+  "index": "152702",
+  "timestamp": "01:24:55.188",
+  "label": "frame",
+  "ocr_text": "Dylan Tim Ihle\nMaster of Science",
+  "confidence": "92.33"
+},
+{
+  "index": "152850",
+  "timestamp": "01:25:00.126",
+  "label": "frame",
+  "ocr_text": "Allison Carrington\nMaster of Arts in Teaching",
+  "confidence": "96.00"
+},
+{
+  "index": "153021",
+  "timestamp": "01:25:05.832",
+  "label": "frame",
+  "ocr_text": "Haley Elizabeth Pearson\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "153200",
+  "timestamp": "01:25:11.804",
+  "label": "frame",
+  "ocr_text": "Hannah Inez Holbrook\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "153366",
+  "timestamp": "01:25:17.343",
+  "label": "frame",
+  "ocr_text": "Benjamin Kyle Page\nMaster of Science in Athletic Training",
+  "confidence": "95.33"
+},
+{
+  "index": "153504",
+  "timestamp": "01:25:21.948",
+  "label": "frame",
+  "ocr_text": "Garrison Aldridge Rose\nMaster of Science in Athletic Training",
+  "confidence": "95.11"
+},
+{
+  "index": "153668",
+  "timestamp": "01:25:27.420",
+  "label": "frame",
+  "ocr_text": "Phenix Chandler Blake Jenkins\nMaster of Science in Athletic Training",
+  "confidence": "95.50"
+},
+{
+  "index": "153834",
+  "timestamp": "01:25:32.959",
+  "label": "frame",
+  "ocr_text": "Brandon Avery Elenbaas\nMaster of Science in Athletic Training",
+  "confidence": "94.00"
+},
+{
+  "index": "153992",
+  "timestamp": "01:25:38.231",
+  "label": "frame",
+  "ocr_text": "Keely Elizabeth Goodloe\nMaster of Science in Athletic Training",
+  "confidence": "95.22"
+},
+{
+  "index": "154146",
+  "timestamp": "01:25:43.369",
+  "label": "frame",
+  "ocr_text": "Madalyn Victoria Ravenscraft\nMaster of Science in Athletic Training",
+  "confidence": "94.33"
+},
+{
+  "index": "154306",
+  "timestamp": "01:25:48.708",
+  "label": "frame",
+  "ocr_text": "Alexandra Socheat Helmers\nMaster of Science in Athletic Training",
+  "confidence": "94.11"
+},
+{
+  "index": "154471",
+  "timestamp": "01:25:54.213",
+  "label": "frame",
+  "ocr_text": "Halle Alexis Cohn\nMaster of Science in Athletic Training",
+  "confidence": "95.44"
+},
+{
+  "index": "154732",
+  "timestamp": "01:26:02.922",
+  "label": "frame",
+  "ocr_text": "Katherine Grace Williamson\nMaster of Science in Athletic Training",
+  "confidence": "95.11"
+},
+{
+  "index": "154943",
+  "timestamp": "01:26:09.962",
+  "label": "frame",
+  "ocr_text": "Kayla Maureen Mitchell\nMaster of Science in Athletic Training",
+  "confidence": "95.89"
+},
+{
+  "index": "155103",
+  "timestamp": "01:26:15.301",
+  "label": "frame",
+  "ocr_text": "Olivia Katherine Welch\nMaster of Science in Athletic Training",
+  "confidence": "95.00"
+},
+{
+  "index": "155258",
+  "timestamp": "01:26:20.473",
+  "label": "frame",
+  "ocr_text": "Miranda Leanna Thompson\nMaster of Science in Athletic Training",
+  "confidence": "95.67"
+},
+{
+  "index": "155426",
+  "timestamp": "01:26:26.078",
+  "label": "frame",
+  "ocr_text": "Jonah Simmons\nMaster of Science in Athletic Training",
+  "confidence": "95.38"
+},
+{
+  "index": "155582",
+  "timestamp": "01:26:31.284",
+  "label": "frame",
+  "ocr_text": "Jordan Camyrn Pearson\nMaster of Science in Athletic Training",
+  "confidence": "94.56"
+},
+{
+  "index": "155745",
+  "timestamp": "01:26:36.722",
+  "label": "frame",
+  "ocr_text": "Laura Lynn Dye Wittenauer\nMaster of Arts in Teaching",
+  "confidence": "93.22"
+},
+{
+  "index": "155924",
+  "timestamp": "01:26:42.695",
+  "label": "frame",
+  "ocr_text": "Chinelo Chidinma Chukwuma\nMaster of Science",
+  "confidence": "93.00"
+},
+{
+  "index": "156104",
+  "timestamp": "01:26:48.701",
+  "label": "frame",
+  "ocr_text": "Dajunia Regina Conley Gore\nMaster of Public Health",
+  "confidence": "94.75"
+},
+{
+  "index": "156275",
+  "timestamp": "01:26:54.407",
+  "label": "frame",
+  "ocr_text": "Melissa Watson Town\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "156460",
+  "timestamp": "01:27:00.580",
+  "label": "frame",
+  "ocr_text": "Abigail Cherie Danielle Wiggins\nMaster of Education",
+  "confidence": "95.29"
+},
+{
+  "index": "156635",
+  "timestamp": "01:27:06.419",
+  "label": "frame",
+  "ocr_text": "Mya Kay Nicholson\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "156813",
+  "timestamp": "01:27:12.358",
+  "label": "frame",
+  "ocr_text": "Kylie Brooke Alt\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "156972",
+  "timestamp": "01:27:17.663",
+  "label": "frame",
+  "ocr_text": "Kristen Elise Kingery Cowart\nMaster of Education",
+  "confidence": "95.86"
+},
+{
+  "index": "157132",
+  "timestamp": "01:27:23.002",
+  "label": "frame",
+  "ocr_text": "Heather Marie Glow\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "157280",
+  "timestamp": "01:27:27.940",
+  "label": "frame",
+  "ocr_text": "Catherine Elise Lamas\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "157436",
+  "timestamp": "01:27:33.145",
+  "label": "frame",
+  "ocr_text": "Mary Miller Kaelin\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "157621",
+  "timestamp": "01:27:39.318",
+  "label": "frame",
+  "ocr_text": "Megan Leighann Cole\nMaster of Science",
+  "confidence": "94.00"
+},
+{
+  "index": "157796",
+  "timestamp": "01:27:45.157",
+  "label": "frame",
+  "ocr_text": "Cameron Nicole Long\nMaster of Science",
+  "confidence": "95.33"
+},
+{
+  "index": "157951",
+  "timestamp": "01:27:50.329",
+  "label": "frame",
+  "ocr_text": "Haley Brooke Wilkes\nMaster of Science",
+  "confidence": "95.50"
+},
+{
+  "index": "158147",
+  "timestamp": "01:27:56.869",
+  "label": "frame",
+  "ocr_text": "Felicia Vanessa Meyme Tilles\nMaster of Science",
+  "confidence": "94.14"
+},
+{
+  "index": "158293",
+  "timestamp": "01:28:01.741",
+  "label": "frame",
+  "ocr_text": "Jessica Noelle Stevens\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "158444",
+  "timestamp": "01:28:06.779",
+  "label": "frame",
+  "ocr_text": "Devon Lewis Dashnaw\nMaster of Science",
+  "confidence": "94.33"
+},
+{
+  "index": "158612",
+  "timestamp": "01:28:12.385",
+  "label": "frame",
+  "ocr_text": "Allison Raye Mulkey\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "158842",
+  "timestamp": "01:28:20.059",
+  "label": "frame",
+  "ocr_text": "Madison Michelle Hooper\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "159019",
+  "timestamp": "01:28:25.965",
+  "label": "frame",
+  "ocr_text": "Andru Mason Matthews\nMaster of Business Administration",
+  "confidence": "95.71"
+},
+{
+  "index": "159160",
+  "timestamp": "01:28:30.670",
+  "label": "frame",
+  "ocr_text": "Kristen Gossett\nMaster of Arts in Teaching",
+  "confidence": "95.86"
+},
+{
+  "index": "159342",
+  "timestamp": "01:28:36.742",
+  "label": "frame",
+  "ocr_text": "Martha Suzanne Hancock\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "159504",
+  "timestamp": "01:28:42.148",
+  "label": "frame",
+  "ocr_text": "Mallory Alexis DuShane\nMaster of Science in Nursing",
+  "confidence": "95.00"
+},
+{
+  "index": "159640",
+  "timestamp": "01:28:46.686",
+  "label": "frame",
+  "ocr_text": "John Corey Norton\nMaster of Science in Nursing",
+  "confidence": "95.88"
+},
+{
+  "index": "159783",
+  "timestamp": "01:28:51.457",
+  "label": "frame",
+  "ocr_text": "Moriah Banks\nMaster of Public Health",
+  "confidence": "95.50"
+},
+{
+  "index": "159936",
+  "timestamp": "01:28:56.562",
+  "label": "frame",
+  "ocr_text": "Renesha Charmaine Ferebee\nMaster of Business Administration",
+  "confidence": "94.43"
+},
+{
+  "index": "160112",
+  "timestamp": "01:29:02.435",
+  "label": "frame",
+  "ocr_text": "Theresa Canady\nMaster of Business Administration",
+  "confidence": "95.67"
+},
+{
+  "index": "160265",
+  "timestamp": "01:29:07.540",
+  "label": "frame",
+  "ocr_text": "Jessica Lee Cameron\nMaster of Business Administration",
+  "confidence": "95.71"
+},
+{
+  "index": "160416",
+  "timestamp": "01:29:12.578",
+  "label": "frame",
+  "ocr_text": "Stephen James Robertson\nMaster of Business Administration",
+  "confidence": "95.86"
+},
+{
+  "index": "160623",
+  "timestamp": "01:29:19.485",
+  "label": "frame",
+  "ocr_text": "Heston Luke Roberts\nMaster of Science in Electrical and Computer Engineering",
+  "confidence": "95.64"
+},
+{
+  "index": "160781",
+  "timestamp": "01:29:24.757",
+  "label": "frame",
+  "ocr_text": "Masi Andrini Tamargo\nMaster of Accounting",
+  "confidence": "92.83"
+},
+{
+  "index": "160937",
+  "timestamp": "01:29:29.962",
+  "label": "frame",
+  "ocr_text": "Connor Paul Braniff\nMaster of Accounting",
+  "confidence": "94.67"
+},
+{
+  "index": "161103",
+  "timestamp": "01:29:35.501",
+  "label": "frame",
+  "ocr_text": "McKinsey Greer Ingle\nMaster of Education",
+  "confidence": "94.33"
+},
+{
+  "index": "161284",
+  "timestamp": "01:29:41.540",
+  "label": "frame",
+  "ocr_text": "Sandry Josephine Kilby\nMaster of Business Administration",
+  "confidence": "95.29"
+},
+{
+  "index": "161456",
+  "timestamp": "01:29:47.279",
+  "label": "frame",
+  "ocr_text": "Promise Ayebapriye Oti-Okardie\nMaster of Arts",
+  "confidence": "93.67"
+},
+{
+  "index": "161713",
+  "timestamp": "01:29:55.855",
+  "label": "frame",
+  "ocr_text": "Oluwadamilola Jadesola Ajayi\nMaster of Arts",
+  "confidence": "93.67"
+},
+{
+  "index": "161888",
+  "timestamp": "01:30:01.694",
+  "label": "frame",
+  "ocr_text": "Deborah Ujeh Osahor\nMaster of Science in Information Technology",
+  "confidence": "94.44"
+},
+{
+  "index": "162067",
+  "timestamp": "01:30:07.666",
+  "label": "frame",
+  "ocr_text": "Susan Wright\nMaster of Accounting",
+  "confidence": "94.80"
+},
+{
+  "index": "162258",
+  "timestamp": "01:30:14.039",
+  "label": "frame",
+  "ocr_text": "Suzanne Michelle Frankum\nMaster of Arts in Teaching",
+  "confidence": "93.00"
+},
+{
+  "index": "162422",
+  "timestamp": "01:30:19.512",
+  "label": "frame",
+  "ocr_text": "Thomas Arthur Boose II\nMaster of Business Administration",
+  "confidence": "93.12"
+},
+{
+  "index": "162578",
+  "timestamp": "01:30:24.717",
+  "label": "frame",
+  "ocr_text": "Madison Lynn Terry\nMaster of Education",
+  "confidence": "95.67"
+},
+{
+  "index": "162762",
+  "timestamp": "01:30:30.856",
+  "label": "frame",
+  "ocr_text": "Dawn Elizabeth Perry\nMaster of Education",
+  "confidence": "94.83"
+},
+{
+  "index": "162894",
+  "timestamp": "01:30:35.261",
+  "label": "frame",
+  "ocr_text": "Jaden Ferrell Hood\nMaster of Science",
+  "confidence": "95.33"
+},
+{
+  "index": "163048",
+  "timestamp": "01:30:40.399",
+  "label": "frame",
+  "ocr_text": "Mandolin Shay Holloway\nMaster of Education",
+  "confidence": "95.50"
+},
+{
+  "index": "163208",
+  "timestamp": "01:30:45.738",
+  "label": "frame",
+  "ocr_text": "Tanner Allen\nMaster of Accounting",
+  "confidence": "95.20"
+},
+{
+  "index": "163356",
+  "timestamp": "01:30:50.676",
+  "label": "frame",
+  "ocr_text": "Evan Micah Wilson\nMaster of Accounting",
+  "confidence": "95.33"
+},
+{
+  "index": "163483",
+  "timestamp": "01:30:54.914",
+  "label": "frame",
+  "ocr_text": "Benjamin Andrew Sikes\nMaster of Science in Nursing",
+  "confidence": "95.88"
+},
+{
+  "index": "163634",
+  "timestamp": "01:30:59.952",
+  "label": "frame",
+  "ocr_text": "Matthew Ragsdale\nMaster of Science",
+  "confidence": "95.40"
+},
+{
+  "index": "163765",
+  "timestamp": "01:31:04.323",
+  "label": "frame",
+  "ocr_text": "Alexander Xavier Omarion D'iant'e Archie\nMaster of Science",
+  "confidence": "93.25"
+},
+{
+  "index": "163909",
+  "timestamp": "01:31:09.128",
+  "label": "frame",
+  "ocr_text": "Cheyenne Nicole Smith\nMaster of Arts in Teaching",
+  "confidence": "95.50"
+},
+{
+  "index": "164054",
+  "timestamp": "01:31:13.966",
+  "label": "frame",
+  "ocr_text": "Guillermo Peralta Lopez\nMaster of Science in Mechanical Engineering",
+  "confidence": "95.33"
+},
+{
+  "index": "164210",
+  "timestamp": "01:31:19.171",
+  "label": "frame",
+  "ocr_text": "Noah Thomas Lancaster\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "164361",
+  "timestamp": "01:31:24.210",
+  "label": "frame",
+  "ocr_text": "John Curtis Lanier\nMaster of Business Administration",
+  "confidence": "95.71"
+},
+{
+  "index": "164486",
+  "timestamp": "01:31:28.380",
+  "label": "frame",
+  "ocr_text": "Humza Khan\nMaster of Science in Mechanical Engineering",
+  "confidence": "94.50"
+},
+{
+  "index": "164692",
+  "timestamp": "01:31:35.254",
+  "label": "frame",
+  "ocr_text": "Kaci Leigh Gammon\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "164852",
+  "timestamp": "01:31:40.593",
+  "label": "frame",
+  "ocr_text": "Alexandria Rene! Bradshaw\nMaster of Science",
+  "confidence": "91.50"
+},
+{
+  "index": "165001",
+  "timestamp": "01:31:45.564",
+  "label": "frame",
+  "ocr_text": "Lindsey Marie Breaux\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "165175",
+  "timestamp": "01:31:51.370",
+  "label": "frame",
+  "ocr_text": "Alayna Mae Cassidy\nMaster of Science",
+  "confidence": "96.00"
+},
+{
+  "index": "165341",
+  "timestamp": "01:31:56.909",
+  "label": "frame",
+  "ocr_text": "Ellie Gigis\nMaster of Science",
+  "confidence": "93.60"
+},
+{
+  "index": "165496",
+  "timestamp": "01:32:02.081",
+  "label": "frame",
+  "ocr_text": "Abbygail Taylor Brooks\nMaster of Science",
+  "confidence": "94.83"
+},
+{
+  "index": "165635",
+  "timestamp": "01:32:06.719",
+  "label": "frame",
+  "ocr_text": "Morgan Reece Hines\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "165782",
+  "timestamp": "01:32:11.624",
+  "label": "frame",
+  "ocr_text": "Maria Isabella Gamez\nMaster of Science",
+  "confidence": "95.33"
+},
+{
+  "index": "165924",
+  "timestamp": "01:32:16.362",
+  "label": "frame",
+  "ocr_text": "Verena Zaisberger\nMaster of Science",
+  "confidence": "93.80"
+},
+{
+  "index": "166086",
+  "timestamp": "01:32:21.767",
+  "label": "frame",
+  "ocr_text": "Elena Carrell Spence\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "166266",
+  "timestamp": "01:32:27.773",
+  "label": "frame",
+  "ocr_text": "Anna-Marie Bathe\nMaster of Science",
+  "confidence": "95.20"
+},
+{
+  "index": "166432",
+  "timestamp": "01:32:33.312",
+  "label": "frame",
+  "ocr_text": "Abigail Paige Gordon\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "166607",
+  "timestamp": "01:32:39.151",
+  "label": "frame",
+  "ocr_text": "Jace Aymond\nMaster of Science",
+  "confidence": "94.00"
+},
+{
+  "index": "166783",
+  "timestamp": "01:32:45.024",
+  "label": "frame",
+  "ocr_text": "Nathan Thomas Ebersole\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "167009",
+  "timestamp": "01:32:52.565",
+  "label": "frame",
+  "ocr_text": "Anna Kopituk\nMaster of Science",
+  "confidence": "93.40"
+},
+{
+  "index": "167161",
+  "timestamp": "01:32:57.636",
+  "label": "frame",
+  "ocr_text": "Courtney Skylar Solomon\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "167315",
+  "timestamp": "01:33:02.775",
+  "label": "frame",
+  "ocr_text": "Brian Andrew Murray\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "167494",
+  "timestamp": "01:33:08.747",
+  "label": "frame",
+  "ocr_text": "Hyrum Preece\nMaster of Science",
+  "confidence": "95.80"
+},
+{
+  "index": "167733",
+  "timestamp": "01:33:16.722",
+  "label": "frame",
+  "ocr_text": "Taylor Owens\nMaster of Arts in Teaching",
+  "confidence": "96.00"
+},
+{
+  "index": "167914",
+  "timestamp": "01:33:22.761",
+  "label": "frame",
+  "ocr_text": "Makayla Nesbitt\nMaster of Accounting",
+  "confidence": "95.80"
+},
+{
+  "index": "168144",
+  "timestamp": "01:33:30.436",
+  "label": "frame",
+  "ocr_text": "David J. Woodworth\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "168356",
+  "timestamp": "01:33:37.509",
+  "label": "frame",
+  "ocr_text": "Lara L. Woodworth\nMaster of Arts in Teaching",
+  "confidence": "93.50"
+},
+{
+  "index": "168530",
+  "timestamp": "01:33:43.315",
+  "label": "frame",
+  "ocr_text": "Zahporrah Eason\nMaster of Public Health",
+  "confidence": "95.33"
+},
+{
+  "index": "168723",
+  "timestamp": "01:33:49.755",
+  "label": "frame",
+  "ocr_text": "Mikayla Renee Gholston\nMaster of Education",
+  "confidence": "94.50"
+},
+{
+  "index": "168898",
+  "timestamp": "01:33:55.594",
+  "label": "frame",
+  "ocr_text": "Chasidy Angelica Jones\nMaster of Education",
+  "confidence": "95.00"
+},
+{
+  "index": "169083",
+  "timestamp": "01:34:01.767",
+  "label": "frame",
+  "ocr_text": "Janaisha Shanice Cooper\nMaster of Arts in Teaching",
+  "confidence": "95.38"
+},
+{
+  "index": "169259",
+  "timestamp": "01:34:07.639",
+  "label": "frame",
+  "ocr_text": "Ololade Quareebat Ogunnaike\nMaster of Science in Nursing",
+  "confidence": "93.62"
+},
+{
+  "index": "169494",
+  "timestamp": "01:34:15.481",
+  "label": "frame",
+  "ocr_text": "Taylor Marie Montgomery\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "169638",
+  "timestamp": "01:34:20.285",
+  "label": "frame",
+  "ocr_text": "Rachel Renae Faranda\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "169824",
+  "timestamp": "01:34:26.492",
+  "label": "frame",
+  "ocr_text": "Cristy Sehr\nMaster of Education",
+  "confidence": "95.80"
+},
+{
+  "index": "169982",
+  "timestamp": "01:34:31.764",
+  "label": "frame",
+  "ocr_text": "Lindsey Ann Turner\nMaster of Arts in Teaching",
+  "confidence": "95.62"
+},
+{
+  "index": "170224",
+  "timestamp": "01:34:39.838",
+  "label": "frame",
+  "ocr_text": "Christopher Michael Nease\nMaster of Science in Nursing",
+  "confidence": "95.00"
+},
+{
+  "index": "170394",
+  "timestamp": "01:34:45.511",
+  "label": "frame",
+  "ocr_text": "Grayce Elizabeth Houchins\nMaster of Arts",
+  "confidence": "92.50"
+},
+{
+  "index": "170598",
+  "timestamp": "01:34:52.317",
+  "label": "frame",
+  "ocr_text": "Ashli Celeste Haynes\nMaster of Arts in Teaching",
+  "confidence": "94.12"
+},
+{
+  "index": "170779",
+  "timestamp": "01:34:58.357",
+  "label": "frame",
+  "ocr_text": "Brandi Amira Shaw\nMaster of Arts in Teaching",
+  "confidence": "95.25"
+},
+{
+  "index": "170977",
+  "timestamp": "01:35:04.963",
+  "label": "frame",
+  "ocr_text": "Candius Miller Harris\nMaster of Arts in Teaching",
+  "confidence": "95.12"
+},
+{
+  "index": "171172",
+  "timestamp": "01:35:11.470",
+  "label": "frame",
+  "ocr_text": "Merri Clair Lewis\nMaster of Accounting",
+  "confidence": "95.50"
+},
+{
+  "index": "171330",
+  "timestamp": "01:35:16.742",
+  "label": "frame",
+  "ocr_text": "Kayla Harville\nMaster of Arts in Teaching",
+  "confidence": "93.86"
+},
+{
+  "index": "171467",
+  "timestamp": "01:35:21.313",
+  "label": "frame",
+  "ocr_text": "Carla Renae Simmons\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "171627",
+  "timestamp": "01:35:26.652",
+  "label": "frame",
+  "ocr_text": "McKenna Marie Mumm\nMaster of Arts in Teaching",
+  "confidence": "95.38"
+},
+{
+  "index": "171821",
+  "timestamp": "01:35:33.125",
+  "label": "frame",
+  "ocr_text": "Tammie Joanne Natho\nMaster of Public Administration",
+  "confidence": "94.86"
+},
+{
+  "index": "171999",
+  "timestamp": "01:35:39.064",
+  "label": "frame",
+  "ocr_text": "Joshua Antonio Brown\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "172184",
+  "timestamp": "01:35:45.237",
+  "label": "frame",
+  "ocr_text": "Rashida Yolanda Daniel Taylor\nMaster of Arts in Teaching",
+  "confidence": "95.89"
+},
+{
+  "index": "172363",
+  "timestamp": "01:35:51.210",
+  "label": "frame",
+  "ocr_text": "Kaylee Rachel Origer\nMaster of Music",
+  "confidence": "94.67"
+},
+{
+  "index": "172518",
+  "timestamp": "01:35:56.381",
+  "label": "frame",
+  "ocr_text": "Emma Jane Lutz\nMaster of Music",
+  "confidence": "95.67"
+},
+{
+  "index": "172674",
+  "timestamp": "01:36:01.587",
+  "label": "frame",
+  "ocr_text": "Anna Marie Gressick\nMaster of Music",
+  "confidence": "94.67"
+},
+{
+  "index": "172817",
+  "timestamp": "01:36:06.358",
+  "label": "frame",
+  "ocr_text": "Jediah Anthony Sabree-Brooks\nMaster of Science in Electrical and Computer Engineering",
+  "confidence": "93.55"
+},
+{
+  "index": "172986",
+  "timestamp": "01:36:11.997",
+  "label": "frame",
+  "ocr_text": "Brian Scott Durden II\nMaster of Arts in Teaching",
+  "confidence": "95.44"
+},
+{
+  "index": "173147",
+  "timestamp": "01:36:17.369",
+  "label": "frame",
+  "ocr_text": "Austin Alexander Ashworth\nMaster of Accounting",
+  "confidence": "93.67"
+},
+{
+  "index": "173272",
+  "timestamp": "01:36:21.540",
+  "label": "frame",
+  "ocr_text": "Lexis Langner Riehl\nMaster of Science in Nursing",
+  "confidence": "94.00"
+},
+{
+  "index": "173434",
+  "timestamp": "01:36:26.945",
+  "label": "frame",
+  "ocr_text": "Kamilya Lashannetta Henderson\nMaster of Arts in Teaching",
+  "confidence": "94.62"
+},
+{
+  "index": "173600",
+  "timestamp": "01:36:32.484",
+  "label": "frame",
+  "ocr_text": "Najaah Tysha Weatherspoon\nMaster of Arts in Teaching",
+  "confidence": "94.00"
+},
+{
+  "index": "173878",
+  "timestamp": "01:36:41.760",
+  "label": "frame",
+  "ocr_text": "Noah Grant Bell\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "174346",
+  "timestamp": "01:36:57.376",
+  "label": "frame",
+  "ocr_text": "Kayla Grace Appiah\nMaster of Education",
+  "confidence": "95.50"
+},
+{
+  "index": "174498",
+  "timestamp": "01:37:02.447",
+  "label": "frame",
+  "ocr_text": "Shemetria Tershon Risper\nMaster of Education",
+  "confidence": "94.00"
+},
+{
+  "index": "174657",
+  "timestamp": "01:37:07.753",
+  "label": "frame",
+  "ocr_text": "Morgan Leigh Ayers\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "174838",
+  "timestamp": "01:37:13.792",
+  "label": "frame",
+  "ocr_text": "Carolina Morgan Jones\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "174973",
+  "timestamp": "01:37:18.297",
+  "label": "frame",
+  "ocr_text": "Kayla Louise Childers\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "175145",
+  "timestamp": "01:37:24.036",
+  "label": "frame",
+  "ocr_text": "Daron Bryant\nMaster of Education",
+  "confidence": "95.80"
+},
+{
+  "index": "175270",
+  "timestamp": "01:37:28.207",
+  "label": "frame",
+  "ocr_text": "Amanda Lucile Ganser\nMaster of Business Administration",
+  "confidence": "94.57"
+},
+{
+  "index": "175437",
+  "timestamp": "01:37:33.779",
+  "label": "frame",
+  "ocr_text": "Matthew Jay Frost\nMaster of Business Administration",
+  "confidence": "95.57"
+},
+{
+  "index": "175585",
+  "timestamp": "01:37:38.717",
+  "label": "frame",
+  "ocr_text": "Megan Lopez\nMaster of Arts in Teaching",
+  "confidence": "95.71"
+},
+{
+  "index": "175789",
+  "timestamp": "01:37:45.524",
+  "label": "frame",
+  "ocr_text": "Danielle Osnoe\nMaster of Education",
+  "confidence": "94.40"
+},
+{
+  "index": "175958",
+  "timestamp": "01:37:51.163",
+  "label": "frame",
+  "ocr_text": "Melissa Renee Hayes\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "176108",
+  "timestamp": "01:37:56.168",
+  "label": "frame",
+  "ocr_text": "Melinawo Korku Vowotor\nMaster of Science in Mechanical Engineering",
+  "confidence": "94.11"
+},
+{
+  "index": "176270",
+  "timestamp": "01:38:01.573",
+  "label": "frame",
+  "ocr_text": "Amiee Teresa Green\nMaster of Education",
+  "confidence": "95.33"
+},
+{
+  "index": "176400",
+  "timestamp": "01:38:05.911",
+  "label": "frame",
+  "ocr_text": "Mary Dufie Afrane\nMaster of Science",
+  "confidence": "93.67"
+},
+{
+  "index": "176551",
+  "timestamp": "01:38:10.949",
+  "label": "frame",
+  "ocr_text": "Rojeena Khadka\nMaster of Science in Information Technology",
+  "confidence": "93.75"
+},
+{
+  "index": "176684",
+  "timestamp": "01:38:15.387",
+  "label": "frame",
+  "ocr_text": "Tyshawnia Nikeysha Tyler\nMaster of Business Administration",
+  "confidence": "94.43"
+},
+{
+  "index": "176855",
+  "timestamp": "01:38:21.093",
+  "label": "frame",
+  "ocr_text": "Marsha Waters\nMaster of Business Administration",
+  "confidence": "95.50"
+},
+{
+  "index": "177023",
+  "timestamp": "01:38:26.698",
+  "label": "frame",
+  "ocr_text": "Jordan Diane Logan\nMaster of Business Administration",
+  "confidence": "95.86"
+},
+{
+  "index": "177184",
+  "timestamp": "01:38:32.070",
+  "label": "frame",
+  "ocr_text": "Reginald Kayne Turner\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "177350",
+  "timestamp": "01:38:37.609",
+  "label": "frame",
+  "ocr_text": "Wilbert Stubbs\nMaster of Arts",
+  "confidence": "94.40"
+},
+{
+  "index": "177528",
+  "timestamp": "01:38:43.548",
+  "label": "frame",
+  "ocr_text": "Erin Elizabeth Rice\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "177841",
+  "timestamp": "01:38:53.992",
+  "label": "frame",
+  "ocr_text": "Brianna Lei Austin-Byler\nMaster of Arts in Teaching",
+  "confidence": "94.88"
+},
+{
+  "index": "178027",
+  "timestamp": "01:39:00.198",
+  "label": "frame",
+  "ocr_text": "Julie Alexandra Ramirez\nMaster of Arts in Teaching",
+  "confidence": "95.38"
+},
+{
+  "index": "178172",
+  "timestamp": "01:39:05.037",
+  "label": "frame",
+  "ocr_text": "Carmella Megan Lane\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "178353",
+  "timestamp": "01:39:11.076",
+  "label": "frame",
+  "ocr_text": "Lashauna Nekel Hill\nMaster of Arts in Teaching",
+  "confidence": "94.88"
+},
+{
+  "index": "178529",
+  "timestamp": "01:39:16.949",
+  "label": "frame",
+  "ocr_text": "Eleanor Danielle Solomon\nMaster of Business Administration",
+  "confidence": "95.71"
+},
+{
+  "index": "178681",
+  "timestamp": "01:39:22.020",
+  "label": "frame",
+  "ocr_text": "Christopher Bryce Cranshaw\nMaster of Healthcare Administration",
+  "confidence": "92.86"
+},
+{
+  "index": "178828",
+  "timestamp": "01:39:26.925",
+  "label": "frame",
+  "ocr_text": "Christina Lynna East\nMaster of Healthcare Administration",
+  "confidence": "92.43"
+},
+{
+  "index": "179038",
+  "timestamp": "01:39:33.932",
+  "label": "frame",
+  "ocr_text": "Sydnie Lancaster\nMaster of Healthcare Administration",
+  "confidence": "92.83"
+},
+{
+  "index": "179218",
+  "timestamp": "01:39:39.938",
+  "label": "frame",
+  "ocr_text": "Stacie Cannon\nMaster of Arts in Teaching",
+  "confidence": "95.43"
+},
+{
+  "index": "179537",
+  "timestamp": "01:39:50.582",
+  "label": "frame",
+  "ocr_text": "Julia Christine Snyder\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "179674",
+  "timestamp": "01:39:55.153",
+  "label": "frame",
+  "ocr_text": "Elizabeth Jo'aria Williams\nMaster of Business Administration",
+  "confidence": "93.14"
+},
+{
+  "index": "179830",
+  "timestamp": "01:40:00.359",
+  "label": "frame",
+  "ocr_text": "Brandi Cameron Luke\nMaster of Business Administration",
+  "confidence": "95.71"
+},
+{
+  "index": "179967",
+  "timestamp": "01:40:04.930",
+  "label": "frame",
+  "ocr_text": "Alayna Eggerton\nMaster of Business Administration",
+  "confidence": "94.50"
+},
+{
+  "index": "180133",
+  "timestamp": "01:40:10.469",
+  "label": "frame",
+  "ocr_text": "Jermetra Shavette Johnson\nMaster of Education",
+  "confidence": "94.33"
+},
+{
+  "index": "180276",
+  "timestamp": "01:40:15.240",
+  "label": "frame",
+  "ocr_text": "Hannah Grace Sweatt\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "180409",
+  "timestamp": "01:40:19.678",
+  "label": "frame",
+  "ocr_text": "Mojoyinola Adeola Adedoyin\nMaster of Science in Information Technology",
+  "confidence": "93.78"
+},
+{
+  "index": "180572",
+  "timestamp": "01:40:25.117",
+  "label": "frame",
+  "ocr_text": "Edward Fox Newcomb\nMaster of Fine Arts",
+  "confidence": "95.43"
+},
+{
+  "index": "180759",
+  "timestamp": "01:40:31.356",
+  "label": "frame",
+  "ocr_text": "Amelia Elizabeth Ricker\nMaster of Education",
+  "confidence": "95.67"
+},
+{
+  "index": "180932",
+  "timestamp": "01:40:37.129",
+  "label": "frame",
+  "ocr_text": "Jaelyn Reese Darley\nMaster of Education",
+  "confidence": "95.17"
+},
+{
+  "index": "181226",
+  "timestamp": "01:40:46.938",
+  "label": "frame",
+  "ocr_text": "Reagan Elizabeth Voelp\nMaster of Accounting",
+  "confidence": "94.83"
+},
+{
+  "index": "181374",
+  "timestamp": "01:40:51.877",
+  "label": "frame",
+  "ocr_text": "Denitria Janay Morrison\nMaster of Arts in Teaching",
+  "confidence": "94.75"
+},
+{
+  "index": "181574",
+  "timestamp": "01:40:58.550",
+  "label": "frame",
+  "ocr_text": "Olabode Samuel Anifowose\nMaster of Science in Mechanical Engineering",
+  "confidence": "94.44"
+},
+{
+  "index": "181717",
+  "timestamp": "01:41:03.321",
+  "label": "frame",
+  "ocr_text": "Kimberly Hunter\nMaster of Arts in Teaching",
+  "confidence": "94.00"
+},
+{
+  "index": "181849",
+  "timestamp": "01:41:07.726",
+  "label": "frame",
+  "ocr_text": "Terissa Alexandra Orr\nMaster of Education",
+  "confidence": "95.17"
+},
+{
+  "index": "181993",
+  "timestamp": "01:41:12.531",
+  "label": "frame",
+  "ocr_text": "Dakota Vhan Touchton\nMaster of Arts in Teaching",
+  "confidence": "94.50"
+},
+{
+  "index": "182146",
+  "timestamp": "01:41:17.636",
+  "label": "frame",
+  "ocr_text": "Danny Tevell Evans\nMaster of Education",
+  "confidence": "94.33"
+},
+{
+  "index": "182359",
+  "timestamp": "01:41:24.743",
+  "label": "frame",
+  "ocr_text": "Robin Brittany Adams\nMaster of Arts in Teaching",
+  "confidence": "95.38"
+},
+{
+  "index": "182491",
+  "timestamp": "01:41:29.147",
+  "label": "frame",
+  "ocr_text": "Raven Laquinceya Thomas\nMaster of Arts in Teaching",
+  "confidence": "94.50"
+},
+{
+  "index": "182689",
+  "timestamp": "01:41:35.754",
+  "label": "frame",
+  "ocr_text": "Larissa Broadway Alderman\nMaster of Business Administration",
+  "confidence": "95.71"
+},
+{
+  "index": "182873",
+  "timestamp": "01:41:41.893",
+  "label": "frame",
+  "ocr_text": "Anish George\nMaster of Business Administration",
+  "confidence": "95.83"
+},
+{
+  "index": "182998",
+  "timestamp": "01:41:46.064",
+  "label": "frame",
+  "ocr_text": "Rashad Laquinton Smith\nMaster of Business Administration",
+  "confidence": "94.57"
+},
+{
+  "index": "183167",
+  "timestamp": "01:41:51.703",
+  "label": "frame",
+  "ocr_text": "Sarah Witter Liebenow\nMaster of Science",
+  "confidence": "94.50"
+},
+{
+  "index": "183341",
+  "timestamp": "01:41:57.509",
+  "label": "frame",
+  "ocr_text": "Leah Rachel Jacobson\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "183593",
+  "timestamp": "01:42:05.917",
+  "label": "frame",
+  "ocr_text": "Abigail Olivia Mannix\nMaster of Arts in Teaching",
+  "confidence": "94.62"
+},
+{
+  "index": "183752",
+  "timestamp": "01:42:11.223",
+  "label": "frame",
+  "ocr_text": "Brittany Danielle Gibbons\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "183910",
+  "timestamp": "01:42:16.495",
+  "label": "frame",
+  "ocr_text": "Elijah Michael Green\nMaster of Music",
+  "confidence": "95.17"
+},
+{
+  "index": "184089",
+  "timestamp": "01:42:22.467",
+  "label": "frame",
+  "ocr_text": "Queshebia Paschell\nMaster of Business Administration",
+  "confidence": "94.33"
+},
+{
+  "index": "184325",
+  "timestamp": "01:42:30.342",
+  "label": "frame",
+  "ocr_text": "Mary Campbell Kelly\nMaster of Science in Nursing",
+  "confidence": "95.62"
+},
+{
+  "index": "184528",
+  "timestamp": "01:42:37.115",
+  "label": "frame",
+  "ocr_text": "Donessa C. Gattis\nMaster of Science in Nursing",
+  "confidence": "94.50"
+},
+{
+  "index": "184696",
+  "timestamp": "01:42:42.721",
+  "label": "frame",
+  "ocr_text": "Jennifer Pollard Boone\nMaster of Science in Nursing",
+  "confidence": "95.75"
+},
+{
+  "index": "184851",
+  "timestamp": "01:42:47.893",
+  "label": "frame",
+  "ocr_text": "Noah James Brack\nMaster of Science in Mechanical Engineering",
+  "confidence": "95.78"
+},
+{
+  "index": "185079",
+  "timestamp": "01:42:55.500",
+  "label": "frame",
+  "ocr_text": "Uyiosa Steve lroghama\nMaster of Science in Electrical and Computer Engineering",
+  "confidence": "88.36"
+},
+{
+  "index": "185233",
+  "timestamp": "01:43:00.639",
+  "label": "frame",
+  "ocr_text": "Mason Scott Durst\nMaster of Business Administration",
+  "confidence": "95.43"
+},
+{
+  "index": "185388",
+  "timestamp": "01:43:05.810",
+  "label": "frame",
+  "ocr_text": "Ashley Tameka Murphy\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "185590",
+  "timestamp": "01:43:12.551",
+  "label": "frame",
+  "ocr_text": "Leilani Chiann Hunt\nMaster of Public Health",
+  "confidence": "94.57"
+},
+{
+  "index": "185748",
+  "timestamp": "01:43:17.822",
+  "label": "frame",
+  "ocr_text": "Fernando Nunez\nMaster of Arts in Teaching",
+  "confidence": "92.43"
+},
+{
+  "index": "185901",
+  "timestamp": "01:43:22.928",
+  "label": "frame",
+  "ocr_text": "Congratulations, Graduate!",
+  "confidence": "96.00"
+},
+{
+  "index": "186046",
+  "timestamp": "01:43:27.766",
+  "label": "frame",
+  "ocr_text": "Christina Marie Mccall\nMaster of Education",
+  "confidence": "95.00"
+},
+{
+  "index": "186328",
+  "timestamp": "01:43:37.175",
+  "label": "frame",
+  "ocr_text": "Alexis Lauren McBurney\nMaster of Science",
+  "confidence": "95.50"
+},
+{
+  "index": "186520",
+  "timestamp": "01:43:43.582",
+  "label": "frame",
+  "ocr_text": "Daniel Oluwafemi Olofin\nMaster of Science",
+  "confidence": "93.67"
+},
+{
+  "index": "186733",
+  "timestamp": "01:43:50.689",
+  "label": "frame",
+  "ocr_text": "Moshood Abiola Garuba\nMaster of Science",
+  "confidence": "93.83"
+},
+{
+  "index": "186879",
+  "timestamp": "01:43:55.560",
+  "label": "frame",
+  "ocr_text": "Ashleigh Stroud\nMaster of Business Administration",
+  "confidence": "95.67"
+},
+{
+  "index": "187009",
+  "timestamp": "01:43:59.898",
+  "label": "frame",
+  "ocr_text": "Amber Denae Fowler\nMaster of Public Health",
+  "confidence": "94.71"
+},
+{
+  "index": "187186",
+  "timestamp": "01:44:05.804",
+  "label": "frame",
+  "ocr_text": "Kaley Hallman\nMaster of Education",
+  "confidence": "95.80"
+},
+{
+  "index": "187351",
+  "timestamp": "01:44:11.309",
+  "label": "frame",
+  "ocr_text": "Courtney Alexis Newton\nMaster of Accounting",
+  "confidence": "96.00"
+},
+{
+  "index": "187513",
+  "timestamp": "01:44:16.715",
+  "label": "frame",
+  "ocr_text": "Cadence Marie Lynn\nMaster of Accounting",
+  "confidence": "95.83"
+},
+{
+  "index": "187720",
+  "timestamp": "01:44:23.622",
+  "label": "frame",
+  "ocr_text": "Jamie Bopp\nMaster of Arts in Teaching",
+  "confidence": "95.43"
+},
+{
+  "index": "187883",
+  "timestamp": "01:44:29.060",
+  "label": "frame",
+  "ocr_text": "Calvin Scott Carter\nMaster of Accounting",
+  "confidence": "96.00"
+},
+{
+  "index": "188031",
+  "timestamp": "01:44:33.999",
+  "label": "frame",
+  "ocr_text": "Malia T. Mann\nMaster of Education",
+  "confidence": "94.33"
+},
+{
+  "index": "188234",
+  "timestamp": "01:44:40.772",
+  "label": "frame",
+  "ocr_text": "Macy Gabrielle Pounds\nMaster of Arts",
+  "confidence": "95.17"
+},
+{
+  "index": "188362",
+  "timestamp": "01:44:45.043",
+  "label": "frame",
+  "ocr_text": "Giacomo Vincent Palazzolo\nMaster of Accounting",
+  "confidence": "94.33"
+},
+{
+  "index": "188548",
+  "timestamp": "01:44:51.249",
+  "label": "frame",
+  "ocr_text": "William A. Gibson I\nMaster of Accounting",
+  "confidence": "90.00"
+},
+{
+  "index": "188689",
+  "timestamp": "01:44:55.954",
+  "label": "frame",
+  "ocr_text": "Bridgett Marshall\nMaster of Arts in Teaching",
+  "confidence": "94.29"
+},
+{
+  "index": "188861",
+  "timestamp": "01:45:01.693",
+  "label": "frame",
+  "ocr_text": "Savannah Elaine Ferrell\nMaster of Education",
+  "confidence": "95.67"
+},
+{
+  "index": "189036",
+  "timestamp": "01:45:07.532",
+  "label": "frame",
+  "ocr_text": "Jessica Zenker\nMaster of Education",
+  "confidence": "95.60"
+},
+{
+  "index": "189190",
+  "timestamp": "01:45:12.671",
+  "label": "frame",
+  "ocr_text": "Emily Marie McNatt\nMaster of Education",
+  "confidence": "94.50"
+},
+{
+  "index": "189402",
+  "timestamp": "01:45:19.744",
+  "label": "frame",
+  "ocr_text": "Harleigh Montana Hussey\nMaster of Business Administration",
+  "confidence": "95.14"
+},
+{
+  "index": "189554",
+  "timestamp": "01:45:24.816",
+  "label": "frame",
+  "ocr_text": "Rachael Alexia Colver\nMaster of Science in Nursing",
+  "confidence": "94.62"
+},
+{
+  "index": "189712",
+  "timestamp": "01:45:30.088",
+  "label": "frame",
+  "ocr_text": "Kyle Andrew Kersey\nMaster of Education",
+  "confidence": "95.50"
+},
+{
+  "index": "189904",
+  "timestamp": "01:45:36.494",
+  "label": "frame",
+  "ocr_text": "Megan Elizabeth Vigneri\nMaster of Education",
+  "confidence": "94.50"
+},
+{
+  "index": "190033",
+  "timestamp": "01:45:40.799",
+  "label": "frame",
+  "ocr_text": "Kandace Crosby\nMaster of Public Health",
+  "confidence": "95.83"
+},
+{
+  "index": "190196",
+  "timestamp": "01:45:46.237",
+  "label": "frame",
+  "ocr_text": "Julianna Victoria Tillman\nMaster of Arts",
+  "confidence": "94.67"
+},
+{
+  "index": "190342",
+  "timestamp": "01:45:51.109",
+  "label": "frame",
+  "ocr_text": "Morayo Joy Akingbelue\nMaster of Arts",
+  "confidence": "93.83"
+},
+{
+  "index": "190503",
+  "timestamp": "01:45:56.481",
+  "label": "frame",
+  "ocr_text": "Susmita Acharjee\nMaster of Science in Civil Engineering",
+  "confidence": "93.62"
+},
+{
+  "index": "190649",
+  "timestamp": "01:46:01.352",
+  "label": "frame",
+  "ocr_text": "Jakia Jaber Tunal\nMaster of Science",
+  "confidence": "94.00"
+},
+{
+  "index": "190789",
+  "timestamp": "01:46:06.024",
+  "label": "frame",
+  "ocr_text": "Altasia M. Phillips\nMaster of Arts in Teaching",
+  "confidence": "94.00"
+},
+{
+  "index": "190975",
+  "timestamp": "01:46:12.230",
+  "label": "frame",
+  "ocr_text": "Caroline Elizabeth Madden\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "191141",
+  "timestamp": "01:46:17.769",
+  "label": "frame",
+  "ocr_text": "Lauren Elizabeth Holt\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "191286",
+  "timestamp": "01:46:22.607",
+  "label": "frame",
+  "ocr_text": "Kellen Matthew White\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "191458",
+  "timestamp": "01:46:28.346",
+  "label": "frame",
+  "ocr_text": "Oluwafunmilayo Aminu\nMaster of Business Administration",
+  "confidence": "94.17"
+},
+{
+  "index": "191607",
+  "timestamp": "01:46:33.318",
+  "label": "frame",
+  "ocr_text": "Denise M. Mister\nMaster of Arts in Teaching",
+  "confidence": "94.75"
+},
+{
+  "index": "191766",
+  "timestamp": "01:46:38.623",
+  "label": "frame",
+  "ocr_text": "Brittany Marie Span\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "192201",
+  "timestamp": "01:46:53.138",
+  "label": "frame",
+  "ocr_text": "Vicki Lea Lincoln\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "192340",
+  "timestamp": "01:46:57.776",
+  "label": "frame",
+  "ocr_text": "Shavauna Harris\nMaster of Arts in Teaching",
+  "confidence": "93.43"
+},
+{
+  "index": "192569",
+  "timestamp": "01:47:05.417",
+  "label": "frame",
+  "ocr_text": "Ashley Jewelle Lynch\nMaster of Science",
+  "confidence": "94.83"
+},
+{
+  "index": "192754",
+  "timestamp": "01:47:11.589",
+  "label": "frame",
+  "ocr_text": "Olivia Victoria Ann Holmes\nMaster of Education",
+  "confidence": "95.71"
+},
+{
+  "index": "192947",
+  "timestamp": "01:47:18.029",
+  "label": "frame",
+  "ocr_text": "Torri Alexandria Jackson\nMaster of Science",
+  "confidence": "95.50"
+},
+{
+  "index": "193116",
+  "timestamp": "01:47:23.668",
+  "label": "frame",
+  "ocr_text": "Amanda Garcia - Mendoza\nMaster of Arts",
+  "confidence": "94.86"
+},
+{
+  "index": "193284",
+  "timestamp": "01:47:29.274",
+  "label": "frame",
+  "ocr_text": "Joshua Randel Davis\nMaster of Accounting",
+  "confidence": "95.50"
+},
+{
+  "index": "193469",
+  "timestamp": "01:47:35.447",
+  "label": "frame",
+  "ocr_text": "Rutledge Gunning Missroon\nMaster of Accounting",
+  "confidence": "94.17"
+},
+{
+  "index": "193840",
+  "timestamp": "01:47:47.826",
+  "label": "frame",
+  "ocr_text": "Lauren Hahn Miller\nMaster of Arts",
+  "confidence": "95.33"
+},
+{
+  "index": "193996",
+  "timestamp": "01:47:53.031",
+  "label": "frame",
+  "ocr_text": "Victoria Laree Turner\nMaster of Arts",
+  "confidence": "93.50"
+},
+{
+  "index": "194147",
+  "timestamp": "01:47:58.069",
+  "label": "frame",
+  "ocr_text": "Ricardo Tori Valdez\nMaster of Accounting",
+  "confidence": "95.83"
+},
+{
+  "index": "194308",
+  "timestamp": "01:48:03.441",
+  "label": "frame",
+  "ocr_text": "Karla Berenice Valles\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "194490",
+  "timestamp": "01:48:09.514",
+  "label": "frame",
+  "ocr_text": "Zion Ameire Smith\nMaster of Science",
+  "confidence": "94.67"
+},
+{
+  "index": "194681",
+  "timestamp": "01:48:15.887",
+  "label": "frame",
+  "ocr_text": "Makenzie Chanelle Bailey\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "194856",
+  "timestamp": "01:48:21.726",
+  "label": "frame",
+  "ocr_text": "Morgan Danyelle Jackson\nMaster of Science",
+  "confidence": "94.33"
+},
+{
+  "index": "195024",
+  "timestamp": "01:48:27.332",
+  "label": "frame",
+  "ocr_text": "Katie Cheek\nMaster of Aris in Teaching",
+  "confidence": "92.29"
+},
+{
+  "index": "195231",
+  "timestamp": "01:48:34.239",
+  "label": "frame",
+  "ocr_text": "Adib Altallal\nMaster of Public Administration",
+  "confidence": "94.33"
+},
+{
+  "index": "195364",
+  "timestamp": "01:48:38.676",
+  "label": "frame",
+  "ocr_text": "Essence Mon'a Johnson\nMaster of Arts in Teaching",
+  "confidence": "92.50"
+},
+{
+  "index": "195519",
+  "timestamp": "01:48:43.848",
+  "label": "frame",
+  "ocr_text": "ShaTerrilyn Thomas\nMaster of Arts in Teaching",
+  "confidence": "94.57"
+},
+{
+  "index": "195712",
+  "timestamp": "01:48:50.288",
+  "label": "frame",
+  "ocr_text": "Umit Ege Cankus\nMaster of Arts",
+  "confidence": "93.83"
+},
+{
+  "index": "195890",
+  "timestamp": "01:48:56.227",
+  "label": "frame",
+  "ocr_text": "Eleanor Hancock Samples\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "196058",
+  "timestamp": "01:49:01.833",
+  "label": "frame",
+  "ocr_text": "Kelli Aikens\nMaster of Education",
+  "confidence": "94.60"
+},
+{
+  "index": "196450",
+  "timestamp": "01:49:14.913",
+  "label": "frame",
+  "ocr_text": "Rebekah Kaye Cole\nMaster of Arts",
+  "confidence": "95.33"
+},
+{
+  "index": "196727",
+  "timestamp": "01:49:24.155",
+  "label": "frame",
+  "ocr_text": "Karen Curl\nMaster of Business Administration",
+  "confidence": "95.67"
+},
+{
+  "index": "196896",
+  "timestamp": "01:49:29.794",
+  "label": "frame",
+  "ocr_text": "Madison Jo Kathleen Stefan\nMaster of Arts",
+  "confidence": "95.29"
+},
+{
+  "index": "197047",
+  "timestamp": "01:49:34.832",
+  "label": "frame",
+  "ocr_text": "Ana Iris Flores\nMaster of Arts",
+  "confidence": "95.00"
+},
+{
+  "index": "197230",
+  "timestamp": "01:49:40.939",
+  "label": "frame",
+  "ocr_text": "Charles Min Woo\nMaster of Science",
+  "confidence": "95.33"
+},
+{
+  "index": "197391",
+  "timestamp": "01:49:46.311",
+  "label": "frame",
+  "ocr_text": "Nicholas Lee Sewing\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "197569",
+  "timestamp": "01:49:52.250",
+  "label": "frame",
+  "ocr_text": "Brandi Monroe Stanberry\nMaster of Arts in Teaching",
+  "confidence": "94.75"
+},
+{
+  "index": "197763",
+  "timestamp": "01:49:58.723",
+  "label": "frame",
+  "ocr_text": "Ashleigh Cribbs\nMaster of Arts in Teaching",
+  "confidence": "95.71"
+},
+{
+  "index": "197919",
+  "timestamp": "01:50:03.928",
+  "label": "frame",
+  "ocr_text": "Amber Joan Guillen\nMaster of Education",
+  "confidence": "95.67"
+},
+{
+  "index": "198104",
+  "timestamp": "01:50:10.101",
+  "label": "frame",
+  "ocr_text": "Quinn Marie Swidorski\nMaster of Education",
+  "confidence": "94.83"
+},
+{
+  "index": "198259",
+  "timestamp": "01:50:15.273",
+  "label": "frame",
+  "ocr_text": "Eliza Anne Engle\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "198674",
+  "timestamp": "01:50:29.120",
+  "label": "frame",
+  "ocr_text": "Sierra Cherese Griszell-James\nMaster of Accounting",
+  "confidence": "93.83"
+},
+{
+  "index": "198860",
+  "timestamp": "01:50:35.326",
+  "label": "frame",
+  "ocr_text": "Sarah Kate Yokley\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "199022",
+  "timestamp": "01:50:40.732",
+  "label": "frame",
+  "ocr_text": "Joshua Osasenaga Osaghae\nMaster of Science in Applied Physical Science",
+  "confidence": "94.40"
+},
+{
+  "index": "199208",
+  "timestamp": "01:50:46.938",
+  "label": "frame",
+  "ocr_text": "Gloria Anne Moore-Clanton\nMaster of Arts in Teaching",
+  "confidence": "94.62"
+},
+{
+  "index": "199389",
+  "timestamp": "01:50:52.977",
+  "label": "frame",
+  "ocr_text": "Jada Ivery\nMaster of Business Administration",
+  "confidence": "94.17"
+},
+{
+  "index": "199574",
+  "timestamp": "01:50:59.150",
+  "label": "frame",
+  "ocr_text": "Courtney Fuller\nMaster of Science in Nursing",
+  "confidence": "96.00"
+},
+{
+  "index": "199720",
+  "timestamp": "01:51:04.022",
+  "label": "frame",
+  "ocr_text": "Sarah Beth Negron\nMaster of Science in Nursing",
+  "confidence": "96.00"
+},
+{
+  "index": "199860",
+  "timestamp": "01:51:08.693",
+  "label": "frame",
+  "ocr_text": "Sarah Alexis Batenko\nMaster of Science",
+  "confidence": "94.83"
+},
+{
+  "index": "200065",
+  "timestamp": "01:51:15.533",
+  "label": "frame",
+  "ocr_text": "Serenity Mylasia Brooks\nMaster of Accounting",
+  "confidence": "94.50"
+},
+{
+  "index": "200246",
+  "timestamp": "01:51:21.572",
+  "label": "frame",
+  "ocr_text": "Amanda Susan Borzello\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "200436",
+  "timestamp": "01:51:27.912",
+  "label": "frame",
+  "ocr_text": "Dieusila Tassy\nMaster of Education",
+  "confidence": "94.40"
+},
+{
+  "index": "200624",
+  "timestamp": "01:51:34.185",
+  "label": "frame",
+  "ocr_text": "Alyssa Gabrielle Love-Archey\nMaster of Public Health",
+  "confidence": "94.57"
+},
+{
+  "index": "200801",
+  "timestamp": "01:51:40.091",
+  "label": "frame",
+  "ocr_text": "Kaylin Janae Berry\nMaster of Public Health",
+  "confidence": "95.14"
+},
+{
+  "index": "200962",
+  "timestamp": "01:51:45.463",
+  "label": "frame",
+  "ocr_text": "Briana Jean MacGillivray\nMaster of Arts in Teaching",
+  "confidence": "92.50"
+},
+{
+  "index": "201088",
+  "timestamp": "01:51:49.667",
+  "label": "frame",
+  "ocr_text": "Joanna Elisabeth Atkins\nMaster of Arts in Teaching",
+  "confidence": "95.62"
+},
+{
+  "index": "201262",
+  "timestamp": "01:51:55.473",
+  "label": "frame",
+  "ocr_text": "Isaiah John Philipp\nMaster of Arts",
+  "confidence": "94.67"
+},
+{
+  "index": "201449",
+  "timestamp": "01:52:01.712",
+  "label": "frame",
+  "ocr_text": "Diego Alejandro Escobar Giraldo\nMaster of Music",
+  "confidence": "91.00"
+},
+{
+  "index": "201622",
+  "timestamp": "01:52:07.485",
+  "label": "frame",
+  "ocr_text": "Trinity Rachelle Wright\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "201807",
+  "timestamp": "01:52:13.658",
+  "label": "frame",
+  "ocr_text": "Oliver Lew Pettes\nMaster of Science",
+  "confidence": "94.83"
+},
+{
+  "index": "202016",
+  "timestamp": "01:52:20.631",
+  "label": "frame",
+  "ocr_text": "Classy Monae Hall\nMaster of Education",
+  "confidence": "95.50"
+},
+{
+  "index": "202164",
+  "timestamp": "01:52:25.570",
+  "label": "frame",
+  "ocr_text": "Seth Alexander Williams\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "202331",
+  "timestamp": "01:52:31.142",
+  "label": "frame",
+  "ocr_text": "Imani Michelle Williams\nMaster of Education",
+  "confidence": "95.67"
+},
+{
+  "index": "202488",
+  "timestamp": "01:52:36.380",
+  "label": "frame",
+  "ocr_text": "Chlo\u00e9 D. Brown\nMaster of Education",
+  "confidence": "91.50"
+},
+{
+  "index": "202672",
+  "timestamp": "01:52:42.520",
+  "label": "frame",
+  "ocr_text": "Nia Nicole Miles\nMaster of Public Health",
+  "confidence": "95.57"
+},
+{
+  "index": "202836",
+  "timestamp": "01:52:47.992",
+  "label": "frame",
+  "ocr_text": "Ivey Diane Joyner\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "202974",
+  "timestamp": "01:52:52.597",
+  "label": "frame",
+  "ocr_text": "Matthew Brandon Mitchell\nMaster of Accounting",
+  "confidence": "95.50"
+},
+{
+  "index": "203149",
+  "timestamp": "01:52:58.436",
+  "label": "frame",
+  "ocr_text": "Teddie Vesselin Kapsamounov\nMaster of Business Administration",
+  "confidence": "93.29"
+},
+{
+  "index": "203323",
+  "timestamp": "01:53:04.242",
+  "label": "frame",
+  "ocr_text": "Briana Murray Igou\nMaster of Business Administration",
+  "confidence": "94.57"
+},
+{
+  "index": "203489",
+  "timestamp": "01:53:09.780",
+  "label": "frame",
+  "ocr_text": "Taylor Voisine\nMaster of Public Health",
+  "confidence": "94.83"
+},
+{
+  "index": "203647",
+  "timestamp": "01:53:15.052",
+  "label": "frame",
+  "ocr_text": "Joy Parks Miraglia\nMaster of Arts in Teaching",
+  "confidence": "92.62"
+},
+{
+  "index": "203812",
+  "timestamp": "01:53:20.558",
+  "label": "frame",
+  "ocr_text": "Leah Elizabeth Palmer\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "203976",
+  "timestamp": "01:53:26.030",
+  "label": "frame",
+  "ocr_text": "D'Kissy Charleen Bristow\nMaster of Business Administration",
+  "confidence": "95.29"
+},
+{
+  "index": "204146",
+  "timestamp": "01:53:31.702",
+  "label": "frame",
+  "ocr_text": "D'Erica Evans\nMaster of Business Administration",
+  "confidence": "95.17"
+},
+{
+  "index": "204367",
+  "timestamp": "01:53:39.076",
+  "label": "frame",
+  "ocr_text": "Kareem Eugene Clarke\nMaster of Business Administration",
+  "confidence": "95.86"
+},
+{
+  "index": "204527",
+  "timestamp": "01:53:44.415",
+  "label": "frame",
+  "ocr_text": "Jared Henry Delagrange\nMaster of Arts in Teaching",
+  "confidence": "95.00"
+},
+{
+  "index": "204713",
+  "timestamp": "01:53:50.621",
+  "label": "frame",
+  "ocr_text": "Noah Victor Delagrange\nMaster of Science",
+  "confidence": "94.83"
+},
+{
+  "index": "204867",
+  "timestamp": "01:53:55.760",
+  "label": "frame",
+  "ocr_text": "Joshua Vendee Merriweather\nMaster of Public Administration",
+  "confidence": "94.86"
+},
+{
+  "index": "205022",
+  "timestamp": "01:54:00.932",
+  "label": "frame",
+  "ocr_text": "Mitchell Austin Moore\nMaster of Business Administration",
+  "confidence": "95.71"
+},
+{
+  "index": "205190",
+  "timestamp": "01:54:06.537",
+  "label": "frame",
+  "ocr_text": "Brandon Pledger\nMaster of Business Administration",
+  "confidence": "95.83"
+},
+{
+  "index": "205339",
+  "timestamp": "01:54:11.509",
+  "label": "frame",
+  "ocr_text": "Temitope Damilola Elijah\nMaster of Sci\u00e9nce in Information Technology",
+  "confidence": "92.56"
+},
+{
+  "index": "205523",
+  "timestamp": "01:54:17.648",
+  "label": "frame",
+  "ocr_text": "Esther Titilayo Omoyiwola\nMaster of Science in Electrical and Computer Engineering",
+  "confidence": "94.27"
+},
+{
+  "index": "205710",
+  "timestamp": "01:54:23.888",
+  "label": "frame",
+  "ocr_text": "Ashley Nicole Cordell\nMaster of Arts in Teaching",
+  "confidence": "95.50"
+},
+{
+  "index": "205875",
+  "timestamp": "01:54:29.393",
+  "label": "frame",
+  "ocr_text": "Jade Chiara Burney\nMaster of Education",
+  "confidence": "95.50"
+},
+{
+  "index": "206050",
+  "timestamp": "01:54:35.233",
+  "label": "frame",
+  "ocr_text": "Rachel Diane Simmons\nMaster of Business Administration",
+  "confidence": "95.86"
+},
+{
+  "index": "206202",
+  "timestamp": "01:54:40.304",
+  "label": "frame",
+  "ocr_text": "Alexis LeeAnn Braddy\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "206349",
+  "timestamp": "01:54:45.209",
+  "label": "frame",
+  "ocr_text": "Daniel Milacak\nMaster of Science",
+  "confidence": "93.80"
+},
+{
+  "index": "206503",
+  "timestamp": "01:54:50.348",
+  "label": "frame",
+  "ocr_text": "Senia Octavia Moore\nMaster of Public Health",
+  "confidence": "95.14"
+},
+{
+  "index": "206687",
+  "timestamp": "01:54:56.487",
+  "label": "frame",
+  "ocr_text": "Azharul Islam\nMaster of Science in Civil Engineering",
+  "confidence": "95.12"
+},
+{
+  "index": "206856",
+  "timestamp": "01:55:02.126",
+  "label": "frame",
+  "ocr_text": "Moshiur Rahman Tushar\nMaster of Science in Civil Engineering",
+  "confidence": "94.11"
+},
+{
+  "index": "207009",
+  "timestamp": "01:55:07.231",
+  "label": "frame",
+  "ocr_text": "Dawn Merrell\nMaster of Public Administration",
+  "confidence": "96.00"
+},
+{
+  "index": "207173",
+  "timestamp": "01:55:12.703",
+  "label": "frame",
+  "ocr_text": "Takiah Beaver\nMaster of Science in Nursing",
+  "confidence": "95.29"
+},
+{
+  "index": "207326",
+  "timestamp": "01:55:17.808",
+  "label": "frame",
+  "ocr_text": "Tiffany Lynn Harbin\nMaster of Science in Nursing",
+  "confidence": "92.88"
+},
+{
+  "index": "207470",
+  "timestamp": "01:55:22.613",
+  "label": "frame",
+  "ocr_text": "Renata Bass\nMaster of Science in Nursing",
+  "confidence": "95.00"
+},
+{
+  "index": "207638",
+  "timestamp": "01:55:28.219",
+  "label": "frame",
+  "ocr_text": "Karissa Leigh Hackett\nMaster of Science in Nursing",
+  "confidence": "96.00"
+},
+{
+  "index": "207806",
+  "timestamp": "01:55:33.824",
+  "label": "frame",
+  "ocr_text": "Jessi May Kimbrough\nMaster of Science in Nursing",
+  "confidence": "95.50"
+},
+{
+  "index": "207961",
+  "timestamp": "01:55:38.996",
+  "label": "frame",
+  "ocr_text": "Cynthia Monroid\nMaster of Arts in Teaching",
+  "confidence": "94.71"
+},
+{
+  "index": "208085",
+  "timestamp": "01:55:43.134",
+  "label": "frame",
+  "ocr_text": "Mary Abbigail Rowe\nMaster of Arts in Teaching",
+  "confidence": "95.00"
+},
+{
+  "index": "208260",
+  "timestamp": "01:55:48.973",
+  "label": "frame",
+  "ocr_text": "Telitita Burley\nMaster of Education",
+  "confidence": "95.20"
+},
+{
+  "index": "208432",
+  "timestamp": "01:55:54.712",
+  "label": "frame",
+  "ocr_text": "India Denise Newton\nMaster of Education",
+  "confidence": "95.50"
+},
+{
+  "index": "208646",
+  "timestamp": "01:56:01.852",
+  "label": "frame",
+  "ocr_text": "Marissa Kate Ragsdale\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "208820",
+  "timestamp": "01:56:07.658",
+  "label": "frame",
+  "ocr_text": "Michael Jake Bentley\nMaster of Public Administration",
+  "confidence": "96.00"
+},
+{
+  "index": "208966",
+  "timestamp": "01:56:12.530",
+  "label": "frame",
+  "ocr_text": "Mary DeLoach\nMaster of Public Administration",
+  "confidence": "94.50"
+},
+{
+  "index": "209112",
+  "timestamp": "01:56:17.401",
+  "label": "frame",
+  "ocr_text": "Walter Raleigh Robinson III\nMaster of Science",
+  "confidence": "92.00"
+},
+{
+  "index": "209287",
+  "timestamp": "01:56:23.240",
+  "label": "frame",
+  "ocr_text": "Madeline Anna Banks\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "209435",
+  "timestamp": "01:56:28.179",
+  "label": "frame",
+  "ocr_text": "Davis Grace Churchwell\nMaster of Arts in Teaching",
+  "confidence": "95.75"
+},
+{
+  "index": "209635",
+  "timestamp": "01:56:34.852",
+  "label": "frame",
+  "ocr_text": "Ryan Connor Gray\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "209782",
+  "timestamp": "01:56:39.757",
+  "label": "frame",
+  "ocr_text": "Emily Shae Barnard\nMaster of Science",
+  "confidence": "95.83"
+},
+{
+  "index": "210314",
+  "timestamp": "01:56:57.508",
+  "label": "frame",
+  "ocr_text": "Courtney Brooke Cubbedge\nMaster of Science",
+  "confidence": "94.50"
+},
+{
+  "index": "210452",
+  "timestamp": "01:57:02.113",
+  "label": "frame",
+  "ocr_text": "Sophia Anna Kapusinski-Russo\nMaster of Science",
+  "confidence": "94.17"
+},
+{
+  "index": "210595",
+  "timestamp": "01:57:06.884",
+  "label": "frame",
+  "ocr_text": "Amanda Brooke Brandmire\nMaster of Science",
+  "confidence": "94.50"
+},
+{
+  "index": "210761",
+  "timestamp": "01:57:12.423",
+  "label": "frame",
+  "ocr_text": "Hannah Hanlon\nMaster of Business Administration",
+  "confidence": "95.83"
+},
+{
+  "index": "211438",
+  "timestamp": "01:57:35.012",
+  "label": "frame",
+  "ocr_text": "Janaba Duvia Saaka\nMaster of Arts in Teaching",
+  "confidence": "94.25"
+},
+{
+  "index": "211612",
+  "timestamp": "01:57:40.818",
+  "label": "frame",
+  "ocr_text": "Destinee Anadia Marbley\nMaster of Science",
+  "confidence": "93.50"
+},
+{
+  "index": "211796",
+  "timestamp": "01:57:46.957",
+  "label": "frame",
+  "ocr_text": "Mark Niblett\nMaster of Accounting",
+  "confidence": "95.60"
+},
+{
+  "index": "211936",
+  "timestamp": "01:57:51.629",
+  "label": "frame",
+  "ocr_text": "Nicodemus Gabriel Xavier Banks",
+  "confidence": "96.00"
+},
+{
+  "index": "212070",
+  "timestamp": "01:57:56.100",
+  "label": "frame",
+  "ocr_text": "Nasya lyanna Gilbert\nMaster of Education",
+  "confidence": "92.50"
+},
+{
+  "index": "212218",
+  "timestamp": "01:58:01.038",
+  "label": "frame",
+  "ocr_text": "Diana Bello Fox\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "212364",
+  "timestamp": "01:58:05.910",
+  "label": "frame",
+  "ocr_text": "Jeffrey Thomas Detweiler\nMaster of Accounting",
+  "confidence": "94.67"
+},
+{
+  "index": "212546",
+  "timestamp": "01:58:11.982",
+  "label": "frame",
+  "ocr_text": "Angela Dawn Kiker\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "212711",
+  "timestamp": "01:58:17.488",
+  "label": "frame",
+  "ocr_text": "Joshua Paul Kiker\nMaster of Science",
+  "confidence": "95.67"
+},
+{
+  "index": "212880",
+  "timestamp": "01:58:23.127",
+  "label": "frame",
+  "ocr_text": "Kimberly Mae Hill\nMaster of Accounting",
+  "confidence": "96.00"
+},
+{
+  "index": "213034",
+  "timestamp": "01:58:28.265",
+  "label": "frame",
+  "ocr_text": "Luke Carter Davis Johnson\nMaster of Arts in Teaching",
+  "confidence": "95.44"
+},
+{
+  "index": "213203",
+  "timestamp": "01:58:33.904",
+  "label": "frame",
+  "ocr_text": "Isabel Ptacek\nMaster of Arts",
+  "confidence": "93.80"
+},
+{
+  "index": "213415",
+  "timestamp": "01:58:40.978",
+  "label": "frame",
+  "ocr_text": "Tayden B. Berry\nMaster of Science in Electrical and Computer Engineering",
+  "confidence": "94.18"
+},
+{
+  "index": "213598",
+  "timestamp": "01:58:47.084",
+  "label": "frame",
+  "ocr_text": "Courtney Lyn Sullivan\nMaster of Public Health",
+  "confidence": "96.00"
+},
+{
+  "index": "213759",
+  "timestamp": "01:58:52.456",
+  "label": "frame",
+  "ocr_text": "T'yunna W. Smith\nMaster of Arts",
+  "confidence": "93.50"
+},
+{
+  "index": "213918",
+  "timestamp": "01:58:57.761",
+  "label": "frame",
+  "ocr_text": "Jaelen Nikol Polk\nMaster of Business Administration",
+  "confidence": "94.29"
+},
+{
+  "index": "214101",
+  "timestamp": "01:59:03.868",
+  "label": "frame",
+  "ocr_text": "Joshua Kendrick Jones\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "214271",
+  "timestamp": "01:59:09.540",
+  "label": "frame",
+  "ocr_text": "Breanna Nicole Pye\nMaster of Science in Nursing",
+  "confidence": "95.88"
+},
+{
+  "index": "214423",
+  "timestamp": "01:59:14.612",
+  "label": "frame",
+  "ocr_text": "Ci'Erra Tyeshia Mance\nMaster of Education",
+  "confidence": "93.00"
+},
+{
+  "index": "214600",
+  "timestamp": "01:59:20.518",
+  "label": "frame",
+  "ocr_text": "Allison Kristine Sheppard\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "214770",
+  "timestamp": "01:59:26.190",
+  "label": "frame",
+  "ocr_text": "Bella Vey Kronenberg\nMaster of Arts in Teaching",
+  "confidence": "94.50"
+},
+{
+  "index": "214911",
+  "timestamp": "01:59:30.895",
+  "label": "frame",
+  "ocr_text": "Moses Ezikel Green III\nMaster of Education",
+  "confidence": "94.57"
+},
+{
+  "index": "215091",
+  "timestamp": "01:59:36.901",
+  "label": "frame",
+  "ocr_text": "Jaylee Chyanne Williams\nMaster of Education",
+  "confidence": "94.50"
+},
+{
+  "index": "215244",
+  "timestamp": "01:59:42.006",
+  "label": "frame",
+  "ocr_text": "Courtney Williams\nMaster of Arts in Teaching",
+  "confidence": "95.43"
+},
+{
+  "index": "215393",
+  "timestamp": "01:59:46.977",
+  "label": "frame",
+  "ocr_text": "Yolanda Sherell Canady\nMaster of Business Administration",
+  "confidence": "94.71"
+},
+{
+  "index": "215599",
+  "timestamp": "01:59:53.851",
+  "label": "frame",
+  "ocr_text": "Kelliaun Veronica Hall\nMaster of Science",
+  "confidence": "95.33"
+},
+{
+  "index": "215756",
+  "timestamp": "01:59:59.089",
+  "label": "frame",
+  "ocr_text": "Elizabeth Dajia Rose Cody\nMaster of Science",
+  "confidence": "94.86"
+},
+{
+  "index": "215955",
+  "timestamp": "02:00:05.729",
+  "label": "frame",
+  "ocr_text": "Sarah Kay Byrd\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "216107",
+  "timestamp": "02:00:10.801",
+  "label": "frame",
+  "ocr_text": "Desjane Smith\nMaster of Public Health",
+  "confidence": "94.83"
+},
+{
+  "index": "216274",
+  "timestamp": "02:00:16.373",
+  "label": "frame",
+  "ocr_text": "Jakafus Smith, Jr.\nMaster of Business Administration",
+  "confidence": "95.29"
+},
+{
+  "index": "216445",
+  "timestamp": "02:00:22.079",
+  "label": "frame",
+  "ocr_text": "Skyya Mia LaShay Bacon\nMaster of Arts",
+  "confidence": "93.57"
+},
+{
+  "index": "216595",
+  "timestamp": "02:00:27.084",
+  "label": "frame",
+  "ocr_text": "Maria C. Ingram\nMaster of Public Health",
+  "confidence": "93.57"
+},
+{
+  "index": "216778",
+  "timestamp": "02:00:33.190",
+  "label": "frame",
+  "ocr_text": "Trelawny H. Francis\nMaster of Education",
+  "confidence": "94.67"
+},
+{
+  "index": "216932",
+  "timestamp": "02:00:38.329",
+  "label": "frame",
+  "ocr_text": "Anna Karina Folds\nMaster of Business Administration",
+  "confidence": "95.86"
+},
+{
+  "index": "217085",
+  "timestamp": "02:00:43.434",
+  "label": "frame",
+  "ocr_text": "Lynnsey Grace Eckler Mastenbrook\nMaster of Science",
+  "confidence": "93.29"
+},
+{
+  "index": "217288",
+  "timestamp": "02:00:50.207",
+  "label": "frame",
+  "ocr_text": "Abigayle Lindsey Sheldon\nMaster of Science",
+  "confidence": "94.50"
+},
+{
+  "index": "217431",
+  "timestamp": "02:00:54.979",
+  "label": "frame",
+  "ocr_text": "Tieshia Copeland\nMaster of Education",
+  "confidence": "94.80"
+},
+{
+  "index": "217604",
+  "timestamp": "02:01:00.751",
+  "label": "frame",
+  "ocr_text": "Valerie Musto\nMaster of Science",
+  "confidence": "96.00"
+},
+{
+  "index": "217755",
+  "timestamp": "02:01:05.789",
+  "label": "frame",
+  "ocr_text": "Chinedu Chidi Nwachukwu\nMaster of Science in Information Technology",
+  "confidence": "94.22"
+},
+{
+  "index": "217919",
+  "timestamp": "02:01:11.261",
+  "label": "frame",
+  "ocr_text": "Dieudonne Mwela Tshiamala\nMaster of Science",
+  "confidence": "93.67"
+},
+{
+  "index": "218067",
+  "timestamp": "02:01:16.200",
+  "label": "frame",
+  "ocr_text": "Kennedy Briku\nMaster of Arts",
+  "confidence": "94.00"
+},
+{
+  "index": "218230",
+  "timestamp": "02:01:21.639",
+  "label": "frame",
+  "ocr_text": "Taylor Corvette Miles\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "218434",
+  "timestamp": "02:01:28.445",
+  "label": "frame",
+  "ocr_text": "Abdulrazaq Mamud\nMaster of Science in information Technology",
+  "confidence": "94.12"
+},
+{
+  "index": "218617",
+  "timestamp": "02:01:34.551",
+  "label": "frame",
+  "ocr_text": "Patrah Anima Frimpong\nMaster of Arts",
+  "confidence": "93.17"
+},
+{
+  "index": "218750",
+  "timestamp": "02:01:38.989",
+  "label": "frame",
+  "ocr_text": "Kerem Dogan\nMaster of Science",
+  "confidence": "95.80"
+},
+{
+  "index": "218889",
+  "timestamp": "02:01:43.627",
+  "label": "frame",
+  "ocr_text": "Audrey Elizabeth Popard\nMaster of Arts",
+  "confidence": "93.83"
+},
+{
+  "index": "219037",
+  "timestamp": "02:01:48.565",
+  "label": "frame",
+  "ocr_text": "Melissa Heredia-Chegue\nMaster of Education",
+  "confidence": "94.40"
+},
+{
+  "index": "219182",
+  "timestamp": "02:01:53.404",
+  "label": "frame",
+  "ocr_text": "Muhammad Saad\nMaster of Science in Mechanical Engineering",
+  "confidence": "96.00"
+},
+{
+  "index": "219324",
+  "timestamp": "02:01:58.142",
+  "label": "frame",
+  "ocr_text": "Aundreya Simone James\nMaster of Science",
+  "confidence": "95.17"
+},
+{
+  "index": "219496",
+  "timestamp": "02:02:03.881",
+  "label": "frame",
+  "ocr_text": "LaDaniel Ann Jefferson\nMaster of Healthcare Administration",
+  "confidence": "92.71"
+},
+{
+  "index": "219675",
+  "timestamp": "02:02:09.853",
+  "label": "frame",
+  "ocr_text": "Teyonya Narcissus Jefferson\nMaster of Public Health",
+  "confidence": "95.00"
+},
+{
+  "index": "219840",
+  "timestamp": "02:02:15.359",
+  "label": "frame",
+  "ocr_text": "Bre Nicole Adams\nMaster of Arts in Teaching",
+  "confidence": "95.88"
+},
+{
+  "index": "220010",
+  "timestamp": "02:02:21.031",
+  "label": "frame",
+  "ocr_text": "Kwabena Boama Owusu\nMaster of Healthcare Administration",
+  "confidence": "93.14"
+},
+{
+  "index": "220237",
+  "timestamp": "02:02:28.605",
+  "label": "frame",
+  "ocr_text": "Marchelle Imogene Fletcher\nMaster of Arts in Teaching",
+  "confidence": "91.50"
+},
+{
+  "index": "220431",
+  "timestamp": "02:02:35.079",
+  "label": "frame",
+  "ocr_text": "Chasmia Denise Hill\nMaster of Education",
+  "confidence": "95.17"
+},
+{
+  "index": "220615",
+  "timestamp": "02:02:41.218",
+  "label": "frame",
+  "ocr_text": "Lord Coffie\nMaster of Science in Information Technology",
+  "confidence": "95.00"
+},
+{
+  "index": "220809",
+  "timestamp": "02:02:47.691",
+  "label": "frame",
+  "ocr_text": "Deidre Nelson\nMaster of Arts in Teaching",
+  "confidence": "94.86"
+},
+{
+  "index": "220987",
+  "timestamp": "02:02:53.630",
+  "label": "frame",
+  "ocr_text": "Mercedes Lanay Caldwell\nMaster of Science",
+  "confidence": "94.67"
+},
+{
+  "index": "221184",
+  "timestamp": "02:03:00.204",
+  "label": "frame",
+  "ocr_text": "Brittany Jean Espie\nMaster of Science",
+  "confidence": "93.83"
+},
+{
+  "index": "221382",
+  "timestamp": "02:03:06.810",
+  "label": "frame",
+  "ocr_text": "Amanda Carol McCrory\nMaster of Education",
+  "confidence": "95.33"
+},
+{
+  "index": "221534",
+  "timestamp": "02:03:11.882",
+  "label": "frame",
+  "ocr_text": "Manisha Chowdhury\nMaster of Arts in Teaching",
+  "confidence": "95.71"
+},
+{
+  "index": "221701",
+  "timestamp": "02:03:17.454",
+  "label": "frame",
+  "ocr_text": "Francesca Jefferson\nMaster of Education",
+  "confidence": "95.80"
+},
+{
+  "index": "221851",
+  "timestamp": "02:03:22.459",
+  "label": "frame",
+  "ocr_text": "Suzanne Samford Tatum\nMaster of Education",
+  "confidence": "96.00"
+},
+{
+  "index": "222017",
+  "timestamp": "02:03:27.998",
+  "label": "frame",
+  "ocr_text": "Destiny Marlinda Hartwell\nMaster of Science",
+  "confidence": "94.67"
+},
+{
+  "index": "222180",
+  "timestamp": "02:03:33.437",
+  "label": "frame",
+  "ocr_text": "Miah Yasima Monae Jones\nMaster of Science",
+  "confidence": "94.57"
+},
+{
+  "index": "222325",
+  "timestamp": "02:03:38.275",
+  "label": "frame",
+  "ocr_text": "Noah Michael Riley\nMaster of Science in Nursing",
+  "confidence": "95.75"
+},
+{
+  "index": "222523",
+  "timestamp": "02:03:44.882",
+  "label": "frame",
+  "ocr_text": "Chauntilena Ty\u2019Reasha Butler\nMaster of Education",
+  "confidence": "94.00"
+},
+{
+  "index": "222678",
+  "timestamp": "02:03:50.053",
+  "label": "frame",
+  "ocr_text": "Jacob Owusu Gakpo\nMaster of Public Health",
+  "confidence": "94.00"
+},
+{
+  "index": "222953",
+  "timestamp": "02:03:59.229",
+  "label": "frame",
+  "ocr_text": "Padde Musa\nMaster of Public Health",
+  "confidence": "95.00"
+},
+{
+  "index": "223171",
+  "timestamp": "02:04:06.503",
+  "label": "frame",
+  "ocr_text": "Jobayed H Badhan\nMaster of Science in Civil Engineering",
+  "confidence": "92.00"
+},
+{
+  "index": "223408",
+  "timestamp": "02:04:14.411",
+  "label": "frame",
+  "ocr_text": "Shaveta Foreman\nMaster of Arts in Teaching",
+  "confidence": "94.29"
+},
+{
+  "index": "223591",
+  "timestamp": "02:04:20.517",
+  "label": "frame",
+  "ocr_text": "Oluwafemi Temitope Ogungbenle\nMaster of Business Administration",
+  "confidence": "91.71"
+},
+{
+  "index": "223817",
+  "timestamp": "02:04:28.058",
+  "label": "frame",
+  "ocr_text": "Demia Alexus White\nMaster of Healthcare Administration",
+  "confidence": "95.14"
+},
+{
+  "index": "223991",
+  "timestamp": "02:04:33.864",
+  "label": "frame",
+  "ocr_text": "Melvin Ekene Ajuluchukwu\nMaster of Science in Information Technology",
+  "confidence": "94.33"
+},
+{
+  "index": "224176",
+  "timestamp": "02:04:40.037",
+  "label": "frame",
+  "ocr_text": "Muhili Keulere Abdullahi\nMaster of Science in Mechanical Engineering",
+  "confidence": "94.56"
+},
+{
+  "index": "224341",
+  "timestamp": "02:04:45.542",
+  "label": "frame",
+  "ocr_text": "Emmanuella Ogun\nMaster of Science in Mechanical Engineering",
+  "confidence": "95.12"
+},
+{
+  "index": "224510",
+  "timestamp": "02:04:51.181",
+  "label": "frame",
+  "ocr_text": "Jasmyne Alexius Williams\nMaster of Science in Nursing",
+  "confidence": "94.62"
+},
+{
+  "index": "224695",
+  "timestamp": "02:04:57.354",
+  "label": "frame",
+  "ocr_text": "Lina Alrefaei\nMaster of Public Health",
+  "confidence": "94.67"
+},
+{
+  "index": "224843",
+  "timestamp": "02:05:02.292",
+  "label": "frame",
+  "ocr_text": "Madison Elizabeth Blanding\nMaster of Education",
+  "confidence": "95.83"
+},
+{
+  "index": "225151",
+  "timestamp": "02:05:12.569",
+  "label": "frame",
+  "ocr_text": "ShaRonda DeVera Battle\nMaster of Arts in Teaching",
+  "confidence": "92.25"
+},
+{
+  "index": "225345",
+  "timestamp": "02:05:19.042",
+  "label": "frame",
+  "ocr_text": "Abdullah Al Fahim\nMaster of Science in Mechanical Engineering",
+  "confidence": "95.11"
+},
+{
+  "index": "225500",
+  "timestamp": "02:05:24.214",
+  "label": "frame",
+  "ocr_text": "Felecia Arenae McCollum\nMaster of Arts in Teaching",
+  "confidence": "94.75"
+},
+{
+  "index": "225674",
+  "timestamp": "02:05:30.020",
+  "label": "frame",
+  "ocr_text": "Muhammad Mutahir\nMaster of Science in Civil Engineering",
+  "confidence": "94.38"
+},
+{
+  "index": "225846",
+  "timestamp": "02:05:35.759",
+  "label": "frame",
+  "ocr_text": "a\n.\n,",
+  "confidence": "12.00"
+}
+]

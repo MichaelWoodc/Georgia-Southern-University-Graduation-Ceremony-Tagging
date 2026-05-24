@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Their Moment on Stage</title>
+    <style>
+        body { font-family: sans-serif; background: #f0f2f5; padding: 20px; }
+        .container { max-width: 900px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #1a73e8; text-align: center; }
+        .search-box { width: 100%; padding: 12px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 4px; font-size: 16px; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background: #1a73e8; color: white; }
+        .btn { display: inline-block; padding: 5px 10px; background: #1a73e8; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; }
+        .btn:hover { background: #0c56c0; }
+    </style>
+</head>
+<body>
+        <h1 style="text-align: center;">Undergraduate Ceremony - May 11, 2026 Jack and Ruth Ann Hill Convocation Center</h1>
+
+    <div class="container">
+        <h1>Their Moment on Stage</h1>
+
+        <input type="text" id="searchInput" class="search-box" placeholder="Search for a name..." onkeyup="filterTable()">
+
+        <table id="resultsTable">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Time</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody id="resultsBody">
+                <!-- Filled by JS -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        let data = [];
+
+        fetch("./ocr_results.json")
+            .then(response => response.json())
+            .then(json => {
+                data = json;
+                renderTable();
+            })
+            .catch(err => console.error("Failed to load JSON:", err));
+
+        function renderTable() {
+            const tbody = document.getElementById("resultsBody");
+            tbody.innerHTML = "";
+
+            data.forEach(row => {
+                // Ignore empty text
+                if (!row.text || row.text.trim() === "") return;
+
+                const seconds = timestampToSeconds(row.timestamp);
+                const yt = `https://www.youtube.com/watch?v=jeOgaN_5EJA&t=${seconds}s`;
+
+                const tr = document.createElement("tr");
+                tr.innerHTML = `
+                    <td>${row.text}</td>
+                    <td>${row.timestamp}</td>
+                    <td><a class="btn" href="${yt}" target="_blank">View Clip</a></td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        function timestampToSeconds(ts) {
+            const [h, m, s] = ts.split(":");
+            return Math.floor(+h * 3600 + +m * 60 + parseFloat(s));
+        }
+
+        function filterTable() {
+            const filter = document.getElementById("searchInput").value.toUpperCase();
+            const tr = document.getElementById("resultsTable").getElementsByTagName("tr");
+
+            for (let i = 1; i < tr.length; i++) {
+                const td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    const txt = td.textContent || td.innerText;
+                    tr[i].style.display = txt.toUpperCase().includes(filter) ? "" : "none";
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>
